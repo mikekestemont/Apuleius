@@ -1,0 +1,3 @@
+IRLoops	1
+RandomSetFreq	1.01
+

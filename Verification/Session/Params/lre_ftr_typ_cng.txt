@@ -1,0 +1,10 @@
+CaseSensitiveFeature	1
+ConsiderPunctuations	all
+GetFeatureByWindow	SingleWord
+MinWindowLength	50
+MinWindowWords	3
+NameKeyLength	1000
+NGramFactor	<CNG>
+UseContentWords	0
+UseWordsNgrams	0
+WriterIdLength	1000

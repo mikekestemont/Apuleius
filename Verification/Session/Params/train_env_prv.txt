@@ -1,0 +1,5 @@
+TrainFolder	/home/yaronw/MSc/Thesis/Corpora/Blogs/SIG/Blogs/<SET>Set/PairDecoy/
+TrainScriptFile	train_script.txt
+TrainSubFolders	PAIRDECOY;Text
+WebTextFolder	/home/yaronw/MSc/Thesis/Corpora/Web/<RawHTML>/Text/
+

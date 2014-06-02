@@ -1,0 +1,49 @@
+Debug_Log	/home/yw/MSc/Thesis/Session/Logs/debug_xml.txt
+HtmlEndLineTokens	br,li,p
+HtmlMinLineLength	45
+HtmlMinTextRate	0.15
+HtmlNonTextTokens	
+MaxAmpLinesToWait	10
+MaxBrkLinesToWait	250
+HtmlReplaceTokens	&amp;:&,&apos;:',&quot;:",&nbsp;::,&gt;:>
+ReportInterval	10000
+TextFile	<TFILE>.txt
+XMLDataFolder	/home/yw/MSc/Thesis/Corpora/Web/Wikipedia/
+XMLFile	<XFILE>.xml
+XMLTextTokens	text
+TrainSubFolders	FOLDERS:test/Text/Begin,FOLDERS:test/Text/End,FOLDER:Wikipedia/Text
+
+
+# Tokenizer:
+
+#!/bin/bash
+
+wsk/bin/WSKProgs ../Session/Params/Tokenizer.txt Tokenization SMPL=dev PART=Begin
+wsk/bin/WSKProgs ../Session/Params/Tokenizer.txt Tokenization SMPL=dev PART=End
+wsk/bin/WSKProgs ../Session/Params/Tokenizer.txt Tokenization SMPL=test PART=Begin
+wsk/bin/WSKProgs ../Session/Params/Tokenizer.txt Tokenization SMPL=test PART=End
+
+# HTMLStripper:
+
+#!/bin/bash
+
+#lre/bin/LREProgs ../Session/Params/WebToDecoys.txt HTMLStripper SMPL=dev
+lre/bin/LREProgs ../Session/Params/WebToDecoys.txt HTMLStripper SMPL=test
+
+# NGramsExtractor:
+
+#!/bin/bash
+
+#wsk/bin/WSKProgs ../Session/Params/Statistics.txt ExtractNGrams typ=raw CNTXT=bgrm WinSz=2 FWI=-1 FWT=* TKNF=all
+#wsk/bin/WSKProgs ../Session/Params/Statistics.txt ExtractNGrams typ=context CNTXT=w_p WinSz=2 FWI=1 FWT=* TKNF=all
+#wsk/bin/WSKProgs ../Session/Params/Statistics.txt ExtractNGrams typ=context CNTXT=w_w_p WinSz=3 FWI=2 FWT=* TKNF=all
+#wsk/bin/WSKProgs ../Session/Params/Statistics.txt ExtractNGrams typ=context CNTXT=w_p_w WinSz=3 FWI=1 FWT=* TKNF=all
+#wsk/bin/WSKProgs ../Session/Params/Statistics.txt ExtractNGrams typ=context CNTXT=p_w WinSz=2 FWI=0 FWT=* TKNF=all
+#wsk/bin/WSKProgs ../Session/Params/Statistics.txt ExtractNGrams typ=context CNTXT=p_w_w WinSz=3 FWI=0 FWT=* TKNF=all
+
+wsk/bin/WSKProgs ../Session/Params/Statistics.txt MergeContexts typ=mrg CNTXT=w_p FWT=_* NGRM=ungrm
+wsk/bin/WSKProgs ../Session/Params/Statistics.txt MergeContexts typ=mrg CNTXT=p_w FWT=*_ NGRM=ungrm
+wsk/bin/WSKProgs ../Session/Params/Statistics.txt MergeContexts typ=mrg CNTXT=w_w_p FWT=_* NGRM=bgrm
+wsk/bin/WSKProgs ../Session/Params/Statistics.txt MergeContexts typ=mrg CNTXT=w_p_w FWT=_* NGRM=bgrm
+wsk/bin/WSKProgs ../Session/Params/Statistics.txt MergeContexts typ=mrg CNTXT=p_w_w FWT=*_ NGRM=bgrm
+

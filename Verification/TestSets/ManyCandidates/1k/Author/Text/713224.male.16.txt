@@ -1,0 +1,42 @@
+i made yet another image   YAY!
+check the image I made   pretty neat, huh?
+urlLink     what f***** version of hello kittie are you?     brought to you by  urlLink Quizilla
+urlLink     The Ultimate *Which Harry Potter Character are You?* Quiz     brought to you by  urlLink Quizilla
+urlLink     What box do you get put in?     brought to you by  urlLink Quizilla
+urlLink    You are an Avril hater! You loathe and despise Avril. As a true punk, you really hate Avril for being "a poser".  urlLink   !!! What are your true feelings towards Avril Lavigne? !!!     brought to you by  urlLink Quizilla
+haha!:  urlLink you don't jack!
+98 national percentials on my SSATs!!! I am smarter (in english and math) than 98% of kids in my grade in the nation!!! I is so happy!
+awesome game. very similar to super monkey ball.  urlLink snowglobe
+urlLink     Which Sesame Street Muppet's Dark Secret Are You?     brought to you by  urlLink Quizilla
+urlLink     How can I label you?     brought to you by  urlLink Quizilla
+urlLink Which Colossal Death Robot Are  You ?
+People in your company think you are unreal, they are hallucinating. You are creativly inspiring aswell as you make people delirious and delusional. You make time appear distorted, colours appear brighter, sounds more sharper and things seem to change shape. Sometimes people are frightened by you and get scared of everything. You mess people up, one minute they could be laughing the next they are sobbing. Sometimes you disress people so much they try to commit suicide. When people have spent alot of time with you, they get a 'flashback', they could be on a train comming home from work and suddenly start mocking the bloke next to them who appears to have grown a long hairy snout like a rat.    urlLink Find Out If You Were A Drug, What You Would Be!    quiz by  urlLink ravenritings
+urlLink What kind of drunk are  you ?
+Take the  urlLink What Should Your New Year's Resolution Be?  Quiz
+urlLink     What Psych-Ward do you belong to?
+I am 76% lazy There are 11% lazzier There are 86% less lazier
+urlLink     I'm the badass burgundy patent Doc Marten...  I'm cool as hell, I'm deep,  and maybe a little dark   urlLink Which Doc Marten are you?  (by  urlLink *coffeebean* )
+I am  Mario .   I like to jump around, and would lead a fairly serene and aimless existence if it weren't for my friends always getting into trouble. I love to help out, even when it puts me at risk. I seem to make friends with people who just can't stay out of trouble.  What Video Game Character Are You?
+urlLink      You are not a writer. Maybe you should take up some other field--like photography or painting or such? Cuz it seems you really weren't meant for the literary world..... ...Oh well. C'est la vie, right? We all have our weak points. Maybe writing's yours, eh?  urlLink What's YOUR Writing Style?     brought to you by  urlLink Quizilla
+Holy Shit! I am so oldschool that Mr. T pitys me!  urlLink 		>are you oldschool??
+href="http://www.subjugated.netfirms.com/ personality.htm" target="blank">  src="http://www.subjugated.netfirms.com/gir.JPG" border="0" width="88" height="31">  Take the Invader Zim Personality Quiz!
+urlLink     what color chucks are you?     brought to you by  urlLink Quizilla
+urlLink     urlLink The Band Quiz  By  urlLink Rahel  wow. thats really cool. I actually play trombone... freaky!
+Incredable... so cool. light sabers are so very possible. and this article is all about it. here:  urlLink The Lightsaber
+I'm makin' a comeback baby!
+hahaha! lol!
+netscape... tis now my official browser... so much faster, betterlooking. aim, mail, popup blocker, and much more... all built in.
+I am worth exactly: $2,354,262.00 according to  urlLink human for sale .
+urlLink gates gets creamed! (not in a violent sense)  thank god for linux and mac users' ferverous hatred towards bill gates...
+urlLink  giving to charity is easy!
+urlLink who has this much money to spend...  If someone weren't so greedy, then... DAMN! he could make, like, 3 third world countries into first world countries.... Only in america...
+urlLink research your ebay items before you list on ebay!  very cool and very advanced. -how much to list for -where to list -should you feature? -and much more!
+A new blogger script that I wrote so that I could have a "read" counter on each of my posts. I'm not gunna use it.  "#counter by David Tansley modified for blogger by Jon Bettinger of jonbetter.com # function to increment counter using a file function counter() { $counter_file =  "hit- .txt"; if (file_exists($counter_file)) { $file_op = fopen($counter_file, "r+"); flock($file_op,2); $count = fgets($file_op,4); $count++; rewind($file_op); fputs($file_op,$count,4); flock($file_op,3); fclose($file_op); echo "$count"; } else # file does not exist so create a new one { $file_op = fopen($counter_file, "w"); $count =  "1"; flock($file_op,2); fputs($file_op,$count,4); flock($file_op,3); fclose($file_op); echo $count; } } " it automatically creates the counter file for you, so no need to create a new one every time you post. horay!
+"I'm a cat lover too! Maybe sometime we could exchange recipes".
+urlLink haha . its a banner for the brunching shuttlecocks book of ratings. Read all of the quotes and were they came from. hehehe.
+In memory of Dr. Martin Luther King Jr. (1929-1968)
+Finally! Someone had picked apart the  urlLink myths of gaming  and proven the top 6 wrong. The most controversal: 2 or 3.
+[This mad posting spree is, sadly, over.] (2hrs and about 26 posts later.)
+I also watched, like, 3 and a half hours worth of that WWE tough enough show. It was alright. Frankly, I don't think that I am tough enough.
+you can go  urlLink here  to the "made" website, and for a limited time view the trailer of thier episode. (scroll down to videos).
+I was witching MTV today, which I never actually watch, but there was this cool show called made. Its were people have a dream and MTV forks out loads of cash to help them fulfill it. I could just go on and say I wanted to be a bloody millionare, and theyed give me a million dollars. But back on subject... They had a band on there called "The Sly Caps". and here is thier site:  urlLink The Sly Caps . Most of the pictures there are from the MTV special, too. I was impressed to find thier website, and s

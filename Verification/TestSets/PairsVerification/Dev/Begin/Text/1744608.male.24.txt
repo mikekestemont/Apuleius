@@ -1,0 +1,21 @@
+urlLink    Captured at Bashang,Hebei Province,China&nbsp; urlLink
+urlLink    Before the library of Peking University with two of my best friends and classmates.&nbsp; urlLink
+urlLink    I am blogging a sery of myself during the last days of my being in Peking University&nbsp; urlLink
+urlLink    Coach Plane, EURO 2004&nbsp; urlLink
+urlLink    F-22, USA&nbsp; urlLink
+urlLink    I love this mm, just as i love money.&nbsp; urlLink
+urlLink    Lin Zhi Lin(TaiWan,China) - A perfect art created by God.&nbsp; urlLink
+urlLink    I like to be the man in the picture - Maybe i will be a  happy peasant when i becomes old.&nbsp; urlLink
+urlLink    A sea of fogs and light - Captured in YunNan Province,China&nbsp; urlLink
+urlLink    Another Killer&nbsp; urlLink
+urlLink    Film Killer!!!&nbsp; urlLink
+urlLink    Life is amazing.&nbsp; urlLink
+urlLink    Whose left-hand is it? :-)&nbsp; urlLink
+urlLink WKB4J : "WKB4J is a Java library designed to read the Well-Known Binary format from a data source (usually a database like Postgis ) and transform this data into corresponding Java objects. It supports several different GIS toolkits (JTS, PostGIS, OpenMap...). The Well-Known Binary format (WKB) and the Well-Known Textual format (WKT) are defined by the defined by the OpenGIS consortium . The goal of this consortium is to propose interoperability between GIS applications."
+urlLink New Scientist -- Photo recognition software gives location  : "Roberto Cipolla and Duncan Robertson have developed a program that can match a photograph of a building to a database of images. The database contains a three-dimensional representation of the real-life street, so the software can work out where the user is standing to within one metre. "
+You know, you can't be so particular. Nobody's perfect.
+urlLink MapInfo Unveils Location Intelligence .Net Platform : "MapInfo Corporation (Nasdaq: MAPS) today introduced MapXtreme? 2004, the next generation of its location-based technology platform. Built on Microsoft? .NET, MapXtreme 2004 enables users to develop custom mapping applications that can be deployed both on the desktop and the Web using the same core engine. MapXtreme 2004 provides an unprecedented level of new functionality, including an open architecture that supports IT and industry standards, the ability to develop and deploy more robust applications, and complete integration with the .NET development environment. "
+urlLink shp2svg: : "an open source solution for publishing arcview shapefiles with attributes to the web. based on html, SVG, javascript, php and mysql database. supports interactivity and filtering."
+urlLink GeoNetwork OpenSource homepage : "A Spatial data metadata portal website that implements the International Standard for Geographic Metadata (ISO19115) and (very soon!) the OpenGIS Web Catalog Service standard for distributed database search. Using the application, you can quickly set up a metadata portal that allows online maintenance of metadata and data for internal use on an intranet and/ or publication on the internet."
+urlLink InformationWeek > Databases > IBM Unveils Final Beta Version Of Flagship Database > May 3, 2004 : "IBM on Monday debuted the final beta version of the next major release of its DB2 Universal Database, which sports self-managing capabilities, extended Linux support, and geospatial technology inherited through IBM's 2001 Informix Corp. acquisition. "
+urlLink GIS Functions Interpolation : "A brief review of interpolation methods is given with emphasis to the applicability of the particular m

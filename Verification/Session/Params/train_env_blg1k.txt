@@ -1,0 +1,3 @@
+TrainFolder	TestSets\PairsVerification\<SMPL>\
+TrainScriptFile	train_script.txt
+TrainSubFolders	Begin\Text,End\Text,Decoy\Text

@@ -1,0 +1,21 @@
+This past Thursday Google has released its IPO. "In the filing, Google said that it generated revenues of $961.9 million in 2003 and reported a net profit of $106.5 million. Sales rose 177 percent from a year ago although earnings increased by just 6 percent."
+My first post! :P
+I do love pizza...and now it can be ordered by command line by the help of  urlLink this  nifty program.
+Mmmmmmmmmmmm.....pizza :P
+Leo Laporte has just said "all the employees of TechTV have been given 60 days notice. The San Francisco operation will be shuttered by July. 100 of the existing jobs will be posted for those willing to relocate to LA."  urlLink Click here for all of it!
+Very Bad News....
+[Update]: C|net story  urlLink here.
+[Update]: Sign the petition to save the cast and crew of TechTV, go  urlLink here  to sign!
+urlLink CoolTechZone  reports today that AMD released new low-power Athlon 64 processors aimed at the light-weight laptop market. These low voltage chips will need smaller batteries and produce less heat. Also, Acer will be the first notebook maker to adopt these chips into it's Ferrari line notebooks.
+urlLink Build 4074  was leaked late last night! I'm currently in queue in mIRC to get it. From what I've seen there are more tiles for the sidebar and a new theme Jade.
+Sasser took down all of Britian's Coast Guards computer systems, raising doubts about the reliability of Microsoft's software on critical systems.  urlLink Read more here.
+The next OS for Microsoft, Codenamed: Longhorn will be very demanding of hardware. "Microsoft is expected to recommend that the "average" Longhorn PC feature a dual-core CPU running at 4 to 6GHz; a minimum of 2 gigs of RAM; up to a terabyte of storage; a 1 Gbit, built-in, Ethernet-wired port and an 802.11g wireless link; and a graphics processor that runs three times faster than those on the market today."-quoted from  urlLink Microsoft-Watch.com
+Sony's new online music store debuted today to compete with Apple's iTunes, Napster and Walmart's music store.   urlLink Check it out.
+Apple has announced OS 10.4 "Tiger", which will preview at Apple’s Worldwide Developers Conference 2004 in San Fransisco, California, which begins on June 28 and ends July 2.
+urlLink Click here to see the announcement
+The newest threat to computers as of this past friday is Sasser, you DO NOT have to open an email attachment whatsoever, it scans all IP's of vulenerable computers on the internet.
+How to remove Sasser  urlLink Go here.
+And to patch the hole in Windows, the Microsoft Seecurity Bulletin is  urlLink Here.
+This new release of Thunderbird sports the new Pinstripe theme for those OS X users out there and uses improved spam controls.  urlLink Download it Now!
+"For the low, low price of $199, you too can be one of the lucky testers of Googles new Gmail service. Just Ebay It! This CNet News story has the details." Bill Walsh adds "The account for hackers@gmail.com is asking 200 dollars! Is it a good idea to buy anything that's in beta? Couldn't Google just wipe out all of the beta accounts when the service starts up?" -Slashdot
+Couldn't people just wait t

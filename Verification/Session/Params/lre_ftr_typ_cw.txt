@@ -1,0 +1,4 @@
+CaseSensitiveFeature	0
+NGramFactor	0
+UseContentWords	1
+

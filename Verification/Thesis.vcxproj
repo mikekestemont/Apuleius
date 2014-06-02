@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\class\auxiliary.h" />
+    <ClInclude Include="src\class\DataFuncs.h" />
+    <ClInclude Include="src\class\FeatureSet.h" />
+    <ClInclude Include="src\class\FeaturesHandler.h" />
+    <ClInclude Include="src\class\FileScanner.h" />
+    <ClInclude Include="src\class\FolderScanner.h" />
+    <ClInclude Include="src\class\LRE.h" />
+    <ClInclude Include="src\class\LREAuxBuffer.h" />
+    <ClInclude Include="src\class\LREProgs.h" />
+    <ClInclude Include="src\class\LREThreadBuffer.h" />
+    <ClInclude Include="src\class\MLAuxFuncs.h" />
+    <ClInclude Include="src\class\PairClassifier.h" />
+    <ClInclude Include="src\class\ResourceBox.h" />
+    <ClInclude Include="src\class\SimilarityMeasure.h" />
+    <ClInclude Include="src\class\ThesisAux.h" />
+    <ClInclude Include="src\class\Timer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\appl\BlogToIRScript.cpp" />
+    <ClCompile Include="src\appl\BlogToPairsScript.cpp" />
+    <ClCompile Include="src\appl\ClassifyPairs.cpp" />
+    <ClCompile Include="src\appl\ExtractFeatures.cpp" />
+    <ClCompile Include="src\appl\LRE.cpp" />
+    <ClCompile Include="src\appl\LREProgs.cpp" />
+    <ClCompile Include="src\appl\MergeFtrsVecs.cpp" />
+    <ClCompile Include="src\appl\PlainSimClassifier.cpp" />
+    <ClCompile Include="src\appl\RandomClassifier.cpp" />
+    <ClCompile Include="src\appl\SimilarClassifier.cpp" />
+    <ClCompile Include="src\appl\TextToFeatures.cpp" />
+    <ClCompile Include="src\appl\WebClassifier.cpp" />
+    <ClCompile Include="src\class\auxiliary.cpp" />
+    <ClCompile Include="src\class\DataFuncs.cpp" />
+    <ClCompile Include="src\class\FeatureSet.cpp" />
+    <ClCompile Include="src\class\FeaturesHandler.cpp" />
+    <ClCompile Include="src\class\FileScanner.cpp" />
+    <ClCompile Include="src\class\FolderScanner.cpp" />
+    <ClCompile Include="src\class\LREAuxBuffer.cpp" />
+    <ClCompile Include="src\class\MLAuxFuncs.cpp" />
+    <ClCompile Include="src\class\PairClassifier.cpp" />
+    <ClCompile Include="src\class\ResourceBox.cpp" />
+    <ClCompile Include="src\class\SimilarityMeasure.cpp" />
+    <ClCompile Include="src\class\ThesisAux.cpp" />
+    <ClCompile Include="src\class\Timer.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{97B197C7-5507-44DF-B387-1E6A2CA3C999}</ProjectGuid>
+    <RootNamespace>Thesis</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.\release\bin\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IntDir>.\release\obj\</IntDir>
+    <ReferencePath>.\src\class;.\src\appl;$(VCInstallDir)atlmfc\lib;$(VCInstallDir)lib</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>.\debug\bin\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IntDir>.\debug\obj\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>.\src\class\;.\src\appl\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>src\class;src\appl;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

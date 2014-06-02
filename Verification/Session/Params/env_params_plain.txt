@@ -1,0 +1,14 @@
+DecoyFile	blg_decoy.txt
+DecoyFolder	Decoy
+DecoysType	PlainSimilarity
+FeatureDocsFloor	2
+FeatureSetFile	BlogsPool.txt
+FeatureSetSize	315000
+MaxRawSimRange	-7.0
+MinFreqToDocsDiff	0
+MinRawSimRange	-15.0
+SamplesList	Begin,End,Decoy
+ScriptsList	all.txt,all.txt,blg_decoy.txt
+SimilarDecoyFolder	SelDecoy
+StartNameIndex	0
+

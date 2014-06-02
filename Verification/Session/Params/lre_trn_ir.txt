@@ -1,0 +1,4 @@
+TrainFolder	/home/yaronw/MSc/Thesis/Corpora/Blogs/IR/<WN>/<CN>/Author/
+TrainScriptFile	train_script.txt
+TrainSubFolders	Text
+

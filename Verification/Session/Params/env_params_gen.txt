@@ -1,0 +1,12 @@
+DecoyFile	decoys.txt
+DecoyFolder	Decoy
+DecoysType	RandomDecoys
+FeatureDocsFloor	0
+FeatureSetFile	FeaturePool.txt
+FeatureSetSize	315000
+MinFreqToDocsDiff	0
+SamplesList	Begin,End,Decoy
+ScriptsList	all.txt,all.txt,decoys.txt
+SimilarDecoyFolder	SelBlgDcy
+StartNameIndex	0
+

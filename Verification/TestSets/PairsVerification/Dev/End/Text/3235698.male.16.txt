@@ -1,0 +1,26 @@
+computers based in the US (cracking some of them but also use worms, viruses) in order to steal private documents. Some samples of documents and codes are available on the web site, although they don't seem to be secret at all and possible to find by using search engines."
+urlLink PearPC , a PPC emulator for x86 machines can install Mac OS 10.3 on your PC, of course there are performance hits, it takes about 5 hours to run the first install CD running on an AMD Athlon XP 1600+ with 512MB of RAM.
+urlLink Slashdot story
+urlLink OS News article
+Today, May 18, Fedora Core 2 was released to the public.
+Get it  urlLink here.
+MXM (Mobile PCI eXpress Module)
+•Faster time to market, with the latest graphics technology
+•One notebook design, sold into many notebook products
+•One notebook design that can use any graphics solution, from any vendor
+•Notebooks whose graphics technology can be upgraded through the channel or,
+potentially by consumers
+The modules themselves come in three &quot;flavors&quot; - MXM-I, MXM-II, and MXM-III. &nbsp;The proposed design is installed by sliding the module into the slot at a 20   - 30 degree   angle, rotating it into its final position (in contact with the cooling solution) and locking it into place with four screws. &nbsp;Also note that t he stand-off locations for the screws will be the same for all MXM graphics modules, which would allow one motherboard to support all three MXM graphics module types . &nbsp;Each of these modules will use the same slot, and each is backwards compatible with the other, but they have different physical attributes and can accommodate different components...
+urlLink View the chart here.
+In the chart above, each module varies in physical size, max power consumption, memory configuration and the maximum GPU size. &nbsp;MXM-I is designed for entry-level notebooks, MXM-II for medium form factors with somewhat higher performance, and MXM-III is designed for high-performance systems. &nbsp;MXM-I and MXM-II slots were also designed with the same thermal considerations in mind, but MXM-III slots will be equipped with beefier cooling solutions. &nbsp;At a maximum of 35W for an MXM-III slot, we obviously won't be seeing the power-hungry GeForce 6800 Ultra populating an MXM module anytime soon, but NVIDIA did tell us that this initiative will facilitate the introduction of their GeForce Go 6 Series of mobile GPUs derived from the NV40 architecture. &nbsp;I'm sure there will be some more information regarding mobile NV40 derivatives as it becomes available...
+Fedora Core 2 has been released to mirrors, due for public consumption on Tuesday 18th May. However, you can grab it now via BitTorrent, so get it while it's fresh! It's available in both 4 CD or DVD versions."
+Get BitTorrent  urlLink here
+BitTorrent Files:
+urlLink 4 Disc
+urlLink DVD
+Today, Macromedia has released Flash 7 for linux. In this release for linux, the audio/video sync problems in version 6 seems to have been taken care of.
+urlLink Download it here.
+urlLink X86-Secret , a french site has a review of the new AMD 64 processor, it's now 939 pin.
+Here's the difference:
+I will no longer be posting here. I have a site with Wordpress. Here it is:
+urlLink Tech U

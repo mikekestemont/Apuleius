@@ -1,0 +1,2 @@
+IRLoops	100
+RandomSetFreq	0.40

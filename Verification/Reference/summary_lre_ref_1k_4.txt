@@ -1,0 +1,1044 @@
+1008329.female.16.txt	1195073.female.15.txt	No	14	{(3112588.male.17.txt, 12), (1831634.female.15.txt, 7), (2169579.female.24.txt, 1), (2304201.male.17.txt, 1), (3088825.male.17.txt, 1)}
+1028027.female.16.txt	1028027.female.16.txt	Yes	29	{(2340073.female.16.txt, 14), (1415200.female.15.txt, 2), (2462546.female.26.txt, 2), (2925114.female.16.txt, 1), (2952149.male.13.txt, 1)}
+1052611.male.23.txt	3299377.male.25.txt	No	62	{(2173808.male.41.txt, 3), (3057452.male.25.txt, 3), (1561856.male.27.txt, 1), (2461522.male.25.txt, 1), (3526380.male.42.txt, 1)}
+1063313.female.16.txt	1063313.female.16.txt	Yes	29	{(3381276.female.37.txt, 5), (1934543.female.17.txt, 1), (3351823.female.17.txt, 1), (3432301.female.17.txt, 1), (3656447.male.15.txt, 1)}
+1076363.male.40.txt	1076363.male.40.txt	Yes	100	{}
+1091912.female.14.txt	1091912.female.14.txt	Yes	60	{(3819418.female.24.txt, 8), (3914804.female.16.txt, 2), (3454136.male.15.txt, 1), (3646134.male.17.txt, 1), (3930947.female.26.txt, 1)}
+1135724.male.34.txt	1135724.male.34.txt	Yes	100	{}
+1136785.male.17.txt	3620911.male.23.txt	No	24	{(1449141.male.43.txt, 16), (3205824.female.26.txt, 9), (2173808.male.41.txt, 4), (3528859.male.26.txt, 4), (2732859.male.15.txt, 2)}
+1159057.male.25.txt	1159057.male.25.txt	Yes	21	{(2898040.female.23.txt, 9), (3393874.female.24.txt, 5), (1872490.male.35.txt, 4), (2186843.male.27.txt, 2), (2879658.female.23.txt, 1)}
+1162051.female.23.txt	1162051.female.23.txt	Yes	100	{}
+1180573.female.26.txt	1180573.female.26.txt	Yes	100	{}
+1185193.female.17.txt	4070413.male.17.txt	No	35	{(2512687.female.16.txt, 3), (2870581.male.17.txt, 3), (3121356.male.26.txt, 1), (3303707.male.17.txt, 1), (3520924.male.37.txt, 1)}
+1193364.female.16.txt	3357337.female.17.txt	No	16	{(1008329.female.16.txt, 2), (1970542.female.24.txt, 2), (2287879.female.25.txt, 1), (2839532.male.17.txt, 1), (2870581.male.17.txt, 1)}
+1195073.female.15.txt	3422982.female.17.txt	No	77	{(3518225.female.24.txt, 4), (3097233.male.17.txt, 3), (2186843.male.27.txt, 1), (2759824.male.33.txt, 1), (3364640.female.26.txt, 1)}
+1204495.male.17.txt	4027197.female.15.txt	No	21	{(3056802.male.24.txt, 12), (1204495.male.17.txt, 2), (1516660.male.17.txt, 1), (2027896.female.16.txt, 1), (3205383.female.35.txt, 1)}
+1223044.male.16.txt	2941100.male.27.txt	No	49	{(2173808.male.41.txt, 22), (3175142.male.44.txt, 9), (3545775.male.17.txt, 8), (3088214.male.17.txt, 5), (3205824.female.26.txt, 5)}
+1226756.male.23.txt	3868792.male.33.txt	No	72	{(2293441.male.25.txt, 8), (1226756.male.23.txt, 7), (3208819.male.23.txt, 5), (320317.male.36.txt, 2), (2586248.male.17.txt, 1)}
+1231733.female.24.txt	1231733.female.24.txt	Yes	24	{(2224636.female.17.txt, 4), (2512687.female.16.txt, 2), (1709540.female.25.txt, 1), (2229187.female.26.txt, 1), (2772378.female.45.txt, 1)}
+1233897.male.17.txt	3434091.male.27.txt	No	28	{(3337653.female.37.txt, 3), (1159057.male.25.txt, 1), (1405870.female.26.txt, 1), (3057452.male.25.txt, 1), (3394208.male.17.txt, 1)}
+1274171.male.36.txt	3381276.female.37.txt	No	39	{(1274171.male.36.txt, 6), (1516660.male.17.txt, 5), (3148889.female.26.txt, 5), (2988161.female.37.txt, 2), (2461522.male.25.txt, 1)}
+1280497.male.26.txt	4036407.female.25.txt	No	19	{(1226756.male.23.txt, 14), (1970542.female.24.txt, 8), (1651174.male.24.txt, 6), (1657422.female.24.txt, 3), (1159057.male.25.txt, 1)}
+1284157.female.16.txt	3676330.male.26.txt	No	25	{(3175142.male.44.txt, 17), (1284157.female.16.txt, 10), (3056802.male.24.txt, 2), (1943565.male.33.txt, 1), (2512687.female.16.txt, 1)}
+1289910.male.17.txt	1289910.male.17.txt	Yes	98	{(3849592.male.14.txt, 1), (3951417.male.17.txt, 1)}
+1306985.female.26.txt	4142700.male.26.txt	No	100	{}
+1309251.male.23.txt	1309251.male.23.txt	Yes	90	{(3310584.male.26.txt, 8), (3538366.male.43.txt, 2)}
+1338710.male.25.txt	3930947.female.26.txt	No	44	{(1338710.male.25.txt, 15), (2462546.female.26.txt, 12), (1976124.male.25.txt, 3), (1721569.female.24.txt, 1), (3097233.male.17.txt, 1)}
+1345466.female.24.txt	1345466.female.24.txt	Yes	49	{(1204495.male.17.txt, 7), (2839532.male.17.txt, 2), (1794773.male.15.txt, 1), (2857628.female.27.txt, 1), (2912511.female.23.txt, 1)}
+1363208.male.25.txt	2404074.female.27.txt	No	60	{(1180573.female.26.txt, 39), (3537787.female.16.txt, 1)}
+1366896.female.17.txt	3488850.female.17.txt	No	18	{(1366896.female.17.txt, 16), (2996701.female.40.txt, 3), (2027896.female.16.txt, 2), (2461522.male.25.txt, 1), (2979384.female.24.txt, 1)}
+1379288.female.35.txt	3849434.female.36.txt	No	14	{(1976124.male.25.txt, 11), (1935715.male.25.txt, 3), (1306985.female.26.txt, 1), (1379288.female.35.txt, 1), (1956622.male.34.txt, 1)}
+1380515.male.40.txt	8173.male.42.txt	No	58	{(2173808.male.41.txt, 17), (2941100.male.27.txt, 16), (2913134.male.26.txt, 1), (3205824.female.26.txt, 1), (3417254.male.13.txt, 1)}
+1394735.male.38.txt	4004266.female.23.txt	No	53	{(1394735.male.38.txt, 37), (1651174.male.24.txt, 2), (1162051.female.23.txt, 1), (1274171.male.36.txt, 1), (3136900.male.27.txt, 1)}
+1405766.male.24.txt	320317.male.36.txt	No	20	{(1598918.male.27.txt, 7), (2257718.female.26.txt, 5), (1405766.male.24.txt, 2), (1274171.male.36.txt, 1), (1380515.male.40.txt, 1)}
+1405870.female.26.txt	1405870.female.26.txt	Yes	25	{(1162051.female.23.txt, 2), (1233897.male.17.txt, 1), (1727585.female.27.txt, 1), (1935715.male.25.txt, 1), (2217559.female.24.txt, 1)}
+1407268.male.23.txt	2257718.female.26.txt	No	19	{(1651174.male.24.txt, 5), (3375862.female.23.txt, 3), (2054735.female.27.txt, 2), (1159057.male.25.txt, 1), (2929974.female.36.txt, 1)}
+1415200.female.15.txt	3566193.male.23.txt	No	41	{(2667384.female.16.txt, 9), (1345466.female.24.txt, 3), (3337653.female.37.txt, 3), (3342074.female.23.txt, 3), (3112588.male.17.txt, 2)}
+1417798.female.35.txt	3335650.male.15.txt	No	19	{(1516660.male.17.txt, 6), (1667602.female.37.txt, 2), (1470319.female.26.txt, 1), (1561856.male.27.txt, 1), (1909905.male.33.txt, 1)}
+1449141.male.43.txt	3607330.male.39.txt	No	70	{(3346538.male.35.txt, 24), (992078.male.17.txt, 5), (3575937.male.23.txt, 1)}
+1455561.male.17.txt	4014366.female.24.txt	No	25	{(1971242.female.23.txt, 13), (1509245.female.16.txt, 8), (1727585.female.27.txt, 5), (1159057.male.25.txt, 2), (1709540.female.25.txt, 1)}
+1470319.female.26.txt	662223.female.25.txt	No	63	{(2221350.female.14.txt, 8), (1407268.male.23.txt, 3), (3425335.female.37.txt, 2), (1971242.female.23.txt, 1), (3112588.male.17.txt, 1)}
+1472995.female.27.txt	662223.female.25.txt	No	63	{(2221350.female.14.txt, 8), (1407268.male.23.txt, 3), (3425335.female.37.txt, 2), (1971242.female.23.txt, 1), (3112588.male.17.txt, 1)}
+1478602.male.23.txt	1478602.male.23.txt	Yes	100	{}
+1504395.female.27.txt	4160243.female.27.txt	No	23	{(2927226.male.27.txt, 4), (1612063.female.24.txt, 3), (2287879.female.25.txt, 2), (1709540.female.25.txt, 1), (2772378.female.45.txt, 1)}
+1509245.female.16.txt	2772378.female.45.txt	No	22	{(2510334.male.17.txt, 11), (1657422.female.24.txt, 6), (1509245.female.16.txt, 4), (1919658.female.27.txt, 3), (1835380.female.16.txt, 1)}
+1516660.male.17.txt	3937183.female.23.txt	No	42	{(2839532.male.17.txt, 4), (1651174.male.24.txt, 1), (1919658.female.27.txt, 1), (1934543.female.17.txt, 1), (232317.female.25.txt, 1)}
+1555267.male.35.txt	1555267.male.35.txt	Yes	96	{(3465662.female.16.txt, 4)}
+1561856.male.27.txt	4160427.female.14.txt	No	16	{(232317.female.25.txt, 3), (1274171.male.36.txt, 1), (1932521.female.16.txt, 1), (2169579.female.24.txt, 1), (2186843.male.27.txt, 1)}
+1562200.female.23.txt	3745601.male.27.txt	No	20	{(3482287.female.26.txt, 18), (3504914.male.16.txt, 17), (1306985.female.26.txt, 2), (2069366.female.25.txt, 1), (3205383.female.35.txt, 1)}
+1587910.female.16.txt	2169579.female.24.txt	No	53	{(1587910.female.16.txt, 7), (2340073.female.16.txt, 4), (1306985.female.26.txt, 2), (1284157.female.16.txt, 1), (1971242.female.23.txt, 1)}
+1591821.male.24.txt	1591821.male.24.txt	Yes	69	{(1407268.male.23.txt, 3), (1612063.female.24.txt, 1), (1651174.male.24.txt, 1), (2603782.female.24.txt, 1), (2839532.male.17.txt, 1)}
+1596060.male.27.txt	3302604.male.26.txt	No	22	{(1274171.male.36.txt, 1), (1561856.male.27.txt, 1), (1601416.female.36.txt, 1), (1813392.male.14.txt, 1), (1970542.female.24.txt, 1)}
+1598918.male.27.txt	1449141.male.43.txt	No	48	{(3320363.male.46.txt, 16), (1478602.male.23.txt, 14), (3340219.male.45.txt, 8), (320317.male.36.txt, 2), (1598918.male.27.txt, 1)}
+1601416.female.36.txt	4036407.female.25.txt	No	19	{(1601416.female.36.txt, 14), (2217559.female.24.txt, 8), (2591513.female.27.txt, 6), (1727585.female.27.txt, 2), (1289910.male.17.txt, 1)}
+1604755.male.36.txt	1604755.male.36.txt	Yes	100	{}
+1612063.female.24.txt	3526571.male.23.txt	No	34	{(1612063.female.24.txt, 7), (1727585.female.27.txt, 4), (1195073.female.15.txt, 1), (1667602.female.37.txt, 1), (1835380.female.16.txt, 1)}
+1626309.male.14.txt	3088214.male.17.txt	No	17	{(2834611.female.24.txt, 10), (2173808.male.41.txt, 3), (1657422.female.24.txt, 1), (1944324.male.16.txt, 1), (2525415.female.33.txt, 1)}
+1649144.male.17.txt	1649144.male.17.txt	Yes	55	{(2603782.female.24.txt, 9), (1612063.female.24.txt, 4), (2229187.female.26.txt, 3), (1345466.female.24.txt, 1), (2304201.male.17.txt, 1)}
+1651174.male.24.txt	2879658.female.23.txt	No	58	{(1721569.female.24.txt, 3), (3425335.female.37.txt, 3), (3490286.male.23.txt, 2), (2565326.male.48.txt, 1), (2772378.female.45.txt, 1)}
+1657422.female.24.txt	913315.male.25.txt	No	16	{(2229187.female.26.txt, 8), (1651174.male.24.txt, 7), (2764903.male.33.txt, 5), (2257718.female.26.txt, 2), (1721569.female.24.txt, 1)}
+1667602.female.37.txt	1667602.female.37.txt	Yes	72	{(2929974.female.36.txt, 14), (3545775.male.17.txt, 5), (3647437.male.24.txt, 5), (2927226.male.27.txt, 2), (1394735.male.38.txt, 1)}
+1679249.female.37.txt	1679249.female.37.txt	Yes	100	{}
+1709540.female.25.txt	2870581.male.17.txt	No	17	{(2304201.male.17.txt, 6), (1721569.female.24.txt, 3), (2205026.female.26.txt, 3), (1504395.female.27.txt, 2), (1509245.female.16.txt, 1)}
+1713845.male.23.txt	1713845.male.23.txt	Yes	77	{(1919658.female.27.txt, 5), (1195073.female.15.txt, 2), (1405766.male.24.txt, 1), (2510334.male.17.txt, 1), (3081301.male.25.txt, 1)}
+1721569.female.24.txt	1721569.female.24.txt	Yes	43	{(1970542.female.24.txt, 2), (2461522.male.25.txt, 2), (3422982.female.17.txt, 2), (237056.male.24.txt, 1), (3416968.male.25.txt, 1)}
+1727585.female.27.txt	3930516.female.35.txt	No	28	{(1727585.female.27.txt, 9), (1504395.female.27.txt, 6), (1721569.female.24.txt, 3), (2512687.female.16.txt, 2), (2224636.female.17.txt, 1)}
+1756819.female.23.txt	3612176.female.26.txt	No	41	{(3302604.male.26.txt, 7), (1756819.female.23.txt, 2), (3463756.female.24.txt, 2), (1935715.male.25.txt, 1), (3433207.female.23.txt, 1)}
+1781653.male.17.txt	1781653.male.17.txt	Yes	20	{(3381753.female.17.txt, 10), (3389942.male.17.txt, 5), (3438987.female.25.txt, 1), (3452539.female.16.txt, 1), (3548807.male.15.txt, 1)}
+1787248.male.16.txt	1787248.male.16.txt	Yes	98	{(3601175.female.15.txt, 2)}
+1790119.male.37.txt	2586248.male.17.txt	No	77	{(2648549.female.23.txt, 10), (1135724.male.34.txt, 1), (1667602.female.37.txt, 1), (1790119.male.37.txt, 1), (2986355.female.23.txt, 1)}
+1794773.male.15.txt	1794773.male.15.txt	Yes	100	{}
+1813392.male.14.txt	3560812.male.17.txt	No	43	{(3369840.female.44.txt, 15), (3205824.female.26.txt, 9), (3136900.male.27.txt, 3), (2597626.female.26.txt, 1), (3575937.male.23.txt, 1)}
+1831634.female.15.txt	3414911.female.17.txt	No	15	{(1366896.female.17.txt, 8), (2340073.female.16.txt, 7), (1008329.female.16.txt, 1), (2518547.male.16.txt, 1), (2591513.female.27.txt, 1)}
+1835053.male.23.txt	1835053.male.23.txt	Yes	52	{(2886367.female.17.txt, 12), (3640519.male.23.txt, 3), (3569476.female.17.txt, 2), (1970542.female.24.txt, 1), (3463756.female.24.txt, 1)}
+1835380.female.16.txt	4014366.female.24.txt	No	33	{(1756819.female.23.txt, 6), (1504395.female.27.txt, 3), (1516660.male.17.txt, 2), (1306985.female.26.txt, 1), (1596060.male.27.txt, 1)}
+1835882.female.17.txt	1835882.female.17.txt	Yes	99	{(3353407.female.16.txt, 1)}
+1845692.male.14.txt	1845692.male.14.txt	Yes	100	{}
+1872490.male.35.txt	3718323.male.25.txt	No	23	{(1721569.female.24.txt, 4), (1274171.male.36.txt, 3), (1159057.male.25.txt, 2), (1596060.male.27.txt, 1), (1713845.male.23.txt, 1)}
+1889083.female.17.txt	1889083.female.17.txt	Yes	100	{}
+1903652.female.14.txt	4224081.male.16.txt	No	49	{(3882131.female.13.txt, 48), (3942221.female.16.txt, 1), (3990627.female.17.txt, 1), (4202679.female.16.txt, 1)}
+1909905.male.33.txt	3852248.male.15.txt	No	47	{(2461522.male.25.txt, 5), (2898040.female.23.txt, 2), (2173808.male.41.txt, 1), (3175142.male.44.txt, 1), (3205824.female.26.txt, 1)}
+1919658.female.27.txt	883838.female.48.txt	No	36	{(1919658.female.27.txt, 2), (2054735.female.27.txt, 2), (232317.female.25.txt, 2), (2069366.female.25.txt, 1), (2510334.male.17.txt, 1)}
+1932521.female.16.txt	1932521.female.16.txt	Yes	56	{(3534011.male.17.txt, 22), (3348041.female.17.txt, 8), (2718350.female.17.txt, 4), (3357337.female.17.txt, 2), (3601175.female.15.txt, 2)}
+1934543.female.17.txt	1934543.female.17.txt	Yes	84	{(3869898.female.17.txt, 16)}
+1935715.male.25.txt	1756819.female.23.txt	No	43	{(2206507.female.23.txt, 13), (1935715.male.25.txt, 11), (2304201.male.17.txt, 2), (1612063.female.24.txt, 1), (2461522.male.25.txt, 1)}
+1936095.female.33.txt	8173.male.42.txt	No	33	{(2257718.female.26.txt, 16), (2173808.male.41.txt, 15), (2941100.male.27.txt, 5), (3205824.female.26.txt, 2), (3312354.male.27.txt, 1)}
+1937773.female.26.txt	8173.male.42.txt	No	33	{(2257718.female.26.txt, 16), (2173808.male.41.txt, 15), (2941100.male.27.txt, 5), (3205824.female.26.txt, 2), (3312354.male.27.txt, 1)}
+1943565.male.33.txt	3593157.male.17.txt	No	66	{(3906484.female.27.txt, 17), (3620243.female.24.txt, 5), (1449141.male.43.txt, 2), (3528859.male.26.txt, 2), (2941100.male.27.txt, 1)}
+1944324.male.16.txt	3604131.male.23.txt	No	10	{(2304201.male.17.txt, 8), (2186843.male.27.txt, 6), (2205026.female.26.txt, 5), (1509245.female.16.txt, 2), (1274171.male.36.txt, 1)}
+1956622.male.34.txt	1956622.male.34.txt	Yes	93	{(4116628.female.16.txt, 4), (3071102.female.33.txt, 1), (3381753.female.17.txt, 1), (4173964.male.16.txt, 1)}
+1963555.female.14.txt	3562468.female.15.txt	No	52	{(3823807.female.14.txt, 42), (3883466.male.16.txt, 3), (2565017.female.24.txt, 1), (2870581.male.17.txt, 1), (3975428.male.15.txt, 1)}
+1970542.female.24.txt	3982622.female.26.txt	No	28	{(1274171.male.36.txt, 2), (1280497.male.26.txt, 2), (1596060.male.27.txt, 2), (1721569.female.24.txt, 1), (1813392.male.14.txt, 1)}
+1971242.female.23.txt	1971242.female.23.txt	Yes	76	{(2912511.female.23.txt, 8), (1405870.female.26.txt, 1), (3306336.female.16.txt, 1), (3350388.male.17.txt, 1), (3363794.female.23.txt, 1)}
+1976124.male.25.txt	3526571.male.23.txt	No	32	{(3450307.male.24.txt, 13), (3500871.female.16.txt, 13), (3337653.female.37.txt, 4), (1872490.male.35.txt, 3), (1935715.male.25.txt, 1)}
+2004217.female.17.txt	2512687.female.16.txt	No	39	{(1721569.female.24.txt, 3), (1185193.female.17.txt, 1), (1601416.female.36.txt, 1), (1835380.female.16.txt, 1), (2461522.male.25.txt, 1)}
+2007347.male.17.txt	4173964.male.16.txt	No	22	{(2870581.male.17.txt, 17), (1943565.male.33.txt, 4), (1970542.female.24.txt, 4), (2007347.male.17.txt, 1), (232317.female.25.txt, 1)}
+2027896.female.16.txt	2027896.female.16.txt	Yes	100	{}
+2054735.female.27.txt	3725589.female.23.txt	No	18	{(232317.female.25.txt, 3), (1280497.male.26.txt, 1), (1306985.female.26.txt, 1), (2027896.female.16.txt, 1), (2287879.female.25.txt, 1)}
+2055017.male.24.txt	4160243.female.27.txt	No	23	{(3519860.female.16.txt, 20), (3428011.male.33.txt, 13), (3537787.female.16.txt, 2), (2586248.male.17.txt, 1), (3558161.male.16.txt, 1)}
+2055306.male.15.txt	4075024.female.13.txt	No	50	{(1063313.female.16.txt, 10), (2055306.male.15.txt, 10), (1379288.female.35.txt, 1), (1516660.male.17.txt, 1), (1835882.female.17.txt, 1)}
+2057027.female.42.txt	2057027.female.42.txt	Yes	100	{}
+2058521.male.35.txt	2058521.male.35.txt	Yes	100	{}
+2069366.female.25.txt	3931735.female.23.txt	No	26	{(322194.male.27.txt, 6), (1076363.male.40.txt, 3), (2759824.male.33.txt, 3), (293982.female.23.txt, 1), (3332322.female.15.txt, 1)}
+2094786.female.43.txt	2094786.female.43.txt	Yes	100	{}
+2100479.female.24.txt	2100479.female.24.txt	Yes	100	{}
+2116991.male.33.txt	4105138.male.33.txt	No	57	{(2116991.male.33.txt, 42), (2718350.female.17.txt, 1)}
+2140894.female.26.txt	2140894.female.26.txt	Yes	56	{(1306985.female.26.txt, 14), (2610055.female.25.txt, 4), (3538141.male.16.txt, 2), (2857628.female.27.txt, 1), (2898040.female.23.txt, 1)}
+2157212.male.23.txt	4068871.male.33.txt	No	22	{(1721569.female.24.txt, 9), (3088214.male.17.txt, 7), (2173808.male.41.txt, 6), (2732859.male.15.txt, 2), (2510334.male.17.txt, 1)}
+2161435.male.16.txt	3358515.female.27.txt	No	35	{(1721569.female.24.txt, 5), (2161435.male.16.txt, 5), (1231733.female.24.txt, 1), (2004217.female.17.txt, 1), (232317.female.25.txt, 1)}
+2163386.male.26.txt	3931735.female.23.txt	No	85	{(3828356.female.26.txt, 7), (3956468.female.15.txt, 2), (4036635.female.25.txt, 2), (3517276.male.24.txt, 1), (3553589.female.25.txt, 1)}
+2169579.female.24.txt	3363794.female.23.txt	No	24	{(1195073.female.15.txt, 11), (1709540.female.25.txt, 3), (1136785.male.17.txt, 2), (1306985.female.26.txt, 2), (1028027.female.16.txt, 1)}
+2173808.male.41.txt	3312354.male.27.txt	No	51	{(3593157.male.17.txt, 5), (3620911.male.23.txt, 4), (1135724.male.34.txt, 1), (2913134.male.26.txt, 1), (3545775.male.17.txt, 1)}
+21828.male.40.txt	1076363.male.40.txt	No	46	{(1937773.female.26.txt, 20), (3575937.male.23.txt, 19), (1936095.female.33.txt, 6), (3369840.female.44.txt, 3), (3793386.male.37.txt, 2)}
+2186843.male.27.txt	4045480.female.24.txt	No	46	{(1159057.male.25.txt, 8), (2461522.male.25.txt, 4), (2229187.female.26.txt, 1), (2686258.male.27.txt, 1), (2772378.female.45.txt, 1)}
+2205026.female.26.txt	2205026.female.26.txt	Yes	92	{(2057027.female.42.txt, 7), (3381276.female.37.txt, 1)}
+2206507.female.23.txt	2206507.female.23.txt	Yes	97	{(2991302.male.24.txt, 2), (1405870.female.26.txt, 1)}
+2217559.female.24.txt	2217559.female.24.txt	Yes	18	{(2229187.female.26.txt, 11), (2512687.female.16.txt, 5), (2027896.female.16.txt, 4), (1651174.male.24.txt, 1), (2287879.female.25.txt, 1)}
+2219761.female.13.txt	2219761.female.13.txt	Yes	100	{}
+2221350.female.14.txt	997488.male.25.txt	No	36	{(1601416.female.36.txt, 7), (1504395.female.27.txt, 4), (1555267.male.35.txt, 1), (1709540.female.25.txt, 1), (1721569.female.24.txt, 1)}
+2224636.female.17.txt	4177618.female.15.txt	No	17	{(1204495.male.17.txt, 7), (1516660.male.17.txt, 3), (1063313.female.16.txt, 2), (1845692.male.14.txt, 1), (1970542.female.24.txt, 1)}
+2229187.female.26.txt	2461522.male.25.txt	No	16	{(1159057.male.25.txt, 2), (1970542.female.24.txt, 2), (2889784.female.17.txt, 2), (1470319.female.26.txt, 1), (2069366.female.25.txt, 1)}
+2239146.male.23.txt	2239146.male.23.txt	Yes	80	{(3852248.male.15.txt, 17), (3676330.male.26.txt, 3)}
+2257718.female.26.txt	3586375.female.27.txt	No	31	{(1470319.female.26.txt, 5), (1651174.male.24.txt, 2), (1756819.female.23.txt, 2), (1970542.female.24.txt, 2), (1956622.male.34.txt, 1)}
+2287879.female.25.txt	2163386.male.26.txt	No	18	{(3299377.male.25.txt, 6), (1561856.male.27.txt, 1), (2772378.female.45.txt, 1), (3186585.male.24.txt, 1), (3308201.male.26.txt, 1)}
+2293441.male.25.txt	2293441.male.25.txt	Yes	100	{}
+2301166.female.24.txt	3366803.male.24.txt	No	32	{(2886367.female.17.txt, 25), (3056802.male.24.txt, 2), (3128124.female.26.txt, 1), (3148889.female.26.txt, 1), (3357337.female.17.txt, 1)}
+2304201.male.17.txt	4069219.female.14.txt	No	42	{(2461522.male.25.txt, 15), (2304201.male.17.txt, 2), (1289910.male.17.txt, 1), (1504395.female.27.txt, 1), (2186843.male.27.txt, 1)}
+232317.female.25.txt	2879658.female.23.txt	No	39	{(1596060.male.27.txt, 7), (232317.female.25.txt, 3), (1306985.female.26.txt, 1), (1604755.male.36.txt, 1), (1727585.female.27.txt, 1)}
+2325994.male.27.txt	3559973.female.36.txt	No	43	{(1909905.male.33.txt, 7), (2293441.male.25.txt, 2), (2325994.male.27.txt, 2), (1223044.male.16.txt, 1), (1679249.female.37.txt, 1)}
+2340073.female.16.txt	3338490.female.34.txt	No	18	{(1284157.female.16.txt, 3), (1970542.female.24.txt, 2), (1657422.female.24.txt, 1), (1919658.female.27.txt, 1), (2340073.female.16.txt, 1)}
+237056.male.24.txt	237056.male.24.txt	Yes	94	{(3785243.female.24.txt, 2), (1596060.male.27.txt, 1), (2157212.male.23.txt, 1), (3389118.female.23.txt, 1), (3948831.female.26.txt, 1)}
+2376531.male.39.txt	320317.male.36.txt	No	96	{(322194.male.27.txt, 3), (1478602.male.23.txt, 1)}
+2392907.female.14.txt	2392907.female.14.txt	Yes	99	{(3948831.female.26.txt, 1)}
+239860.male.25.txt	3517276.male.24.txt	No	29	{(1226756.male.23.txt, 3), (1813392.male.14.txt, 3), (1193364.female.16.txt, 1), (1233897.male.17.txt, 1), (1657422.female.24.txt, 1)}
+2404074.female.27.txt	2404074.female.27.txt	Yes	99	{(1180573.female.26.txt, 1)}
+2414493.female.16.txt	3088825.male.17.txt	No	16	{(2304201.male.17.txt, 6), (2340073.female.16.txt, 6), (1226756.male.23.txt, 2), (1504395.female.27.txt, 2), (1596060.male.27.txt, 2)}
+2425281.male.14.txt	2425281.male.14.txt	Yes	32	{(2870581.male.17.txt, 6), (3488850.female.17.txt, 2), (1932521.female.16.txt, 1), (2461522.male.25.txt, 1), (3348041.female.17.txt, 1)}
+2461522.male.25.txt	3600078.female.36.txt	No	49	{(1943565.male.33.txt, 7), (1657422.female.24.txt, 4), (3409984.male.24.txt, 4), (1649144.male.17.txt, 2), (2879658.female.23.txt, 2)}
+2462546.female.26.txt	3422982.female.17.txt	No	35	{(2462546.female.26.txt, 8), (2622830.female.16.txt, 8), (2340073.female.16.txt, 4), (1338710.male.25.txt, 1), (1626309.male.14.txt, 1)}
+2482900.male.24.txt	3233812.female.24.txt	No	40	{(2839532.male.17.txt, 8), (2586248.male.17.txt, 7), (1835380.female.16.txt, 4), (2027896.female.16.txt, 3), (1076363.male.40.txt, 2)}
+2510334.male.17.txt	2510334.male.17.txt	Yes	45	{(2996701.female.40.txt, 12), (3302604.male.26.txt, 6), (2229187.female.26.txt, 4), (1274171.male.36.txt, 3), (2879658.female.23.txt, 1)}
+2512687.female.16.txt	2512687.female.16.txt	Yes	78	{(2414493.female.16.txt, 5), (3482303.female.33.txt, 5), (1415200.female.15.txt, 1), (1727585.female.27.txt, 1), (3344485.male.25.txt, 1)}
+2518547.male.16.txt	3956468.female.15.txt	No	56	{(1727585.female.27.txt, 1), (239860.male.25.txt, 1), (3454419.male.15.txt, 1), (3646134.male.17.txt, 1), (3785626.female.15.txt, 1)}
+2521983.male.16.txt	3811467.male.24.txt	No	20	{(1919658.female.27.txt, 13), (2979384.female.24.txt, 2), (1509245.female.16.txt, 1), (2205026.female.26.txt, 1), (2772378.female.45.txt, 1)}
+2525415.female.33.txt	2525415.female.33.txt	Yes	32	{(1727585.female.27.txt, 6), (1274171.male.36.txt, 1), (1504395.female.27.txt, 1), (1970542.female.24.txt, 1), (2929974.female.36.txt, 1)}
+2526090.male.35.txt	3899600.male.24.txt	No	27	{(2206507.female.23.txt, 11), (1185193.female.17.txt, 3), (1274171.male.36.txt, 1), (1380515.male.40.txt, 1), (1449141.male.43.txt, 1)}
+2550368.male.13.txt	2550368.male.13.txt	Yes	99	{(3692930.male.17.txt, 1)}
+2565017.female.24.txt	2565017.female.24.txt	Yes	16	{(232317.female.25.txt, 12), (2414493.female.16.txt, 3), (1159057.male.25.txt, 1), (1345466.female.24.txt, 1), (1835380.female.16.txt, 1)}
+2565326.male.48.txt	2565326.male.48.txt	Yes	100	{}
+2586248.male.17.txt	2586248.male.17.txt	Yes	56	{(1345466.female.24.txt, 6), (1651174.male.24.txt, 1), (1721569.female.24.txt, 1), (1756819.female.23.txt, 1), (2461522.male.25.txt, 1)}
+2591513.female.27.txt	2591513.female.27.txt	Yes	36	{(3312827.female.25.txt, 9), (2229187.female.26.txt, 1), (2414493.female.16.txt, 1), (2912511.female.23.txt, 1), (2988161.female.37.txt, 1)}
+2597433.female.15.txt	2597433.female.15.txt	Yes	47	{(1657422.female.24.txt, 2), (1028027.female.16.txt, 1), (1407268.male.23.txt, 1), (2169579.female.24.txt, 1), (2221350.female.14.txt, 1)}
+2597626.female.26.txt	2597626.female.26.txt	Yes	79	{(3346538.male.35.txt, 17), (3720867.male.37.txt, 2), (3906484.female.27.txt, 1), (4068871.male.33.txt, 1)}
+2603782.female.24.txt	3616679.female.47.txt	No	67	{(3582727.female.13.txt, 4), (2913134.male.26.txt, 3), (2512687.female.16.txt, 2), (1306985.female.26.txt, 1), (3393874.female.24.txt, 1)}
+2610055.female.25.txt	477665.female.25.txt	No	32	{(3351823.female.17.txt, 7), (3148889.female.26.txt, 6), (3308201.male.26.txt, 2), (2879658.female.23.txt, 1), (3320151.male.16.txt, 1)}
+2622830.female.16.txt	2622830.female.16.txt	Yes	32	{(1345466.female.24.txt, 4), (3292539.male.27.txt, 4), (2510334.male.17.txt, 1), (2839532.male.17.txt, 1), (2952149.male.13.txt, 1)}
+2630438.female.27.txt	4301895.female.15.txt	No	38	{(2630438.female.27.txt, 14), (3016212.female.35.txt, 5), (3070838.female.15.txt, 2), (1159057.male.25.txt, 1), (3143116.male.25.txt, 1)}
+2631500.male.26.txt	3444234.male.39.txt	No	23	{(1935715.male.25.txt, 9), (2732859.male.15.txt, 3), (1274171.male.36.txt, 1), (1405870.female.26.txt, 1), (2759824.male.33.txt, 1)}
+2648549.female.23.txt	2648549.female.23.txt	Yes	21	{(2163386.male.26.txt, 5), (2879658.female.23.txt, 5), (1651174.male.24.txt, 2), (2597626.female.26.txt, 2), (3073748.female.23.txt, 2)}
+2651675.female.14.txt	3303707.male.17.txt	No	100	{}
+2667384.female.16.txt	2667384.female.16.txt	Yes	30	{(3515754.female.26.txt, 19), (3337653.female.37.txt, 11), (3425335.female.37.txt, 3), (3302604.male.26.txt, 2), (3306467.male.25.txt, 1)}
+2686258.male.27.txt	3299768.male.33.txt	No	16	{(237056.male.24.txt, 6), (1596060.male.27.txt, 5), (1233897.male.17.txt, 3), (1159057.male.25.txt, 2), (1970542.female.24.txt, 1)}
+2689553.male.17.txt	3454419.male.15.txt	No	17	{(2603782.female.24.txt, 10), (1813392.male.14.txt, 3), (2257718.female.26.txt, 2), (1721569.female.24.txt, 1), (2340073.female.16.txt, 1)}
+2718350.female.17.txt	3930947.female.26.txt	No	36	{(2718350.female.17.txt, 16), (293982.female.23.txt, 8), (1835882.female.17.txt, 1), (2205026.female.26.txt, 1), (2912511.female.23.txt, 1)}
+2732859.male.15.txt	3906484.female.27.txt	No	52	{(4036635.female.25.txt, 34), (4066793.male.26.txt, 7), (4068871.male.33.txt, 4), (3855637.male.25.txt, 2), (2586248.male.17.txt, 1)}
+2734125.female.23.txt	3482303.female.33.txt	No	18	{(2414493.female.16.txt, 6), (2857628.female.27.txt, 5), (2651675.female.14.txt, 3), (232317.female.25.txt, 2), (1591821.male.24.txt, 1)}
+2744104.male.24.txt	2879658.female.23.txt	No	10	{(1274171.male.36.txt, 5), (1280497.male.26.txt, 2), (1415200.female.15.txt, 1), (1478602.male.23.txt, 1), (1561856.male.27.txt, 1)}
+2757248.female.15.txt	1063313.female.16.txt	No	44	{(2757248.female.15.txt, 27), (3335650.male.15.txt, 5), (1845692.male.14.txt, 2), (1159057.male.25.txt, 1), (1561856.male.27.txt, 1)}
+2759824.male.33.txt	4033638.female.17.txt	No	31	{(2591513.female.27.txt, 6), (2205026.female.26.txt, 5), (2759824.male.33.txt, 5), (1405766.male.24.txt, 2), (2870581.male.17.txt, 1)}
+2762944.male.25.txt	2762944.male.25.txt	Yes	31	{(2287879.female.25.txt, 9), (1935715.male.25.txt, 3), (1274171.male.36.txt, 1), (1591821.male.24.txt, 1), (2186843.male.27.txt, 1)}
+2764903.male.33.txt	3356636.male.23.txt	No	31	{(1478602.male.23.txt, 22), (1596060.male.27.txt, 8), (3136900.male.27.txt, 2), (1135724.male.34.txt, 1), (3175142.male.44.txt, 1)}
+2772378.female.45.txt	2772378.female.45.txt	Yes	30	{(2205026.female.26.txt, 12), (2163386.male.26.txt, 7), (3334775.female.23.txt, 2), (1649144.male.17.txt, 1), (3338490.female.34.txt, 1)}
+2781841.female.23.txt	2781841.female.23.txt	Yes	22	{(1159057.male.25.txt, 5), (2879658.female.23.txt, 2), (3302604.male.26.txt, 1), (3389530.female.16.txt, 1), (3434091.male.27.txt, 1)}
+2834611.female.24.txt	2834611.female.24.txt	Yes	100	{}
+2839210.male.23.txt	2772378.female.45.txt	No	45	{(3463756.female.24.txt, 6), (1937773.female.26.txt, 2), (3071102.female.33.txt, 1), (3508590.female.27.txt, 1), (3541261.male.15.txt, 1)}
+2839532.male.17.txt	2839532.male.17.txt	Yes	100	{}
+2841190.female.27.txt	3482303.female.33.txt	No	34	{(3312827.female.25.txt, 10), (2340073.female.16.txt, 4), (2597433.female.15.txt, 4), (1971242.female.23.txt, 3), (1306985.female.26.txt, 1)}
+2845838.female.23.txt	3951417.male.17.txt	No	19	{(1835380.female.16.txt, 3), (1233897.male.17.txt, 2), (1649144.male.17.txt, 2), (1052611.male.23.txt, 1), (1162051.female.23.txt, 1)}
+2857628.female.27.txt	2857628.female.27.txt	Yes	45	{(3205824.female.26.txt, 6), (3363794.female.23.txt, 3), (3366803.male.24.txt, 2), (2526090.male.35.txt, 1), (3057452.male.25.txt, 1)}
+2869734.male.23.txt	3796743.male.17.txt	No	24	{(2414493.female.16.txt, 6), (1976124.male.25.txt, 1), (2007347.male.17.txt, 1), (232317.female.25.txt, 1), (2925114.female.16.txt, 1)}
+2870581.male.17.txt	2870581.male.17.txt	Yes	38	{(2759824.male.33.txt, 4), (2257718.female.26.txt, 1), (2622830.female.16.txt, 1), (2839532.male.17.txt, 1), (293982.female.23.txt, 1)}
+2879658.female.23.txt	2879658.female.23.txt	Yes	70	{(2996701.female.40.txt, 12), (2512687.female.16.txt, 10), (3600078.female.36.txt, 4), (3425335.female.37.txt, 2), (2952149.male.13.txt, 1)}
+2882452.male.16.txt	2882452.male.16.txt	Yes	100	{}
+2886367.female.17.txt	2886367.female.17.txt	Yes	40	{(1561856.male.27.txt, 1), (1651174.male.24.txt, 1), (1976124.male.25.txt, 1), (2217559.female.24.txt, 1), (2510334.male.17.txt, 1)}
+2888654.female.24.txt	3956468.female.15.txt	No	49	{(2772378.female.45.txt, 2), (3299025.male.25.txt, 1), (3360862.male.25.txt, 1), (3434050.female.24.txt, 1), (3600078.female.36.txt, 1)}
+2889784.female.17.txt	1601416.female.36.txt	No	29	{(1721569.female.24.txt, 4), (1306985.female.26.txt, 2), (1008329.female.16.txt, 1), (1516660.male.17.txt, 1), (1781653.male.17.txt, 1)}
+2898040.female.23.txt	3620911.male.23.txt	No	63	{(3205824.female.26.txt, 6), (2586248.male.17.txt, 3), (1813392.male.14.txt, 2), (2257718.female.26.txt, 1), (3186585.male.24.txt, 1)}
+2909865.male.17.txt	3351823.female.17.txt	No	48	{(3869898.female.17.txt, 29), (3850561.female.24.txt, 19), (3303707.male.17.txt, 1), (3368072.female.23.txt, 1), (4033638.female.17.txt, 1)}
+2912511.female.23.txt	2912511.female.23.txt	Yes	99	{(3512293.female.24.txt, 1)}
+2913095.female.17.txt	2913095.female.17.txt	Yes	97	{(3531571.female.24.txt, 1), (3578696.female.13.txt, 1), (3891408.female.16.txt, 1)}
+2913134.male.26.txt	3545775.male.17.txt	No	58	{(2764903.male.33.txt, 11), (1596060.male.27.txt, 3), (2325994.male.27.txt, 2), (1970542.female.24.txt, 1), (2941100.male.27.txt, 1)}
+2925114.female.16.txt	3500871.female.16.txt	No	72	{(3306336.female.16.txt, 10), (2518547.male.16.txt, 2), (3350384.female.14.txt, 2), (3418839.female.24.txt, 2), (3342074.female.23.txt, 1)}
+2927226.male.27.txt	3586375.female.27.txt	No	54	{(1756819.female.23.txt, 4), (1159057.male.25.txt, 2), (1651174.male.24.txt, 2), (1649144.male.17.txt, 1), (2205026.female.26.txt, 1)}
+2929974.female.36.txt	1159057.male.25.txt	No	27	{(2257718.female.26.txt, 19), (2834611.female.24.txt, 15), (1561856.male.27.txt, 1), (3136900.male.27.txt, 1), (322194.male.27.txt, 1)}
+2930329.male.15.txt	2930329.male.15.txt	Yes	66	{(3444234.male.39.txt, 2), (1651174.male.24.txt, 1), (1756819.female.23.txt, 1), (3070838.female.15.txt, 1), (3302604.male.26.txt, 1)}
+2938170.male.17.txt	2938170.male.17.txt	Yes	56	{(3357337.female.17.txt, 17), (3302604.male.26.txt, 5), (2718350.female.17.txt, 2), (3363794.female.23.txt, 2), (3375862.female.23.txt, 1)}
+293982.female.23.txt	293982.female.23.txt	Yes	100	{}
+2941100.male.27.txt	2941100.male.27.txt	Yes	84	{(8173.male.42.txt, 15), (2834611.female.24.txt, 1)}
+2952149.male.13.txt	2952149.male.13.txt	Yes	45	{(3796743.male.17.txt, 29), (3938917.female.14.txt, 16), (3351823.female.17.txt, 4), (3750238.female.26.txt, 2), (3648272.male.16.txt, 1)}
+2958390.male.25.txt	2958390.male.25.txt	Yes	100	{}
+2960855.male.26.txt	3948831.female.26.txt	No	42	{(3483325.female.27.txt, 5), (3372401.male.25.txt, 3), (2960855.male.26.txt, 1), (3128124.female.26.txt, 1), (3529454.male.25.txt, 1)}
+2979384.female.24.txt	877254.female.27.txt	No	21	{(1889083.female.17.txt, 17), (1935715.male.25.txt, 2), (1366896.female.17.txt, 1), (1504395.female.27.txt, 1), (1727585.female.27.txt, 1)}
+2981368.male.16.txt	2981368.male.16.txt	Yes	41	{(1935715.male.25.txt, 23), (3337653.female.37.txt, 4), (3607476.male.17.txt, 4), (3575216.male.36.txt, 1), (3612988.male.17.txt, 1)}
+2986355.female.23.txt	3536318.male.25.txt	No	31	{(1504395.female.27.txt, 6), (2927226.male.27.txt, 2), (3354959.male.25.txt, 2), (2913134.male.26.txt, 1), (3088214.male.17.txt, 1)}
+2988161.female.37.txt	3930516.female.35.txt	No	31	{(1756819.female.23.txt, 6), (2988161.female.37.txt, 3), (2229187.female.26.txt, 2), (2510334.male.17.txt, 1), (2839532.male.17.txt, 1)}
+2991302.male.24.txt	1721569.female.24.txt	No	54	{(1274171.male.36.txt, 14), (1306985.female.26.txt, 1), (1407268.male.23.txt, 1), (1970542.female.24.txt, 1), (2689553.male.17.txt, 1)}
+2994939.male.37.txt	3607330.male.39.txt	No	70	{(3088214.male.17.txt, 2), (3175142.male.44.txt, 2), (2834611.female.24.txt, 1), (3205824.female.26.txt, 1), (3346538.male.35.txt, 1)}
+2996701.female.40.txt	2996701.female.40.txt	Yes	46	{(1657422.female.24.txt, 7), (2929974.female.36.txt, 3), (1223044.male.16.txt, 1), (1306985.female.26.txt, 1), (2304201.male.17.txt, 1)}
+3008468.female.15.txt	3008468.female.15.txt	Yes	100	{}
+3012983.female.40.txt	3616679.female.47.txt	No	25	{(2069366.female.25.txt, 10), (1274171.male.36.txt, 7), (1943565.male.33.txt, 5), (1185193.female.17.txt, 1), (2461522.male.25.txt, 1)}
+3016212.female.35.txt	1937773.female.26.txt	No	26	{(3016212.female.35.txt, 12), (1936095.female.33.txt, 5), (1162051.female.23.txt, 1), (2325994.male.27.txt, 1), (2772378.female.45.txt, 1)}
+3040326.female.26.txt	4271135.female.27.txt	No	21	{(1135724.male.34.txt, 8), (3175142.male.44.txt, 8), (2206507.female.23.txt, 3), (2173808.male.41.txt, 2), (3136900.male.27.txt, 2)}
+3040702.female.43.txt	3040702.female.43.txt	Yes	100	{}
+3040882.male.23.txt	3607330.male.39.txt	No	72	{(1135724.male.34.txt, 8), (2834611.female.24.txt, 6), (3369840.female.44.txt, 4), (1937773.female.26.txt, 2), (1076363.male.40.txt, 1)}
+3043495.male.24.txt	3043495.male.24.txt	Yes	29	{(2287879.female.25.txt, 25), (237056.male.24.txt, 3), (1380515.male.40.txt, 1), (1470319.female.26.txt, 1), (2996701.female.40.txt, 1)}
+3056802.male.24.txt	3056802.male.24.txt	Yes	97	{(3696390.male.17.txt, 1), (3892208.male.25.txt, 1), (4047838.male.23.txt, 1)}
+3057452.male.25.txt	1721569.female.24.txt	No	36	{(3057452.male.25.txt, 27), (3136900.male.27.txt, 5), (2206507.female.23.txt, 2), (1976124.male.25.txt, 1), (3196721.male.24.txt, 1)}
+3070838.female.15.txt	3331865.male.23.txt	No	16	{(232317.female.25.txt, 5), (3186585.male.24.txt, 3), (3305901.female.38.txt, 2), (2224636.female.17.txt, 1), (239860.male.25.txt, 1)}
+3071102.female.33.txt	3886985.male.26.txt	No	30	{(2229187.female.26.txt, 12), (1185193.female.17.txt, 10), (2257718.female.26.txt, 6), (1306985.female.26.txt, 3), (1379288.female.35.txt, 1)}
+3073748.female.23.txt	3073748.female.23.txt	Yes	19	{(1478602.male.23.txt, 2), (2772378.female.45.txt, 2), (1604755.male.36.txt, 1), (1651174.male.24.txt, 1), (237056.male.24.txt, 1)}
+3081301.male.25.txt	3620911.male.23.txt	No	17	{(3434050.female.24.txt, 13), (2597626.female.26.txt, 7), (1076363.male.40.txt, 5), (2173808.male.41.txt, 2), (3490286.male.23.txt, 2)}
+3086427.male.16.txt	3086427.male.16.txt	Yes	88	{(3933548.male.24.txt, 4), (3417254.male.13.txt, 2), (4035767.male.25.txt, 2), (3205824.female.26.txt, 1), (3504914.male.16.txt, 1)}
+3088214.male.17.txt	3818197.female.25.txt	No	63	{(1651174.male.24.txt, 1), (1970542.female.24.txt, 1), (2879658.female.23.txt, 1), (2913134.male.26.txt, 1), (3088214.male.17.txt, 1)}
+3088453.male.15.txt	3088453.male.15.txt	Yes	100	{}
+3088825.male.17.txt	3961556.male.25.txt	No	17	{(3088825.male.17.txt, 9), (293982.female.23.txt, 7), (1052611.male.23.txt, 1), (1289910.male.17.txt, 1), (2027896.female.16.txt, 1)}
+3092694.male.25.txt	2293441.male.25.txt	No	25	{(1909905.male.33.txt, 3), (1561856.male.27.txt, 2), (2461522.male.25.txt, 2), (3092694.male.25.txt, 2), (237056.male.24.txt, 1)}
+3097233.male.17.txt	3097233.male.17.txt	Yes	60	{(2512687.female.16.txt, 4), (3302604.male.26.txt, 4), (2689553.male.17.txt, 1), (3332105.male.17.txt, 1), (3353407.female.16.txt, 1)}
+3103955.male.17.txt	4006405.male.26.txt	No	42	{(1028027.female.16.txt, 2), (1657422.female.24.txt, 1), (1721569.female.24.txt, 1), (2462546.female.26.txt, 1), (3103955.male.17.txt, 1)}
+3112588.male.17.txt	3112588.male.17.txt	Yes	77	{(3292690.female.15.txt, 8), (3848031.female.15.txt, 4), (3613484.female.17.txt, 2), (3306336.female.16.txt, 1), (3514312.female.24.txt, 1)}
+3112893.male.16.txt	3709068.female.14.txt	No	20	{(2414493.female.16.txt, 3), (2461522.male.25.txt, 3), (2870581.male.17.txt, 2), (2996701.female.40.txt, 2), (2648549.female.23.txt, 1)}
+3121356.male.26.txt	3136900.male.27.txt	No	24	{(2173808.male.41.txt, 6), (1449141.male.43.txt, 4), (2732859.male.15.txt, 4), (2941100.male.27.txt, 2), (2834611.female.24.txt, 1)}
+3127881.male.24.txt	3576987.female.24.txt	No	17	{(2340073.female.16.txt, 7), (1136785.male.17.txt, 4), (2304201.male.17.txt, 3), (2888654.female.24.txt, 2), (1721569.female.24.txt, 1)}
+3128124.female.26.txt	1813392.male.14.txt	No	46	{(3381272.female.23.txt, 29), (3559973.female.36.txt, 25)}
+3128960.male.27.txt	3753191.female.17.txt	No	13	{(1223044.male.16.txt, 4), (2007347.male.17.txt, 2), (1284157.female.16.txt, 1), (1504395.female.27.txt, 1), (1651174.male.24.txt, 1)}
+3132605.male.16.txt	3132605.male.16.txt	Yes	97	{(239860.male.25.txt, 1), (3745488.female.13.txt, 1), (3848031.female.15.txt, 1)}
+3136900.male.27.txt	3526571.male.23.txt	No	23	{(2986355.female.23.txt, 8), (1478602.male.23.txt, 1), (3043495.male.24.txt, 1), (3057452.male.25.txt, 1), (3128960.male.27.txt, 1)}
+3143116.male.25.txt	4253149.female.24.txt	No	68	{(3143116.male.25.txt, 21), (3552847.male.24.txt, 4), (3441235.female.23.txt, 2), (2734125.female.23.txt, 1), (2879658.female.23.txt, 1)}
+3148889.female.26.txt	3148889.female.26.txt	Yes	100	{}
+3150644.male.13.txt	3150644.male.13.txt	Yes	89	{(2879658.female.23.txt, 4), (4036635.female.25.txt, 2), (3302604.male.26.txt, 1), (3343256.male.23.txt, 1), (3473146.female.26.txt, 1)}
+3153425.female.14.txt	3153425.female.14.txt	Yes	100	{}
+3162393.female.16.txt	3162393.female.16.txt	Yes	54	{(3351823.female.17.txt, 9), (3586375.female.27.txt, 8), (1756819.female.23.txt, 2), (3350384.female.14.txt, 2), (3408761.female.23.txt, 1)}
+3174561.female.16.txt	3174561.female.16.txt	Yes	99	{(3682836.female.16.txt, 1)}
+3175142.male.44.txt	3175142.male.44.txt	Yes	90	{(511641.male.39.txt, 5), (2913134.male.26.txt, 3), (3593157.male.17.txt, 1), (3766919.male.17.txt, 1)}
+3178061.male.26.txt	3343256.male.23.txt	No	46	{(2054735.female.27.txt, 6), (3056802.male.24.txt, 6), (1306985.female.26.txt, 1), (1509245.female.16.txt, 1), (3378253.male.24.txt, 1)}
+3178584.male.24.txt	3545775.male.17.txt	No	30	{(3205824.female.26.txt, 20), (3178584.male.24.txt, 15), (2173808.male.41.txt, 4), (3366803.male.24.txt, 2), (3335299.female.24.txt, 1)}
+3179008.male.35.txt	3179008.male.35.txt	Yes	45	{(1626309.male.14.txt, 18), (1555267.male.35.txt, 2), (1159057.male.25.txt, 1), (1943565.male.33.txt, 1), (2217559.female.24.txt, 1)}
+3179370.male.35.txt	3073748.female.23.txt	No	25	{(1835380.female.16.txt, 4), (1478602.male.23.txt, 2), (1504395.female.27.txt, 2), (2054735.female.27.txt, 2), (1721569.female.24.txt, 1)}
+3179434.male.17.txt	4047493.male.16.txt	No	19	{(3376440.male.37.txt, 10), (2981368.male.16.txt, 5), (2219761.female.13.txt, 3), (3332322.female.15.txt, 2), (3414946.male.16.txt, 2)}
+3186585.male.24.txt	3186585.male.24.txt	Yes	100	{}
+3189607.female.40.txt	3189607.female.40.txt	Yes	36	{(1306985.female.26.txt, 10), (237056.male.24.txt, 7), (1813392.male.14.txt, 5), (2648549.female.23.txt, 4), (1657422.female.24.txt, 1)}
+3194640.male.23.txt	2304201.male.17.txt	No	12	{(1561856.male.27.txt, 10), (1976124.male.25.txt, 5), (1504395.female.27.txt, 3), (1274171.male.36.txt, 2), (1872490.male.35.txt, 1)}
+3195553.female.17.txt	3370474.male.17.txt	No	63	{(3195553.female.17.txt, 35), (4033638.female.17.txt, 2)}
+3196262.male.13.txt	2058521.male.35.txt	No	100	{}
+3196721.male.24.txt	4214747.male.23.txt	No	37	{(1919658.female.27.txt, 8), (2186843.male.27.txt, 2), (1159057.male.25.txt, 1), (1756819.female.23.txt, 1), (1976124.male.25.txt, 1)}
+320317.male.36.txt	511641.male.39.txt	No	47	{(3340219.male.45.txt, 12), (320317.male.36.txt, 10), (3720867.male.37.txt, 6), (3545775.male.17.txt, 2), (3343256.male.23.txt, 1)}
+3205383.female.35.txt	4045773.female.26.txt	No	34	{(2287879.female.25.txt, 6), (1872490.male.35.txt, 4), (1756819.female.23.txt, 2), (1306985.female.26.txt, 1), (2648549.female.23.txt, 1)}
+3205824.female.26.txt	3205824.female.26.txt	Yes	77	{(3720867.male.37.txt, 13), (2173808.male.41.txt, 8), (3620911.male.23.txt, 1), (794491.male.23.txt, 1)}
+3208383.male.17.txt	3208383.male.17.txt	Yes	89	{(3454419.male.15.txt, 2), (4051300.male.17.txt, 2), (3323485.male.14.txt, 1), (3990766.female.16.txt, 1), (4101559.male.17.txt, 1)}
+3208819.male.23.txt	3545775.male.17.txt	No	21	{(1135724.male.34.txt, 1), (1185193.female.17.txt, 1), (1223044.male.16.txt, 1), (1596060.male.27.txt, 1), (1604755.male.36.txt, 1)}
+322194.male.27.txt	322194.male.27.txt	Yes	36	{(1159057.male.25.txt, 5), (1604755.male.36.txt, 5), (2772378.female.45.txt, 2), (1835380.female.16.txt, 1), (2069366.female.25.txt, 1)}
+3229995.female.24.txt	4205392.male.17.txt	No	18	{(1971242.female.23.txt, 3), (1231733.female.24.txt, 1), (1306985.female.26.txt, 1), (1509245.female.16.txt, 1), (1970542.female.24.txt, 1)}
+3233812.female.24.txt	3620911.male.23.txt	No	46	{(3233812.female.24.txt, 31), (3372401.male.25.txt, 9), (2929974.female.36.txt, 1), (3655041.male.35.txt, 1), (3802286.male.23.txt, 1)}
+3235079.female.27.txt	3235079.female.27.txt	Yes	57	{(3305901.female.38.txt, 42), (3752236.male.41.txt, 1)}
+3236014.female.17.txt	4042241.male.48.txt	No	27	{(1280497.male.26.txt, 2), (1407268.male.23.txt, 1), (1561856.male.27.txt, 1), (1727585.female.27.txt, 1), (2140894.female.26.txt, 1)}
+3242040.female.35.txt	3242040.female.35.txt	Yes	98	{(293982.female.23.txt, 1), (3926749.male.26.txt, 1)}
+3242831.male.16.txt	4252081.male.26.txt	No	16	{(1612063.female.24.txt, 7), (1135724.male.34.txt, 2), (1405870.female.26.txt, 1), (1835380.female.16.txt, 1), (232317.female.25.txt, 1)}
+3249063.female.23.txt	3433207.female.23.txt	No	25	{(1935715.male.25.txt, 8), (2217559.female.24.txt, 3), (2229187.female.26.txt, 2), (1709540.female.25.txt, 1), (1970542.female.24.txt, 1)}
+3292539.male.27.txt	3292539.male.27.txt	Yes	54	{(3233812.female.24.txt, 7), (2304201.male.17.txt, 3), (1470319.female.26.txt, 1), (2205026.female.26.txt, 1), (232317.female.25.txt, 1)}
+3292690.female.15.txt	3112588.male.17.txt	No	31	{(2169579.female.24.txt, 18), (1781653.male.17.txt, 5), (1195073.female.15.txt, 1), (1233897.male.17.txt, 1), (1657422.female.24.txt, 1)}
+3295157.female.24.txt	2591513.female.27.txt	No	14	{(1159057.male.25.txt, 4), (2169579.female.24.txt, 4), (1345466.female.24.txt, 1), (2205026.female.26.txt, 1), (2909865.male.17.txt, 1)}
+3299025.male.25.txt	3299025.male.25.txt	Yes	26	{(2229187.female.26.txt, 4), (1407268.male.23.txt, 3), (1193364.female.16.txt, 1), (1306985.female.26.txt, 1), (1971242.female.23.txt, 1)}
+3299377.male.25.txt	3299377.male.25.txt	Yes	76	{(3471988.female.26.txt, 18), (4205392.male.17.txt, 3), (3092694.male.25.txt, 1), (3525160.male.33.txt, 1), (3866049.female.25.txt, 1)}
+3299768.male.33.txt	3299768.male.33.txt	Yes	66	{(3354959.male.25.txt, 5), (3334775.female.23.txt, 3), (1721569.female.24.txt, 1), (2206507.female.23.txt, 1), (2689553.male.17.txt, 1)}
+3302604.male.26.txt	3444234.male.39.txt	No	56	{(1970542.female.24.txt, 2), (1052611.male.23.txt, 1), (1813392.male.14.txt, 1), (1872490.male.35.txt, 1), (2510334.male.17.txt, 1)}
+3303228.female.37.txt	3303228.female.37.txt	Yes	100	{}
+3303707.male.17.txt	3882131.female.13.txt	No	53	{(3683969.male.17.txt, 32), (3850561.female.24.txt, 8), (4219395.female.23.txt, 4), (3303707.male.17.txt, 3)}
+3304451.female.16.txt	3882131.female.13.txt	No	63	{(3304451.female.16.txt, 37)}
+3304516.male.27.txt	983609.male.24.txt	No	27	{(1394735.male.38.txt, 5), (1667602.female.37.txt, 5), (1596060.male.27.txt, 4), (1504395.female.27.txt, 2), (1790119.male.37.txt, 1)}
+3305901.female.38.txt	3235079.female.27.txt	No	57	{(3305901.female.38.txt, 42), (3752236.male.41.txt, 1)}
+3306071.female.38.txt	3235079.female.27.txt	No	57	{(3305901.female.38.txt, 42), (3752236.male.41.txt, 1)}
+3306336.female.16.txt	4167040.female.15.txt	No	39	{(3306336.female.16.txt, 11), (1919658.female.27.txt, 5), (3425335.female.37.txt, 2), (1509245.female.16.txt, 1), (3405780.male.24.txt, 1)}
+3306467.male.25.txt	3306467.male.25.txt	Yes	66	{(3444234.male.39.txt, 7), (2913134.male.26.txt, 1), (3299025.male.25.txt, 1), (3366803.male.24.txt, 1), (3434889.female.23.txt, 1)}
+3307493.male.25.txt	1280497.male.26.txt	No	22	{(237056.male.24.txt, 18), (2461522.male.25.txt, 3), (2205026.female.26.txt, 2), (1162051.female.23.txt, 1), (2414493.female.16.txt, 1)}
+3308024.female.24.txt	3308024.female.24.txt	Yes	22	{(2879658.female.23.txt, 15), (1626309.male.14.txt, 9), (1449141.male.43.txt, 5), (2461522.male.25.txt, 5), (1185193.female.17.txt, 1)}
+3308201.male.26.txt	3308201.male.26.txt	Yes	62	{(2004217.female.17.txt, 3), (1274171.male.36.txt, 2), (1935715.male.25.txt, 1), (2898040.female.23.txt, 1), (3071102.female.33.txt, 1)}
+3310584.male.26.txt	3545775.male.17.txt	No	40	{(2054735.female.27.txt, 22), (3342761.female.26.txt, 17), (3175142.male.44.txt, 6), (3483449.female.23.txt, 6), (1604755.male.36.txt, 1)}
+3312354.male.27.txt	3720867.male.37.txt	No	62	{(3312354.male.27.txt, 8), (3040882.male.23.txt, 7), (3302604.male.26.txt, 1), (3335299.female.24.txt, 1), (3434050.female.24.txt, 1)}
+3312827.female.25.txt	3749396.female.27.txt	No	16	{(3112588.male.17.txt, 4), (2888654.female.24.txt, 2), (1504395.female.27.txt, 1), (1601416.female.36.txt, 1), (2870581.male.17.txt, 1)}
+3320151.male.16.txt	3320151.male.16.txt	Yes	65	{(1063313.female.16.txt, 3), (1889083.female.17.txt, 2), (3441235.female.23.txt, 2), (2169579.female.24.txt, 1), (2981368.male.16.txt, 1)}
+3320363.male.46.txt	3320363.male.46.txt	Yes	100	{}
+3320833.female.25.txt	4112615.female.23.txt	No	87	{(1649144.male.17.txt, 1), (3070838.female.15.txt, 1), (3302604.male.26.txt, 1), (3347518.male.17.txt, 1), (3389714.female.24.txt, 1)}
+3321675.female.26.txt	3948537.female.35.txt	No	30	{(1394735.male.38.txt, 11), (2257718.female.26.txt, 2), (1226756.male.23.txt, 1), (2287879.female.25.txt, 1), (2462546.female.26.txt, 1)}
+3321956.male.15.txt	3321956.male.15.txt	Yes	100	{}
+3323485.male.14.txt	3323485.male.14.txt	Yes	31	{(3357337.female.17.txt, 5), (1274171.male.36.txt, 1), (1405766.male.24.txt, 1), (2229187.female.26.txt, 1), (3429278.male.13.txt, 1)}
+3324491.male.17.txt	3324491.male.17.txt	Yes	98	{(3302604.male.26.txt, 1), (3363794.female.23.txt, 1)}
+3324711.female.16.txt	3324711.female.16.txt	Yes	80	{(3866890.male.24.txt, 2), (3906670.male.24.txt, 2), (3868792.male.33.txt, 1), (3926749.male.26.txt, 1), (3930829.female.23.txt, 1)}
+3326689.male.14.txt	3326689.male.14.txt	Yes	93	{(3334775.female.23.txt, 5), (3541261.male.15.txt, 1), (3650974.male.23.txt, 1)}
+3329669.female.25.txt	3329669.female.25.txt	Yes	99	{(3683969.male.17.txt, 1)}
+3329942.male.25.txt	3329942.male.25.txt	Yes	92	{(3750238.female.26.txt, 4), (3344485.male.25.txt, 2), (4170453.male.24.txt, 2)}
+3331865.male.23.txt	3718323.male.25.txt	No	24	{(3331865.male.23.txt, 7), (3128960.male.27.txt, 3), (2929974.female.36.txt, 2), (1478602.male.23.txt, 1), (1604755.male.36.txt, 1)}
+3332105.male.17.txt	3332105.male.17.txt	Yes	36	{(3471937.female.23.txt, 30), (3415296.female.14.txt, 3), (3718323.male.25.txt, 2), (2886367.female.17.txt, 1), (3725589.female.23.txt, 1)}
+3332322.female.15.txt	3682865.male.48.txt	No	46	{(2772378.female.45.txt, 5), (2217559.female.24.txt, 2), (1944324.male.16.txt, 1), (2839532.male.17.txt, 1), (3071102.female.33.txt, 1)}
+3332839.male.17.txt	3545775.male.17.txt	No	50	{(3121356.male.26.txt, 8), (3205824.female.26.txt, 5), (1449141.male.43.txt, 4), (2597626.female.26.txt, 1), (3175142.male.44.txt, 1)}
+3332895.male.25.txt	3343256.male.23.txt	No	17	{(1478602.male.23.txt, 10), (1226756.male.23.txt, 3), (1970542.female.24.txt, 3), (2027896.female.16.txt, 3), (1604755.male.36.txt, 1)}
+3334775.female.23.txt	3965053.male.15.txt	No	48	{(1394735.male.38.txt, 3), (3607921.male.24.txt, 2), (2058521.male.35.txt, 1), (2586248.male.17.txt, 1), (3334775.female.23.txt, 1)}
+3335299.female.24.txt	2913134.male.26.txt	No	62	{(3128960.male.27.txt, 4), (237056.male.24.txt, 2), (1185193.female.17.txt, 1), (1504395.female.27.txt, 1), (2293441.male.25.txt, 1)}
+3335650.male.15.txt	3718323.male.25.txt	No	22	{(1596060.male.27.txt, 4), (1651174.male.24.txt, 4), (1872490.male.35.txt, 3), (1028027.female.16.txt, 1), (1813392.male.14.txt, 1)}
+3337065.female.23.txt	3337065.female.23.txt	Yes	99	{(674684.female.23.txt, 1)}
+3337653.female.37.txt	3914804.female.16.txt	No	24	{(2004217.female.17.txt, 14), (2157212.male.23.txt, 4), (1612063.female.24.txt, 1), (1651174.male.24.txt, 1), (2055017.male.24.txt, 1)}
+3337727.male.15.txt	3337727.male.15.txt	Yes	68	{(4254447.male.23.txt, 32)}
+3338490.female.34.txt	3338490.female.34.txt	Yes	31	{(3306336.female.16.txt, 4), (2898040.female.23.txt, 2), (3363794.female.23.txt, 2), (2392907.female.14.txt, 1), (3363835.female.36.txt, 1)}
+3340219.male.45.txt	3340219.male.45.txt	Yes	48	{(2293441.male.25.txt, 26), (320317.male.36.txt, 22), (3310584.male.26.txt, 2), (4199212.male.16.txt, 1), (511641.male.39.txt, 1)}
+3340458.male.26.txt	3340458.male.26.txt	Yes	27	{(1233897.male.17.txt, 9), (1976124.male.25.txt, 4), (1756819.female.23.txt, 2), (2217559.female.24.txt, 2), (1667602.female.37.txt, 1)}
+3341249.male.43.txt	3341249.male.43.txt	Yes	100	{}
+3342074.female.23.txt	2462546.female.26.txt	No	36	{(1345466.female.24.txt, 2), (1159057.male.25.txt, 1), (1721569.female.24.txt, 1), (1727585.female.27.txt, 1), (1756819.female.23.txt, 1)}
+3342761.female.26.txt	3342761.female.26.txt	Yes	100	{}
+3343256.male.23.txt	3375813.male.34.txt	No	59	{(2994939.male.37.txt, 15), (1135724.male.34.txt, 2), (2325994.male.27.txt, 2), (1509245.female.16.txt, 1), (2376531.male.39.txt, 1)}
+3344172.male.35.txt	3344172.male.35.txt	Yes	18	{(3148889.female.26.txt, 7), (2927226.male.27.txt, 3), (3012983.female.40.txt, 2), (1226756.male.23.txt, 1), (2839210.male.23.txt, 1)}
+3344485.male.25.txt	3344485.male.25.txt	Yes	48	{(3373089.female.24.txt, 16), (2169579.female.24.txt, 8), (3416968.male.25.txt, 4), (3321956.male.15.txt, 3), (3320151.male.16.txt, 1)}
+3344523.male.24.txt	3854685.female.14.txt	No	43	{(2340073.female.16.txt, 9), (1407268.male.23.txt, 3), (1934543.female.17.txt, 3), (3324711.female.16.txt, 3), (1971242.female.23.txt, 1)}
+3346538.male.35.txt	3346538.male.35.txt	Yes	87	{(4187516.male.44.txt, 7), (2732859.male.15.txt, 5), (3369840.female.44.txt, 1)}
+3347518.male.17.txt	3347518.male.17.txt	Yes	79	{(1306985.female.26.txt, 2), (3648272.male.16.txt, 2), (1932521.female.16.txt, 1), (2586248.male.17.txt, 1), (3637628.female.16.txt, 1)}
+3348041.female.17.txt	3982622.female.26.txt	No	28	{(1504395.female.27.txt, 14), (1516660.male.17.txt, 3), (1193364.female.16.txt, 1), (1338710.male.25.txt, 1), (1407268.male.23.txt, 1)}
+3350384.female.14.txt	3350384.female.14.txt	Yes	94	{(4163734.male.14.txt, 2), (3394208.male.17.txt, 1), (3534011.male.17.txt, 1), (3562907.male.16.txt, 1), (3682338.female.16.txt, 1)}
+3350388.male.17.txt	3350388.male.17.txt	Yes	78	{(2870581.male.17.txt, 3), (3444234.male.39.txt, 2), (3088825.male.17.txt, 1), (3249063.female.23.txt, 1), (3299025.male.25.txt, 1)}
+3351823.female.17.txt	3351823.female.17.txt	Yes	100	{}
+3352958.female.14.txt	3352958.female.14.txt	Yes	100	{}
+3353407.female.16.txt	3353407.female.16.txt	Yes	90	{(3500871.female.16.txt, 5), (3661496.female.16.txt, 2), (3352958.female.14.txt, 1), (3364640.female.26.txt, 1), (3593343.female.15.txt, 1)}
+3354959.male.25.txt	3948831.female.26.txt	No	39	{(1657422.female.24.txt, 15), (1813392.male.14.txt, 8), (1159057.male.25.txt, 1), (1835380.female.16.txt, 1), (2186843.male.27.txt, 1)}
+3356636.male.23.txt	2482900.male.24.txt	No	44	{(1651174.male.24.txt, 3), (1289910.male.17.txt, 1), (1970542.female.24.txt, 1), (2461522.male.25.txt, 1), (2772378.female.45.txt, 1)}
+3356780.male.34.txt	3340219.male.45.txt	No	55	{(4182592.female.24.txt, 18), (511641.male.39.txt, 11), (1449141.male.43.txt, 8), (3175142.male.44.txt, 7), (1478602.male.23.txt, 1)}
+3357337.female.17.txt	3519860.female.16.txt	No	28	{(2257718.female.26.txt, 27), (2186843.male.27.txt, 5), (1223044.male.16.txt, 1), (1587910.female.16.txt, 1), (3112588.male.17.txt, 1)}
+3358515.female.27.txt	3840957.female.23.txt	No	34	{(1756819.female.23.txt, 12), (2206507.female.23.txt, 8), (1970542.female.24.txt, 3), (1657422.female.24.txt, 1), (1721569.female.24.txt, 1)}
+3360862.male.25.txt	3360862.male.25.txt	Yes	72	{(3791211.female.24.txt, 15), (4006405.male.26.txt, 7), (3637628.female.16.txt, 3), (3723731.male.24.txt, 2), (3452539.female.16.txt, 1)}
+3363794.female.23.txt	4140983.female.16.txt	No	16	{(2304201.male.17.txt, 7), (2229187.female.26.txt, 5), (1306985.female.26.txt, 3), (2898040.female.23.txt, 3), (2630438.female.27.txt, 1)}
+3363835.female.36.txt	4070413.male.17.txt	No	45	{(3441235.female.23.txt, 17), (2610055.female.25.txt, 5), (3471937.female.23.txt, 5), (3370474.male.17.txt, 1), (3400209.female.14.txt, 1)}
+3364574.female.14.txt	3132605.male.16.txt	No	65	{(3371985.female.16.txt, 8), (3500472.male.15.txt, 6), (1231733.female.24.txt, 3), (1289910.male.17.txt, 1), (2301166.female.24.txt, 1)}
+3364640.female.26.txt	3364640.female.26.txt	Yes	35	{(3127881.male.24.txt, 4), (1721569.female.24.txt, 1), (2221350.female.14.txt, 1), (2888654.female.24.txt, 1), (3337653.female.37.txt, 1)}
+3364922.female.16.txt	3364922.female.16.txt	Yes	53	{(3819418.female.24.txt, 31), (3931735.female.23.txt, 4), (3632466.male.25.txt, 2), (3938917.female.14.txt, 2), (3692930.male.17.txt, 1)}
+3366087.male.14.txt	3366087.male.14.txt	Yes	30	{(2757248.female.15.txt, 4), (1787248.male.16.txt, 3), (3606593.female.14.txt, 3), (2913095.female.17.txt, 2), (3408904.female.15.txt, 1)}
+3366803.male.24.txt	3366803.male.24.txt	Yes	76	{(1478602.male.23.txt, 12), (3441235.female.23.txt, 7), (2913134.male.26.txt, 1), (3425335.female.37.txt, 1), (3742816.female.23.txt, 1)}
+3366901.female.24.txt	3366901.female.24.txt	Yes	81	{(3353407.female.16.txt, 5), (3422982.female.17.txt, 3), (3490286.male.23.txt, 2), (2879658.female.23.txt, 1), (3519295.female.15.txt, 1)}
+3368072.female.23.txt	3368072.female.23.txt	Yes	100	{}
+3369840.female.44.txt	3369840.female.44.txt	Yes	80	{(3346538.male.35.txt, 14), (3320833.female.25.txt, 2), (4187516.male.44.txt, 2), (2173808.male.41.txt, 1), (3607330.male.39.txt, 1)}
+3370474.male.17.txt	3818898.male.24.txt	No	68	{(3961556.male.25.txt, 17), (3370474.male.17.txt, 7), (3493680.female.26.txt, 2), (3882992.female.14.txt, 1), (3930829.female.23.txt, 1)}
+3371347.male.23.txt	3371347.male.23.txt	Yes	92	{(3956468.female.15.txt, 3), (3828356.female.26.txt, 1), (3877496.female.41.txt, 1), (3884381.male.33.txt, 1), (3925317.male.23.txt, 1)}
+3371985.female.16.txt	3371985.female.16.txt	Yes	99	{(3951417.male.17.txt, 1)}
+3372401.male.25.txt	3143116.male.25.txt	No	20	{(2257718.female.26.txt, 5), (1591821.male.24.txt, 2), (3128124.female.26.txt, 2), (1345466.female.24.txt, 1), (2630438.female.27.txt, 1)}
+3373089.female.24.txt	4170453.male.24.txt	No	25	{(3373089.female.24.txt, 4), (3648272.male.16.txt, 3), (3471988.female.26.txt, 2), (1284157.female.16.txt, 1), (3641085.male.13.txt, 1)}
+3375813.male.34.txt	1478602.male.23.txt	No	35	{(3205824.female.26.txt, 23), (3356780.male.34.txt, 10), (1309251.male.23.txt, 1), (2376531.male.39.txt, 1), (3334775.female.23.txt, 1)}
+3375862.female.23.txt	2772378.female.45.txt	No	21	{(2996701.female.40.txt, 21), (1591821.male.24.txt, 3), (2257718.female.26.txt, 2), (1159057.male.25.txt, 1), (2857628.female.27.txt, 1)}
+3376440.male.37.txt	3376440.male.37.txt	Yes	100	{}
+3378253.male.24.txt	3378253.male.24.txt	Yes	23	{(3416968.male.25.txt, 19), (1407268.male.23.txt, 9), (2054735.female.27.txt, 2), (2257718.female.26.txt, 1), (2929974.female.36.txt, 1)}
+3378480.male.26.txt	3744255.male.25.txt	No	49	{(3415674.male.16.txt, 4), (1587910.female.16.txt, 2), (1657422.female.24.txt, 2), (1306985.female.26.txt, 1), (3364574.female.14.txt, 1)}
+3379314.female.13.txt	3379314.female.13.txt	Yes	85	{(3498277.female.13.txt, 4), (1794773.male.15.txt, 1), (2952149.male.13.txt, 1), (3357337.female.17.txt, 1), (3425540.female.14.txt, 1)}
+3381272.female.23.txt	3381272.female.23.txt	Yes	100	{}
+3381276.female.37.txt	3381276.female.37.txt	Yes	97	{(3351823.female.17.txt, 2), (3373089.female.24.txt, 1)}
+3381753.female.17.txt	4033638.female.17.txt	No	29	{(2340073.female.16.txt, 20), (1274171.male.36.txt, 8), (3350388.male.17.txt, 3), (3337727.male.15.txt, 2), (3143116.male.25.txt, 1)}
+3386981.male.27.txt	3016212.female.35.txt	No	28	{(1405766.male.24.txt, 6), (1159057.male.25.txt, 4), (1727585.female.27.txt, 1), (1936095.female.33.txt, 1), (2870581.male.17.txt, 1)}
+3389118.female.23.txt	3924083.male.16.txt	No	21	{(1651174.male.24.txt, 16), (1561856.male.27.txt, 2), (1233897.male.17.txt, 1), (1657422.female.24.txt, 1), (2069366.female.25.txt, 1)}
+3389530.female.16.txt	3205824.female.26.txt	No	71	{(1516660.male.17.txt, 7), (1405870.female.26.txt, 1), (1504395.female.27.txt, 1), (2217559.female.24.txt, 1), (2325994.male.27.txt, 1)}
+3389714.female.24.txt	3389714.female.24.txt	Yes	56	{(3381753.female.17.txt, 5), (3444234.male.39.txt, 2), (2870581.male.17.txt, 1), (3324491.male.17.txt, 1), (3452539.female.16.txt, 1)}
+3389942.male.17.txt	3389942.male.17.txt	Yes	100	{}
+3390046.male.23.txt	4185171.male.23.txt	No	14	{(1008329.female.16.txt, 2), (1280497.male.26.txt, 1), (1309251.male.23.txt, 1), (1970542.female.24.txt, 1), (2217559.female.24.txt, 1)}
+3391462.male.15.txt	3997669.female.25.txt	No	16	{(1601416.female.36.txt, 11), (2510334.male.17.txt, 3), (2869734.male.23.txt, 3), (1657422.female.24.txt, 1), (1721569.female.24.txt, 1)}
+3393874.female.24.txt	4047838.male.23.txt	No	45	{(1970542.female.24.txt, 2), (2845838.female.23.txt, 2), (1159057.male.25.txt, 1), (1943565.male.33.txt, 1), (2069366.female.25.txt, 1)}
+3394208.male.17.txt	3537787.female.16.txt	No	17	{(1185193.female.17.txt, 10), (1587910.female.16.txt, 6), (2414493.female.16.txt, 3), (2886367.female.17.txt, 2), (2116991.male.33.txt, 1)}
+3395340.male.27.txt	3395340.male.27.txt	Yes	93	{(3541261.male.15.txt, 4), (4249969.male.23.txt, 2), (3302604.male.26.txt, 1)}
+3400209.female.14.txt	3400209.female.14.txt	Yes	100	{}
+3405780.male.24.txt	3366803.male.24.txt	No	45	{(3703686.male.16.txt, 4), (4006405.male.26.txt, 2), (3405780.male.24.txt, 1), (3516981.male.25.txt, 1), (3582727.female.13.txt, 1)}
+3408761.female.23.txt	3408761.female.23.txt	Yes	100	{}
+3408904.female.15.txt	3408904.female.15.txt	Yes	91	{(3709080.male.25.txt, 4), (3454136.male.15.txt, 3), (1516660.male.17.txt, 1), (3573176.female.15.txt, 1)}
+3409476.female.36.txt	3409476.female.36.txt	Yes	100	{}
+3409984.male.24.txt	3956468.female.15.txt	No	19	{(293982.female.23.txt, 15), (3877496.female.41.txt, 10), (3235079.female.27.txt, 9), (3819418.female.24.txt, 5), (3887186.female.36.txt, 1)}
+3413355.male.37.txt	8173.male.42.txt	No	31	{(1478602.male.23.txt, 14), (2376531.male.39.txt, 10), (3337653.female.37.txt, 5), (1159057.male.25.txt, 1), (2772378.female.45.txt, 1)}
+3414911.female.17.txt	2027896.female.16.txt	No	44	{(3818898.male.24.txt, 8), (1162051.female.23.txt, 7), (3493680.female.26.txt, 4), (3233812.female.24.txt, 2), (293982.female.23.txt, 1)}
+3414946.male.16.txt	3414946.male.16.txt	Yes	97	{(3938917.female.14.txt, 2), (3742816.female.23.txt, 1)}
+3415280.male.14.txt	3415280.male.14.txt	Yes	100	{}
+3415296.female.14.txt	3415296.female.14.txt	Yes	97	{(2304201.male.17.txt, 1), (3299025.male.25.txt, 1), (3425335.female.37.txt, 1)}
+3415674.male.16.txt	3415674.male.16.txt	Yes	66	{(3370474.male.17.txt, 24), (4160427.female.14.txt, 5), (3537787.female.16.txt, 2), (4206326.female.23.txt, 2), (4070413.male.17.txt, 1)}
+3416793.male.24.txt	3416793.male.24.txt	Yes	95	{(3849434.female.36.txt, 2), (3931735.female.23.txt, 2), (4036635.female.25.txt, 1)}
+3416968.male.25.txt	3416968.male.25.txt	Yes	59	{(3471937.female.23.txt, 18), (1306985.female.26.txt, 8), (3551239.male.41.txt, 2), (3353407.female.16.txt, 1), (3582727.female.13.txt, 1)}
+3417254.male.13.txt	1478602.male.23.txt	No	41	{(1561856.male.27.txt, 3), (3186585.male.24.txt, 2), (1596060.male.27.txt, 1), (2734125.female.23.txt, 1), (2879658.female.23.txt, 1)}
+3417899.female.26.txt	1596060.male.27.txt	No	26	{(1076363.male.40.txt, 2), (1835380.female.16.txt, 2), (1052611.male.23.txt, 1), (2734125.female.23.txt, 1), (2772378.female.45.txt, 1)}
+3418839.female.24.txt	3418839.female.24.txt	Yes	93	{(3351823.female.17.txt, 5), (1963555.female.14.txt, 1), (3869898.female.17.txt, 1)}
+3420481.female.14.txt	3877025.female.17.txt	No	91	{(2757248.female.15.txt, 7), (1963555.female.14.txt, 1), (3949276.female.25.txt, 1)}
+3422500.male.16.txt	3692930.male.17.txt	No	46	{(3422500.male.16.txt, 27), (3233812.female.24.txt, 2), (3622174.male.16.txt, 2), (2839532.male.17.txt, 1), (4042241.male.48.txt, 1)}
+3422982.female.17.txt	3415296.female.14.txt	No	32	{(1721569.female.24.txt, 18), (3312827.female.25.txt, 8), (3299025.male.25.txt, 4), (1405766.male.24.txt, 3), (1561856.male.27.txt, 1)}
+3425335.female.37.txt	3525160.male.33.txt	No	15	{(2857628.female.27.txt, 12), (1919658.female.27.txt, 10), (1185193.female.17.txt, 5), (2772378.female.45.txt, 2), (1509245.female.16.txt, 1)}
+3425540.female.14.txt	3321675.female.26.txt	No	40	{(3422982.female.17.txt, 19), (1963555.female.14.txt, 12), (2870581.male.17.txt, 3), (3351823.female.17.txt, 2), (3352958.female.14.txt, 1)}
+3426176.male.17.txt	4167608.female.38.txt	No	34	{(1872490.male.35.txt, 22), (3666377.female.44.txt, 21), (3337653.female.37.txt, 20), (3426176.male.17.txt, 1), (3838813.female.23.txt, 1)}
+3427361.female.26.txt	3956468.female.15.txt	No	31	{(3998820.male.17.txt, 29), (3818898.male.24.txt, 25), (3992378.female.14.txt, 15)}
+3428011.male.33.txt	3957509.male.38.txt	No	28	{(3205824.female.26.txt, 15), (1380515.male.40.txt, 2), (3148889.female.26.txt, 2), (2630438.female.27.txt, 1), (3372401.male.25.txt, 1)}
+3428135.female.27.txt	3930829.female.23.txt	No	16	{(1162051.female.23.txt, 11), (2057027.female.42.txt, 7), (2027896.female.16.txt, 6), (1651174.male.24.txt, 2), (293982.female.23.txt, 1)}
+3429278.male.13.txt	3429278.male.13.txt	Yes	14	{(3016212.female.35.txt, 7), (1555267.male.35.txt, 1), (1934543.female.17.txt, 1), (1971242.female.23.txt, 1), (2512687.female.16.txt, 1)}
+3432301.female.17.txt	3432301.female.17.txt	Yes	70	{(3641085.male.13.txt, 29), (3351823.female.17.txt, 1)}
+3433207.female.23.txt	3433207.female.23.txt	Yes	94	{(3604445.female.27.txt, 3), (3434091.male.27.txt, 2), (3736933.female.24.txt, 1)}
+3434050.female.24.txt	3434050.female.24.txt	Yes	64	{(1274171.male.36.txt, 2), (1185193.female.17.txt, 1), (1794773.male.15.txt, 1), (2257718.female.26.txt, 1), (2414493.female.16.txt, 1)}
+3434091.male.27.txt	511641.male.39.txt	No	48	{(2834611.female.24.txt, 18), (3205824.female.26.txt, 7), (3340219.male.45.txt, 5), (1478602.male.23.txt, 4), (1598918.male.27.txt, 2)}
+3434889.female.23.txt	4173841.female.43.txt	No	20	{(1274171.male.36.txt, 6), (1204495.male.17.txt, 2), (1604755.male.36.txt, 2), (1407268.male.23.txt, 1), (2591513.female.27.txt, 1)}
+3438348.female.37.txt	3438348.female.37.txt	Yes	15	{(2287879.female.25.txt, 6), (1159057.male.25.txt, 1), (2414493.female.16.txt, 1), (3057452.male.25.txt, 1), (3071102.female.33.txt, 1)}
+3438987.female.25.txt	3718323.male.25.txt	No	37	{(2257718.female.26.txt, 4), (1223044.male.16.txt, 2), (1306985.female.26.txt, 1), (1970542.female.24.txt, 1), (2510334.male.17.txt, 1)}
+3439632.male.13.txt	2224636.female.17.txt	No	12	{(1185193.female.17.txt, 9), (1284157.female.16.txt, 4), (1028027.female.16.txt, 1), (1063313.female.16.txt, 1), (1561856.male.27.txt, 1)}
+3441235.female.23.txt	3768571.female.17.txt	No	73	{(2898040.female.23.txt, 7), (1657422.female.24.txt, 2), (2512687.female.16.txt, 2), (3366803.male.24.txt, 1), (3471937.female.23.txt, 1)}
+3441237.female.24.txt	3650974.male.23.txt	No	43	{(1651174.male.24.txt, 6), (1380515.male.40.txt, 4), (1233897.male.17.txt, 2), (1976124.male.25.txt, 2), (2257718.female.26.txt, 2)}
+3442766.male.26.txt	237056.male.24.txt	No	59	{(2425281.male.14.txt, 8), (2882452.male.16.txt, 4), (3425335.female.37.txt, 4), (2879658.female.23.txt, 2), (3391462.male.15.txt, 1)}
+3444234.male.39.txt	3444234.male.39.txt	Yes	93	{(3434091.male.27.txt, 6), (3997669.female.25.txt, 1)}
+3444434.female.17.txt	3415674.male.16.txt	No	71	{(2404074.female.27.txt, 10), (3370474.male.17.txt, 10), (3810410.male.16.txt, 3), (3519860.female.16.txt, 2), (3828440.male.24.txt, 2)}
+3448192.female.26.txt	3736933.female.24.txt	No	37	{(1721569.female.24.txt, 9), (2461522.male.25.txt, 2), (1366896.female.17.txt, 1), (2991302.male.24.txt, 1), (3302604.male.26.txt, 1)}
+3450307.male.24.txt	3650974.male.23.txt	No	35	{(1223044.male.16.txt, 1), (1280497.male.26.txt, 1), (1478602.male.23.txt, 1), (1504395.female.27.txt, 1), (1909905.male.33.txt, 1)}
+3450759.female.14.txt	3450759.female.14.txt	Yes	96	{(1835882.female.17.txt, 1), (3656447.male.15.txt, 1), (3934445.female.13.txt, 1), (4168118.male.17.txt, 1)}
+3451090.male.23.txt	3799490.female.25.txt	No	30	{(2069366.female.25.txt, 8), (1185193.female.17.txt, 2), (1274171.male.36.txt, 2), (1919658.female.27.txt, 1), (1970542.female.24.txt, 1)}
+3451421.male.23.txt	4182592.female.24.txt	No	55	{(3570676.female.36.txt, 31), (3767607.male.40.txt, 8), (3409984.male.24.txt, 3), (3451421.male.23.txt, 2), (2734125.female.23.txt, 1)}
+3452133.male.16.txt	3906670.male.24.txt	No	61	{(3043495.male.24.txt, 5), (1136785.male.17.txt, 2), (1063313.female.16.txt, 1), (1835380.female.16.txt, 1), (1976124.male.25.txt, 1)}
+3452539.female.16.txt	1345466.female.24.txt	No	33	{(1781653.male.17.txt, 18), (2772378.female.45.txt, 2), (2839532.male.17.txt, 2), (1028027.female.16.txt, 1), (1185193.female.17.txt, 1)}
+3454136.male.15.txt	3454136.male.15.txt	Yes	33	{(2414493.female.16.txt, 4), (1159057.male.25.txt, 3), (2169579.female.24.txt, 3), (2461522.male.25.txt, 3), (232317.female.25.txt, 2)}
+3454419.male.15.txt	3454419.male.15.txt	Yes	83	{(3353407.female.16.txt, 9), (1345466.female.24.txt, 1), (2938170.male.17.txt, 1), (3351823.female.17.txt, 1), (3637628.female.16.txt, 1)}
+3456507.male.26.txt	3340219.male.45.txt	No	45	{(2994939.male.37.txt, 20), (2293441.male.25.txt, 9), (1449141.male.43.txt, 6), (3376440.male.37.txt, 1), (3409984.male.24.txt, 1)}
+3457056.female.34.txt	3457056.female.34.txt	Yes	58	{(3425335.female.37.txt, 17), (1649144.male.17.txt, 6), (2186843.male.27.txt, 1), (2839532.male.17.txt, 1), (2929974.female.36.txt, 1)}
+3458322.male.35.txt	3458322.male.35.txt	Yes	22	{(3409984.male.24.txt, 16), (3570676.female.36.txt, 15), (3529454.male.25.txt, 11), (2996701.female.40.txt, 3), (3521768.male.14.txt, 1)}
+3462532.female.15.txt	3462532.female.15.txt	Yes	97	{(3546990.female.17.txt, 3)}
+3463756.female.24.txt	4006405.male.26.txt	No	23	{(2257718.female.26.txt, 15), (1159057.male.25.txt, 14), (1596060.male.27.txt, 2), (2898040.female.23.txt, 1), (3128960.male.27.txt, 1)}
+3465662.female.16.txt	3465662.female.16.txt	Yes	100	{}
+3467154.female.16.txt	3467154.female.16.txt	Yes	99	{(3823807.female.14.txt, 1)}
+3471937.female.23.txt	3471937.female.23.txt	Yes	63	{(662223.female.25.txt, 17), (2340073.female.16.txt, 13), (1971242.female.23.txt, 6), (3935450.female.25.txt, 1)}
+3471988.female.26.txt	3471988.female.26.txt	Yes	92	{(3148889.female.26.txt, 3), (3416793.male.24.txt, 2), (3508590.female.27.txt, 1), (4045773.female.26.txt, 1), (4195044.female.34.txt, 1)}
+3473146.female.26.txt	3559973.female.36.txt	No	25	{(1936095.female.33.txt, 3), (1937773.female.26.txt, 2), (1478602.male.23.txt, 1), (1919658.female.27.txt, 1), (1970542.female.24.txt, 1)}
+3473709.male.25.txt	3473709.male.25.txt	Yes	52	{(2257718.female.26.txt, 19), (1504395.female.27.txt, 4), (239860.male.25.txt, 2), (1649144.male.17.txt, 1), (2781841.female.23.txt, 1)}
+3476842.male.24.txt	3545775.male.17.txt	No	20	{(3179370.male.35.txt, 12), (1159057.male.25.txt, 1), (2879658.female.23.txt, 1), (3086427.male.16.txt, 1), (3128960.male.27.txt, 1)}
+3482287.female.26.txt	3802286.male.23.txt	No	34	{(1970542.female.24.txt, 13), (3482287.female.26.txt, 8), (1872490.male.35.txt, 6), (3070838.female.15.txt, 4), (3347518.male.17.txt, 1)}
+3482303.female.33.txt	3482303.female.33.txt	Yes	96	{(3744255.male.25.txt, 3), (3338490.female.34.txt, 1)}
+3483023.male.14.txt	3483023.male.14.txt	Yes	100	{}
+3483325.female.27.txt	3690882.female.25.txt	No	11	{(1709540.female.25.txt, 3), (2461522.male.25.txt, 3), (1721569.female.24.txt, 1), (1909905.male.33.txt, 1), (2287879.female.25.txt, 1)}
+3483449.female.23.txt	3828356.female.26.txt	No	50	{(293982.female.23.txt, 4), (2027896.female.16.txt, 2), (232317.female.25.txt, 2), (3292539.male.27.txt, 1), (3358515.female.27.txt, 1)}
+3487175.male.23.txt	3487175.male.23.txt	Yes	93	{(3340219.male.45.txt, 4), (2293441.male.25.txt, 3)}
+3488850.female.17.txt	3488850.female.17.txt	Yes	100	{}
+3490286.male.23.txt	3490286.male.23.txt	Yes	28	{(2229187.female.26.txt, 4), (1185193.female.17.txt, 3), (2304201.male.17.txt, 3), (2510334.male.17.txt, 2), (1470319.female.26.txt, 1)}
+3491774.male.36.txt	3802286.male.23.txt	No	57	{(2597626.female.26.txt, 17), (3620911.male.23.txt, 8), (3658948.female.24.txt, 3), (3451421.male.23.txt, 2), (1596060.male.27.txt, 1)}
+3492176.male.17.txt	4033638.female.17.txt	No	31	{(2304201.male.17.txt, 14), (3389942.male.17.txt, 5), (1721569.female.24.txt, 1), (3174561.female.16.txt, 1), (3342761.female.26.txt, 1)}
+3493661.female.16.txt	3493661.female.16.txt	Yes	48	{(3350384.female.14.txt, 19), (2169579.female.24.txt, 2), (1587910.female.16.txt, 1), (3348041.female.17.txt, 1), (3364922.female.16.txt, 1)}
+3493680.female.26.txt	3493680.female.26.txt	Yes	100	{}
+3495887.male.17.txt	3495887.male.17.txt	Yes	38	{(1889083.female.17.txt, 9), (3502180.female.14.txt, 4), (3513465.female.16.txt, 4), (3848343.female.17.txt, 3), (3637329.female.14.txt, 1)}
+3496773.male.24.txt	3088214.male.17.txt	No	67	{(1504395.female.27.txt, 3), (1280497.male.26.txt, 2), (2461522.male.25.txt, 2), (2512687.female.16.txt, 1), (2772378.female.45.txt, 1)}
+3496847.female.25.txt	3500871.female.16.txt	No	19	{(2069366.female.25.txt, 10), (2287879.female.25.txt, 3), (1970542.female.24.txt, 2), (1727585.female.27.txt, 1), (2510334.male.17.txt, 1)}
+3497520.male.26.txt	3573373.male.17.txt	No	18	{(2173808.male.41.txt, 6), (1455561.male.17.txt, 2), (1504395.female.27.txt, 1), (2055306.male.15.txt, 1), (3016212.female.35.txt, 1)}
+3498277.female.13.txt	3498277.female.13.txt	Yes	93	{(1835882.female.17.txt, 2), (2667384.female.16.txt, 1), (3112588.male.17.txt, 1), (4033638.female.17.txt, 1), (4173964.male.16.txt, 1)}
+3498827.male.15.txt	3975428.male.15.txt	No	53	{(3422982.female.17.txt, 14), (3540194.female.17.txt, 12), (3643712.female.26.txt, 7), (3451421.male.23.txt, 2), (3823807.female.14.txt, 1)}
+3500472.male.15.txt	3848031.female.15.txt	No	39	{(1845692.male.14.txt, 14), (3351823.female.17.txt, 5), (2718350.female.17.txt, 2), (3432301.female.17.txt, 2), (3112588.male.17.txt, 1)}
+3500871.female.16.txt	3500871.female.16.txt	Yes	49	{(2340073.female.16.txt, 11), (3350388.male.17.txt, 4), (1657422.female.24.txt, 1), (2597433.female.15.txt, 1), (3312827.female.25.txt, 1)}
+3502180.female.14.txt	3502180.female.14.txt	Yes	95	{(3882131.female.13.txt, 5)}
+3504914.male.16.txt	3924083.male.16.txt	No	39	{(2979384.female.24.txt, 3), (1509245.female.16.txt, 2), (2889784.female.17.txt, 1), (322194.male.27.txt, 1), (3299377.male.25.txt, 1)}
+3508590.female.27.txt	2161435.male.16.txt	No	25	{(1657422.female.24.txt, 8), (1935715.male.25.txt, 8), (2287879.female.25.txt, 7), (1756819.female.23.txt, 1), (3040702.female.43.txt, 1)}
+3510001.male.17.txt	3545775.male.17.txt	No	26	{(2913134.male.26.txt, 4), (2027896.female.16.txt, 2), (1306985.female.26.txt, 1), (1721569.female.24.txt, 1), (2898040.female.23.txt, 1)}
+3510796.female.25.txt	3791211.female.24.txt	No	17	{(3302604.male.26.txt, 8), (1935715.male.25.txt, 2), (1345466.female.24.txt, 1), (3112588.male.17.txt, 1), (3249063.female.23.txt, 1)}
+3511005.female.27.txt	3366901.female.24.txt	No	61	{(3511005.female.27.txt, 25), (3667367.female.25.txt, 3), (2879658.female.23.txt, 1), (3086427.male.16.txt, 1), (3249063.female.23.txt, 1)}
+3512293.female.24.txt	4070413.male.17.txt	No	24	{(3343256.male.23.txt, 17), (2512687.female.16.txt, 13), (2239146.male.23.txt, 8), (1306985.female.26.txt, 7), (3391462.male.15.txt, 2)}
+3513465.female.16.txt	3513465.female.16.txt	Yes	72	{(4029416.female.14.txt, 22), (3882131.female.13.txt, 3), (4224081.male.16.txt, 1), (4259331.male.17.txt, 1), (4298179.male.13.txt, 1)}
+3514312.female.24.txt	2510334.male.17.txt	No	28	{(1601416.female.36.txt, 3), (1204495.male.17.txt, 1), (1504395.female.27.txt, 1), (1657422.female.24.txt, 1), (1932521.female.16.txt, 1)}
+3514592.female.17.txt	3514592.female.17.txt	Yes	100	{}
+3515754.female.26.txt	1872490.male.35.txt	No	18	{(1721569.female.24.txt, 14), (2772378.female.45.txt, 3), (3389942.male.17.txt, 2), (2952149.male.13.txt, 1), (3337653.female.37.txt, 1)}
+3516981.male.25.txt	3516981.male.25.txt	Yes	67	{(3553589.female.25.txt, 7), (3930829.female.23.txt, 6), (3931735.female.23.txt, 5), (3867461.female.23.txt, 3), (3493680.female.26.txt, 1)}
+3517276.male.24.txt	3914804.female.16.txt	No	23	{(1612063.female.24.txt, 11), (1970542.female.24.txt, 2), (2889784.female.17.txt, 2), (2186843.male.27.txt, 1), (2689553.male.17.txt, 1)}
+3517603.male.25.txt	4068871.male.33.txt	No	51	{(3620911.male.23.txt, 40), (3703686.male.16.txt, 2), (3088214.male.17.txt, 1), (3720590.female.33.txt, 1), (3781656.male.25.txt, 1)}
+3518225.female.24.txt	3518225.female.24.txt	Yes	97	{(3366901.female.24.txt, 1), (3667367.female.25.txt, 1), (3690882.female.25.txt, 1)}
+3518258.female.16.txt	3518258.female.16.txt	Yes	100	{}
+3519295.female.15.txt	3292690.female.15.txt	No	24	{(3070838.female.15.txt, 2), (2169579.female.24.txt, 1), (2839532.male.17.txt, 1), (2909865.male.17.txt, 1), (2996701.female.40.txt, 1)}
+3519573.male.33.txt	3519573.male.33.txt	Yes	42	{(1790119.male.37.txt, 4), (1233897.male.17.txt, 1), (1274171.male.36.txt, 1), (1504395.female.27.txt, 1), (1561856.male.27.txt, 1)}
+3519860.female.16.txt	3303707.male.17.txt	No	100	{}
+3520924.male.37.txt	3826969.male.23.txt	No	24	{(1604755.male.36.txt, 23), (2293441.male.25.txt, 8), (1223044.male.16.txt, 2), (1935715.male.25.txt, 1), (2173808.male.41.txt, 1)}
+3521768.male.14.txt	579034.female.17.txt	No	26	{(3324711.female.16.txt, 8), (3312827.female.25.txt, 5), (3127881.male.24.txt, 2), (1601416.female.36.txt, 1), (3350388.male.17.txt, 1)}
+3524499.male.24.txt	3524499.male.24.txt	Yes	100	{}
+3524885.female.34.txt	3524885.female.34.txt	Yes	100	{}
+3525160.male.33.txt	3553589.female.25.txt	No	29	{(3818898.male.24.txt, 13), (3828356.female.26.txt, 9), (3901331.male.33.txt, 5), (293982.female.23.txt, 1), (3849434.female.36.txt, 1)}
+3526380.male.42.txt	2996701.female.40.txt	No	25	{(1604755.male.36.txt, 4), (2325994.male.27.txt, 3), (3393874.female.24.txt, 3), (1657422.female.24.txt, 1), (3334775.female.23.txt, 1)}
+3526571.male.23.txt	4059083.male.41.txt	No	45	{(2217559.female.24.txt, 3), (3127881.male.24.txt, 3), (3040702.female.43.txt, 2), (3057452.male.25.txt, 2), (2927226.male.27.txt, 1)}
+3527397.male.46.txt	2301166.female.24.txt	No	27	{(2732859.male.15.txt, 18), (2100479.female.24.txt, 8), (1667602.female.37.txt, 1), (2173808.male.41.txt, 1), (2597626.female.26.txt, 1)}
+3527426.female.25.txt	3571306.female.15.txt	No	20	{(1596060.male.27.txt, 3), (1516660.male.17.txt, 2), (1604755.male.36.txt, 1), (2461522.male.25.txt, 1), (2610055.female.25.txt, 1)}
+3528859.male.26.txt	983609.male.24.txt	No	19	{(2257718.female.26.txt, 7), (2512687.female.16.txt, 4), (2304201.male.17.txt, 2), (232317.female.25.txt, 1), (237056.male.24.txt, 1)}
+3529454.male.25.txt	4041322.female.15.txt	No	19	{(3112588.male.17.txt, 12), (3148889.female.26.txt, 3), (2217559.female.24.txt, 1), (2909865.male.17.txt, 1), (2991302.male.24.txt, 1)}
+3529478.male.25.txt	2879658.female.23.txt	No	26	{(1596060.male.27.txt, 7), (1274171.male.36.txt, 2), (2173808.male.41.txt, 2), (2186843.male.27.txt, 1), (232317.female.25.txt, 1)}
+3531571.female.24.txt	3954381.male.40.txt	No	43	{(3998820.male.17.txt, 4), (3921215.male.39.txt, 2), (3866049.female.25.txt, 1), (3877496.female.41.txt, 1), (3997669.female.25.txt, 1)}
+3534011.male.17.txt	3534011.male.17.txt	Yes	77	{(3432301.female.17.txt, 11), (3348041.female.17.txt, 6), (1063313.female.16.txt, 3), (2718350.female.17.txt, 2), (3679448.male.14.txt, 1)}
+3536318.male.25.txt	4006405.male.26.txt	No	21	{(1721569.female.24.txt, 5), (1280497.male.26.txt, 2), (1813392.male.14.txt, 2), (1394735.male.38.txt, 1), (237056.male.24.txt, 1)}
+3536476.female.39.txt	293982.female.23.txt	No	36	{(3536476.female.39.txt, 19), (3921215.male.39.txt, 13), (3819418.female.24.txt, 12), (2565326.male.48.txt, 2), (3465662.female.16.txt, 1)}
+3536714.female.25.txt	4062317.male.15.txt	No	16	{(2287879.female.25.txt, 3), (2772378.female.45.txt, 2), (1380515.male.40.txt, 1), (1561856.male.27.txt, 1), (1604755.male.36.txt, 1)}
+3537375.male.23.txt	3793386.male.37.txt	No	31	{(3409984.male.24.txt, 7), (3205824.female.26.txt, 2), (3538366.male.43.txt, 2), (3312354.male.27.txt, 1), (3537375.male.23.txt, 1)}
+3537787.female.16.txt	477665.female.25.txt	No	16	{(2565326.male.48.txt, 2), (3128124.female.26.txt, 2), (3195553.female.17.txt, 2), (1159057.male.25.txt, 1), (2163386.male.26.txt, 1)}
+3538141.male.16.txt	1604755.male.36.txt	No	31	{(2898040.female.23.txt, 17), (3559973.female.36.txt, 10), (3600078.female.36.txt, 5), (232317.female.25.txt, 4), (1231733.female.24.txt, 3)}
+3538366.male.43.txt	4068871.male.33.txt	No	47	{(1657422.female.24.txt, 19), (232317.female.25.txt, 3), (3081301.male.25.txt, 2), (1596060.male.27.txt, 1), (2257718.female.26.txt, 1)}
+3540194.female.17.txt	3561435.female.14.txt	No	37	{(3179434.male.17.txt, 20), (3540194.female.17.txt, 5), (3329669.female.25.txt, 3), (1417798.female.35.txt, 1), (1971242.female.23.txt, 1)}
+3541261.male.15.txt	3541261.male.15.txt	Yes	64	{(2229187.female.26.txt, 11), (1561856.male.27.txt, 1), (2206507.female.23.txt, 1), (2325994.male.27.txt, 1), (2888654.female.24.txt, 1)}
+3545775.male.17.txt	3545775.male.17.txt	Yes	49	{(2173808.male.41.txt, 22), (3528859.male.26.txt, 13), (3504914.male.16.txt, 11), (3802286.male.23.txt, 4), (1478602.male.23.txt, 1)}
+3546990.female.17.txt	3546990.female.17.txt	Yes	100	{}
+3548807.male.15.txt	3548807.male.15.txt	Yes	95	{(3351823.female.17.txt, 4), (3964538.male.27.txt, 1)}
+3550715.male.17.txt	3550715.male.17.txt	Yes	100	{}
+3551239.male.41.txt	3551239.male.41.txt	Yes	93	{(1274171.male.36.txt, 4), (3416968.male.25.txt, 1), (3926749.male.26.txt, 1), (477665.female.25.txt, 1)}
+3552847.male.24.txt	1274171.male.36.txt	No	18	{(2512687.female.16.txt, 12), (1231733.female.24.txt, 5), (1657422.female.24.txt, 4), (1649144.male.17.txt, 2), (2586248.male.17.txt, 1)}
+3553589.female.25.txt	3586375.female.27.txt	No	35	{(3438348.female.37.txt, 18), (3500871.female.16.txt, 3), (2340073.female.16.txt, 1), (2772378.female.45.txt, 1), (3415296.female.14.txt, 1)}
+3553979.female.36.txt	3553979.female.36.txt	Yes	41	{(2027896.female.16.txt, 5), (3877496.female.41.txt, 5), (3884381.male.33.txt, 5), (3750238.female.26.txt, 2), (3819418.female.24.txt, 1)}
+3554195.female.27.txt	3491774.male.36.txt	No	24	{(1612063.female.24.txt, 6), (1970542.female.24.txt, 6), (2586248.male.17.txt, 5), (1561856.male.27.txt, 2), (1596060.male.27.txt, 1)}
+3556030.female.16.txt	3703686.male.16.txt	No	27	{(3056802.male.24.txt, 22), (2157212.male.23.txt, 2), (2304201.male.17.txt, 2), (1657422.female.24.txt, 1), (2648549.female.23.txt, 1)}
+3558161.male.16.txt	4041322.female.15.txt	No	30	{(1509245.female.16.txt, 7), (1233897.male.17.txt, 2), (1657422.female.24.txt, 1), (2169579.female.24.txt, 1), (3056802.male.24.txt, 1)}
+3558528.female.25.txt	3982622.female.26.txt	No	33	{(2898040.female.23.txt, 24), (2938170.male.17.txt, 14), (3324491.male.17.txt, 3), (2055306.male.15.txt, 2), (2340073.female.16.txt, 2)}
+3559432.male.16.txt	3791211.female.24.txt	No	13	{(1721569.female.24.txt, 7), (2845838.female.23.txt, 3), (1976124.male.25.txt, 2), (1008329.female.16.txt, 1), (2069366.female.25.txt, 1)}
+3559973.female.36.txt	3343256.male.23.txt	No	32	{(3356780.male.34.txt, 23), (3451421.male.23.txt, 2), (2069366.female.25.txt, 1), (3205824.female.26.txt, 1), (3504914.male.16.txt, 1)}
+3560812.male.17.txt	3575937.male.23.txt	No	42	{(293982.female.23.txt, 3), (3659114.male.24.txt, 3), (1076363.male.40.txt, 2), (3620911.male.23.txt, 1), (3781656.male.25.txt, 1)}
+3561435.female.14.txt	3561435.female.14.txt	Yes	97	{(3179434.male.17.txt, 2), (3529454.male.25.txt, 1)}
+3562468.female.15.txt	3682338.female.16.txt	No	15	{(1781653.male.17.txt, 9), (1971242.female.23.txt, 2), (1028027.female.16.txt, 1), (1516660.male.17.txt, 1), (1845692.male.14.txt, 1)}
+3562809.female.27.txt	3620911.male.23.txt	No	46	{(2257718.female.26.txt, 10), (2772378.female.45.txt, 5), (2927226.male.27.txt, 2), (1561856.male.27.txt, 1), (1721569.female.24.txt, 1)}
+3562907.male.16.txt	3562907.male.16.txt	Yes	100	{}
+3563720.male.23.txt	3545775.male.17.txt	No	36	{(1478602.male.23.txt, 24), (2173808.male.41.txt, 8), (3205824.female.26.txt, 7), (3320363.male.46.txt, 2), (3356780.male.34.txt, 1)}
+3566193.male.23.txt	4160427.female.14.txt	No	16	{(2886367.female.17.txt, 5), (3081301.male.25.txt, 2), (3299768.male.33.txt, 2), (1136785.male.17.txt, 1), (2925114.female.16.txt, 1)}
+3569476.female.17.txt	4160427.female.14.txt	No	25	{(3415674.male.16.txt, 10), (3393874.female.24.txt, 4), (3127881.male.24.txt, 1), (3195553.female.17.txt, 1), (3416793.male.24.txt, 1)}
+3570593.male.23.txt	3962045.male.42.txt	No	23	{(2287879.female.25.txt, 16), (1970542.female.24.txt, 4), (232317.female.25.txt, 3), (3057452.male.25.txt, 1), (3473146.female.26.txt, 1)}
+3570676.female.36.txt	3767607.male.40.txt	No	38	{(3417254.male.13.txt, 30), (3570676.female.36.txt, 25), (3451421.male.23.txt, 5), (3409984.male.24.txt, 1), (4182592.female.24.txt, 1)}
+3571306.female.15.txt	3571306.female.15.txt	Yes	49	{(3882992.female.14.txt, 9), (3725589.female.23.txt, 6), (2027896.female.16.txt, 3), (3819418.female.24.txt, 2), (3876159.female.24.txt, 1)}
+3571694.female.35.txt	3338490.female.34.txt	No	15	{(1679249.female.37.txt, 5), (1835380.female.16.txt, 5), (1651174.male.24.txt, 2), (1970542.female.24.txt, 2), (2293441.male.25.txt, 1)}
+3572165.female.17.txt	3572165.female.17.txt	Yes	26	{(1274171.male.36.txt, 11), (3233812.female.24.txt, 2), (2898040.female.23.txt, 1), (3338490.female.34.txt, 1), (3363794.female.23.txt, 1)}
+3572319.male.41.txt	3572319.male.41.txt	Yes	99	{(3600078.female.36.txt, 1)}
+3573176.female.15.txt	3573176.female.15.txt	Yes	28	{(3320151.male.16.txt, 27), (1028027.female.16.txt, 7), (3454419.male.15.txt, 7), (3304451.female.16.txt, 1), (3418839.female.24.txt, 1)}
+3573373.male.17.txt	3573373.male.17.txt	Yes	61	{(1709540.female.25.txt, 3), (232317.female.25.txt, 1), (3604131.male.23.txt, 1), (3718323.male.25.txt, 1), (3796743.male.17.txt, 1)}
+3575216.male.36.txt	3575216.male.36.txt	Yes	100	{}
+3575937.male.23.txt	3560812.male.17.txt	No	47	{(3205824.female.26.txt, 7), (3545775.male.17.txt, 7), (3356636.male.23.txt, 2), (1478602.male.23.txt, 1), (3504914.male.16.txt, 1)}
+3576987.female.24.txt	3576987.female.24.txt	Yes	86	{(3312827.female.25.txt, 6), (3434050.female.24.txt, 2), (1226756.male.23.txt, 1), (1976124.male.25.txt, 1), (2186843.male.27.txt, 1)}
+3577955.female.23.txt	4210703.male.26.txt	No	44	{(2988161.female.37.txt, 2), (2217559.female.24.txt, 1), (2287879.female.25.txt, 1), (2597433.female.15.txt, 1), (3056802.male.24.txt, 1)}
+3578696.female.13.txt	3897989.female.27.txt	No	23	{(1919658.female.27.txt, 13), (3338490.female.34.txt, 13), (3373089.female.24.txt, 8), (1407268.male.23.txt, 3), (1516660.male.17.txt, 2)}
+3579704.female.37.txt	3768840.male.36.txt	No	13	{(2732859.male.15.txt, 10), (2988161.female.37.txt, 8), (2054735.female.27.txt, 4), (2173808.male.41.txt, 1), (3043495.male.24.txt, 1)}
+3581193.female.41.txt	3930516.female.35.txt	No	64	{(1284157.female.16.txt, 8), (2591513.female.27.txt, 2), (1193364.female.16.txt, 1), (2340073.female.16.txt, 1), (2414493.female.16.txt, 1)}
+3581495.male.17.txt	3473709.male.25.txt	No	22	{(1657422.female.24.txt, 17), (1561856.male.27.txt, 1), (2229187.female.26.txt, 1), (2462546.female.26.txt, 1), (2734125.female.23.txt, 1)}
+3582001.female.16.txt	3332895.male.25.txt	No	41	{(1835380.female.16.txt, 8), (2340073.female.16.txt, 6), (2027896.female.16.txt, 4), (1794773.male.15.txt, 3), (2886367.female.17.txt, 1)}
+3582727.female.13.txt	3346538.male.35.txt	No	57	{(3136900.male.27.txt, 13), (2586248.male.17.txt, 5), (3538366.male.43.txt, 4), (2173808.male.41.txt, 3), (2597626.female.26.txt, 3)}
+3585346.male.24.txt	3585346.male.24.txt	Yes	63	{(1231733.female.24.txt, 1), (1345466.female.24.txt, 1), (1405870.female.26.txt, 1), (1934543.female.17.txt, 1), (2839532.male.17.txt, 1)}
+3585921.male.34.txt	3585921.male.34.txt	Yes	97	{(3136900.male.27.txt, 2), (2732859.male.15.txt, 1)}
+3586375.female.27.txt	4015615.male.24.txt	No	58	{(3586375.female.27.txt, 18), (3931735.female.23.txt, 17), (3938917.female.14.txt, 3), (3997669.female.25.txt, 3), (4047838.male.23.txt, 1)}
+3590944.female.38.txt	3590944.female.38.txt	Yes	90	{(3869898.female.17.txt, 3), (3351823.female.17.txt, 2), (3432301.female.17.txt, 2), (3850561.female.24.txt, 2), (3809483.female.17.txt, 1)}
+3593157.male.17.txt	3802286.male.23.txt	No	38	{(3620911.male.23.txt, 8), (2173808.male.41.txt, 1), (3205824.female.26.txt, 1), (3545775.male.17.txt, 1), (3593157.male.17.txt, 1)}
+3593343.female.15.txt	3593343.female.15.txt	Yes	100	{}
+3594624.female.23.txt	3594624.female.23.txt	Yes	52	{(1935715.male.25.txt, 12), (1970542.female.24.txt, 4), (2217559.female.24.txt, 3), (2510334.male.17.txt, 3), (1185193.female.17.txt, 1)}
+3595537.female.26.txt	3482303.female.33.txt	No	21	{(1970542.female.24.txt, 15), (2257718.female.26.txt, 3), (1405870.female.26.txt, 1), (2462546.female.26.txt, 1), (2622830.female.16.txt, 1)}
+3596336.female.16.txt	3596336.female.16.txt	Yes	100	{}
+3597755.male.16.txt	3538366.male.43.txt	No	43	{(2732859.male.15.txt, 27), (3369840.female.44.txt, 21), (1280497.male.26.txt, 2), (3559973.female.36.txt, 2), (2869734.male.23.txt, 1)}
+3599480.female.41.txt	3346538.male.35.txt	No	28	{(1756819.female.23.txt, 5), (2287879.female.25.txt, 2), (2772378.female.45.txt, 2), (1159057.male.25.txt, 1), (1721569.female.24.txt, 1)}
+3600078.female.36.txt	3600078.female.36.txt	Yes	95	{(3463756.female.24.txt, 2), (2461522.male.25.txt, 1), (3718323.male.25.txt, 1), (3720867.male.37.txt, 1)}
+3601153.male.17.txt	3601153.male.17.txt	Yes	99	{(2879658.female.23.txt, 1)}
+3601175.female.15.txt	3601175.female.15.txt	Yes	49	{(3483325.female.27.txt, 10), (3632466.male.25.txt, 3), (1831634.female.15.txt, 2), (2169579.female.24.txt, 2), (3174561.female.16.txt, 1)}
+3602089.male.15.txt	3602089.male.15.txt	Yes	71	{(2304201.male.17.txt, 3), (1976124.male.25.txt, 1), (2879658.female.23.txt, 1), (3088825.male.17.txt, 1), (3425335.female.37.txt, 1)}
+3602819.female.23.txt	3602819.female.23.txt	Yes	51	{(2591513.female.27.txt, 8), (2304201.male.17.txt, 1), (2870581.male.17.txt, 1), (2879658.female.23.txt, 1), (3332105.male.17.txt, 1)}
+3604131.male.23.txt	3604131.male.23.txt	Yes	76	{(3337727.male.15.txt, 11), (3518225.female.24.txt, 8), (3982622.female.26.txt, 3), (2462546.female.26.txt, 1), (3381753.female.17.txt, 1)}
+3604445.female.27.txt	3604445.female.27.txt	Yes	100	{}
+3606593.female.14.txt	3606593.female.14.txt	Yes	100	{}
+3607220.male.26.txt	3607220.male.26.txt	Yes	39	{(1306985.female.26.txt, 3), (1455561.male.17.txt, 1), (2610055.female.25.txt, 1), (2986355.female.23.txt, 1), (3088214.male.17.txt, 1)}
+3607330.male.39.txt	3599480.female.41.txt	No	77	{(3346538.male.35.txt, 15), (3579704.female.37.txt, 4), (3607330.male.39.txt, 2), (2732859.male.15.txt, 1), (3320833.female.25.txt, 1)}
+3607476.male.17.txt	3607476.male.17.txt	Yes	100	{}
+3607921.male.24.txt	3607921.male.24.txt	Yes	35	{(2870581.male.17.txt, 4), (2925114.female.16.txt, 2), (1028027.female.16.txt, 1), (1226756.male.23.txt, 1), (1516660.male.17.txt, 1)}
+3609918.female.24.txt	3729488.female.23.txt	No	38	{(3348041.female.17.txt, 14), (3434050.female.24.txt, 10), (1709540.female.25.txt, 3), (1727585.female.27.txt, 1), (2169579.female.24.txt, 1)}
+3610040.female.16.txt	3610040.female.16.txt	Yes	100	{}
+3612176.female.26.txt	3612176.female.26.txt	Yes	100	{}
+3612988.male.17.txt	3612988.male.17.txt	Yes	57	{(3357337.female.17.txt, 7), (3143116.male.25.txt, 3), (3408904.female.15.txt, 2), (2027896.female.16.txt, 1), (3320151.male.16.txt, 1)}
+3613484.female.17.txt	3613484.female.17.txt	Yes	100	{}
+3615024.female.37.txt	2591513.female.27.txt	No	16	{(1306985.female.26.txt, 10), (2988161.female.37.txt, 10), (3551239.male.41.txt, 6), (3056802.male.24.txt, 3), (3350388.male.17.txt, 3)}
+3616679.female.47.txt	3504914.male.16.txt	No	43	{(2996701.female.40.txt, 8), (1306985.female.26.txt, 1), (1309251.male.23.txt, 1), (2007347.male.17.txt, 1), (3342074.female.23.txt, 1)}
+3620243.female.24.txt	4185171.male.23.txt	No	22	{(1919658.female.27.txt, 7), (1405766.male.24.txt, 3), (2857628.female.27.txt, 3), (2979384.female.24.txt, 2), (2510334.male.17.txt, 1)}
+3620911.male.23.txt	3620911.male.23.txt	Yes	98	{(3816993.male.45.txt, 2)}
+3622174.male.16.txt	3353407.female.16.txt	No	17	{(3127881.male.24.txt, 16), (1976124.male.25.txt, 4), (2839532.male.17.txt, 3), (2205026.female.26.txt, 1), (2229187.female.26.txt, 1)}
+3625553.male.27.txt	3625553.male.27.txt	Yes	100	{}
+3632466.male.25.txt	3632466.male.25.txt	Yes	76	{(3454136.male.15.txt, 4), (1727585.female.27.txt, 3), (2169579.female.24.txt, 3), (3418839.female.24.txt, 1), (3427361.female.26.txt, 1)}
+3633973.female.14.txt	3633973.female.14.txt	Yes	72	{(1845692.male.14.txt, 4), (2757248.female.15.txt, 2), (1231733.female.24.txt, 1), (1233897.male.17.txt, 1), (1935715.male.25.txt, 1)}
+3636849.male.23.txt	3636849.male.23.txt	Yes	42	{(1407268.male.23.txt, 8), (1651174.male.24.txt, 6), (2325994.male.27.txt, 2), (2094786.female.43.txt, 1), (2157212.male.23.txt, 1)}
+3637028.male.23.txt	2510334.male.17.txt	No	54	{(3249063.female.23.txt, 13), (1970542.female.24.txt, 5), (1076363.male.40.txt, 1), (3057452.male.25.txt, 1), (3366901.female.24.txt, 1)}
+3637189.female.27.txt	2340073.female.16.txt	No	16	{(3306336.female.16.txt, 10), (3343256.male.23.txt, 3), (3071102.female.33.txt, 2), (1971242.female.23.txt, 1), (3302604.male.26.txt, 1)}
+3637329.female.14.txt	3637329.female.14.txt	Yes	100	{}
+3637628.female.16.txt	3637028.male.23.txt	No	28	{(1504395.female.27.txt, 8), (1405870.female.26.txt, 6), (1289910.male.17.txt, 1), (1587910.female.16.txt, 1), (1781653.male.17.txt, 1)}
+3640519.male.23.txt	3579704.female.37.txt	No	36	{(2518547.male.16.txt, 3), (1159057.male.25.txt, 1), (1309251.male.23.txt, 1), (1596060.male.27.txt, 1), (3324711.female.16.txt, 1)}
+3641085.male.13.txt	3641085.male.13.txt	Yes	100	{}
+3641730.male.23.txt	3682806.male.23.txt	No	14	{(2834611.female.24.txt, 10), (3088214.male.17.txt, 8), (2898040.female.23.txt, 7), (2173808.male.41.txt, 4), (1306985.female.26.txt, 1)}
+3642488.male.27.txt	3602819.female.23.txt	No	25	{(2461522.male.25.txt, 14), (2512687.female.16.txt, 2), (1274171.male.36.txt, 1), (1709540.female.25.txt, 1), (2325994.male.27.txt, 1)}
+3643712.female.26.txt	3726764.male.47.txt	No	32	{(3088825.male.17.txt, 3), (1919658.female.27.txt, 2), (2879658.female.23.txt, 1), (3127881.male.24.txt, 1), (3331865.male.23.txt, 1)}
+3643729.female.15.txt	3643729.female.15.txt	Yes	100	{}
+3645035.male.15.txt	3901331.male.33.txt	No	29	{(3867461.female.23.txt, 5), (3876159.female.24.txt, 2), (3556030.female.16.txt, 1), (3602089.male.15.txt, 1), (3828356.female.26.txt, 1)}
+3645484.female.33.txt	4236015.male.17.txt	No	43	{(3527397.male.46.txt, 3), (3490286.male.23.txt, 2), (3343256.male.23.txt, 1), (3354959.male.25.txt, 1), (3482303.female.33.txt, 1)}
+3646134.male.17.txt	3646134.male.17.txt	Yes	100	{}
+3647437.male.24.txt	4205392.male.17.txt	No	20	{(3186585.male.24.txt, 9), (2772378.female.45.txt, 8), (1872490.male.35.txt, 4), (3073748.female.23.txt, 2), (2732859.male.15.txt, 1)}
+3648272.male.16.txt	3242831.male.16.txt	No	29	{(3205824.female.26.txt, 12), (2069366.female.25.txt, 10), (2686258.male.27.txt, 4), (1604755.male.36.txt, 1), (1713845.male.23.txt, 1)}
+3649433.female.25.txt	2686258.male.27.txt	No	33	{(1159057.male.25.txt, 2), (1970542.female.24.txt, 1), (3334775.female.23.txt, 1), (3366803.male.24.txt, 1), (3425335.female.37.txt, 1)}
+3649763.female.33.txt	2169579.female.24.txt	No	29	{(3418839.female.24.txt, 17), (3351823.female.17.txt, 2), (2909865.male.17.txt, 1), (3012983.female.40.txt, 1), (3381276.female.37.txt, 1)}
+3650032.male.25.txt	3650032.male.25.txt	Yes	100	{}
+3650974.male.23.txt	3720867.male.37.txt	No	67	{(3121356.male.26.txt, 6), (3088214.male.17.txt, 4), (3545775.male.17.txt, 3), (1657422.female.24.txt, 1), (3366803.male.24.txt, 1)}
+3653978.female.16.txt	3653978.female.16.txt	Yes	100	{}
+3655041.male.35.txt	3874398.male.25.txt	No	46	{(3302604.male.26.txt, 4), (3307493.male.25.txt, 4), (3354959.male.25.txt, 3), (1076363.male.40.txt, 1), (2960855.male.26.txt, 1)}
+3655232.female.24.txt	477665.female.25.txt	No	30	{(3343256.male.23.txt, 6), (1970542.female.24.txt, 5), (3391462.male.15.txt, 4), (3378253.male.24.txt, 2), (2512687.female.16.txt, 1)}
+3656447.male.15.txt	3656447.male.15.txt	Yes	68	{(1415200.female.15.txt, 6), (1063313.female.16.txt, 1), (1845692.male.14.txt, 1), (1971242.female.23.txt, 1), (2512687.female.16.txt, 1)}
+3658948.female.24.txt	3658948.female.24.txt	Yes	66	{(2173808.male.41.txt, 4), (3538366.male.43.txt, 3), (1651174.male.24.txt, 1), (3205824.female.26.txt, 1), (3528859.male.26.txt, 1)}
+3659114.male.24.txt	3659114.male.24.txt	Yes	32	{(3750470.male.25.txt, 27), (3205824.female.26.txt, 20), (3620911.male.23.txt, 11), (3802286.male.23.txt, 2), (3743431.female.27.txt, 1)}
+3661496.female.16.txt	3661496.female.16.txt	Yes	100	{}
+3661649.female.13.txt	3661649.female.13.txt	Yes	95	{(3550715.male.17.txt, 4), (4101559.male.17.txt, 1)}
+3662653.male.25.txt	3562809.female.27.txt	No	22	{(1306985.female.26.txt, 8), (1407268.male.23.txt, 3), (232317.female.25.txt, 3), (1721569.female.24.txt, 1), (2512687.female.16.txt, 1)}
+3666377.female.44.txt	3666377.female.44.txt	Yes	100	{}
+3666954.female.24.txt	3346538.male.35.txt	No	43	{(3593157.male.17.txt, 37), (992078.male.17.txt, 11), (3855637.male.25.txt, 4), (3906484.female.27.txt, 4), (3620911.male.23.txt, 1)}
+3667367.female.25.txt	3667367.female.25.txt	Yes	32	{(1159057.male.25.txt, 11), (2986355.female.23.txt, 5), (3057452.male.25.txt, 2), (1601416.female.36.txt, 1), (2325994.male.27.txt, 1)}
+3668143.female.25.txt	3668143.female.25.txt	Yes	59	{(1504395.female.27.txt, 1), (1651174.male.24.txt, 1), (2772378.female.45.txt, 1), (3112588.male.17.txt, 1), (3299025.male.25.txt, 1)}
+3670826.male.24.txt	3670826.male.24.txt	Yes	92	{(3343256.male.23.txt, 4), (1274171.male.36.txt, 1), (2325994.male.27.txt, 1), (3490286.male.23.txt, 1), (3720590.female.33.txt, 1)}
+3673750.male.16.txt	3673750.male.16.txt	Yes	97	{(4033638.female.17.txt, 3)}
+3676330.male.26.txt	3676330.male.26.txt	Yes	91	{(2239146.male.23.txt, 2), (3233812.female.24.txt, 2), (3405780.male.24.txt, 2), (3602819.female.23.txt, 2), (2512687.female.16.txt, 1)}
+3677926.male.15.txt	3677926.male.15.txt	Yes	93	{(3395340.male.27.txt, 7)}
+3678120.male.34.txt	3678120.male.34.txt	Yes	97	{(2597626.female.26.txt, 1), (3753191.female.17.txt, 1), (4091880.male.42.txt, 1)}
+3679230.female.27.txt	3930829.female.23.txt	No	56	{(3493680.female.26.txt, 10), (3553589.female.25.txt, 10), (3818898.male.24.txt, 10), (3343256.male.23.txt, 1), (3855637.male.25.txt, 1)}
+3679448.male.14.txt	3679448.male.14.txt	Yes	97	{(4047493.male.16.txt, 2), (3534011.male.17.txt, 1)}
+3682338.female.16.txt	3682338.female.16.txt	Yes	100	{}
+3682806.male.23.txt	3571306.female.15.txt	No	22	{(2512687.female.16.txt, 10), (1309251.male.23.txt, 6), (1306985.female.26.txt, 1), (1835380.female.16.txt, 1), (2622830.female.16.txt, 1)}
+3682836.female.16.txt	3682836.female.16.txt	Yes	61	{(3444434.female.17.txt, 13), (1971242.female.23.txt, 11), (3571306.female.15.txt, 5), (3056802.male.24.txt, 1), (3370474.male.17.txt, 1)}
+3682865.male.48.txt	3682865.male.48.txt	Yes	48	{(1478602.male.23.txt, 15), (1076363.male.40.txt, 1), (1604755.male.36.txt, 1), (2461522.male.25.txt, 1), (3136900.male.27.txt, 1)}
+3683969.male.17.txt	3683969.male.17.txt	Yes	99	{(3882131.female.13.txt, 1)}
+3690175.male.26.txt	3690175.male.26.txt	Yes	100	{}
+3690636.female.15.txt	3690636.female.15.txt	Yes	100	{}
+3690882.female.25.txt	4200029.male.24.txt	No	62	{(2054735.female.27.txt, 2), (3233812.female.24.txt, 2), (2304201.male.17.txt, 1), (2510334.male.17.txt, 1), (2927226.male.27.txt, 1)}
+3692930.male.17.txt	3692930.male.17.txt	Yes	90	{(1756819.female.23.txt, 1), (3302604.male.26.txt, 1), (3610040.female.16.txt, 1), (3679230.female.27.txt, 1), (3723731.male.24.txt, 1)}
+3696390.male.17.txt	3604131.male.23.txt	No	14	{(1970542.female.24.txt, 5), (1971242.female.23.txt, 5), (1136785.male.17.txt, 1), (1516660.male.17.txt, 1), (2027896.female.16.txt, 1)}
+3696615.female.14.txt	3696615.female.14.txt	Yes	28	{(2512687.female.16.txt, 4), (2257718.female.26.txt, 3), (1721569.female.24.txt, 1), (2186843.male.27.txt, 1), (2221350.female.14.txt, 1)}
+3703686.male.16.txt	3962045.male.42.txt	No	25	{(1159057.male.25.txt, 2), (1455561.male.17.txt, 2), (1135724.male.34.txt, 1), (1813392.male.14.txt, 1), (2772378.female.45.txt, 1)}
+3707326.female.23.txt	3707326.female.23.txt	Yes	100	{}
+3709068.female.14.txt	3709068.female.14.txt	Yes	69	{(3337727.male.15.txt, 8), (1274171.male.36.txt, 6), (3545775.male.17.txt, 3), (2839532.male.17.txt, 1), (3127881.male.24.txt, 1)}
+3709080.male.25.txt	3709080.male.25.txt	Yes	94	{(4219395.female.23.txt, 5), (4033638.female.17.txt, 1)}
+3713700.male.15.txt	3208383.male.17.txt	No	22	{(3148889.female.26.txt, 2), (1063313.female.16.txt, 1), (1405766.male.24.txt, 1), (1976124.male.25.txt, 1), (2219761.female.13.txt, 1)}
+3714924.male.25.txt	3714924.male.25.txt	Yes	100	{}
+3718323.male.25.txt	3718323.male.25.txt	Yes	21	{(1309251.male.23.txt, 3), (1380515.male.40.txt, 2), (1185193.female.17.txt, 1), (1233897.male.17.txt, 1), (1596060.male.27.txt, 1)}
+3720590.female.33.txt	2518547.male.16.txt	No	39	{(3434050.female.24.txt, 7), (3312827.female.25.txt, 4), (3363794.female.23.txt, 2), (3121356.male.26.txt, 1), (3381753.female.17.txt, 1)}
+3720867.male.37.txt	3720867.male.37.txt	Yes	37	{(3299377.male.25.txt, 3), (3040882.male.23.txt, 2), (3335299.female.24.txt, 2), (3148889.female.26.txt, 1), (3360862.male.25.txt, 1)}
+3722269.male.25.txt	3722269.male.25.txt	Yes	60	{(1159057.male.25.txt, 2), (1394735.male.38.txt, 1), (2055017.male.24.txt, 1), (237056.male.24.txt, 1), (2781841.female.23.txt, 1)}
+3723519.male.14.txt	3434091.male.27.txt	No	35	{(232317.female.25.txt, 12), (2163386.male.26.txt, 2), (1159057.male.25.txt, 1), (2510334.male.17.txt, 1), (2772378.female.45.txt, 1)}
+3723731.male.24.txt	3337653.female.37.txt	No	57	{(2525415.female.33.txt, 2), (1233897.male.17.txt, 1), (1976124.male.25.txt, 1), (2603782.female.24.txt, 1), (2718350.female.17.txt, 1)}
+3725589.female.23.txt	2414493.female.16.txt	No	22	{(2586248.male.17.txt, 9), (2667384.female.16.txt, 5), (2462546.female.26.txt, 4), (1612063.female.24.txt, 1), (1970542.female.24.txt, 1)}
+3726764.male.47.txt	3482287.female.26.txt	No	22	{(2512687.female.16.txt, 7), (1970542.female.24.txt, 2), (1159057.male.25.txt, 1), (1721569.female.24.txt, 1), (2879658.female.23.txt, 1)}
+3727051.female.37.txt	3393874.female.24.txt	No	47	{(3364640.female.26.txt, 3), (2988161.female.37.txt, 1), (3121356.male.26.txt, 1), (3338490.female.34.txt, 1), (3405780.male.24.txt, 1)}
+3729488.female.23.txt	4153678.female.16.txt	No	39	{(1516660.male.17.txt, 3), (3348041.female.17.txt, 2), (2462546.female.26.txt, 1), (3012983.female.40.txt, 1), (3320151.male.16.txt, 1)}
+3732960.male.17.txt	3732960.male.17.txt	Yes	99	{(3648272.male.16.txt, 1)}
+3733786.female.13.txt	2958390.male.25.txt	No	19	{(2757248.female.15.txt, 5), (1407268.male.23.txt, 3), (2224636.female.17.txt, 1), (3323485.male.14.txt, 1), (3343256.male.23.txt, 1)}
+3733959.female.15.txt	3733959.female.15.txt	Yes	95	{(3848031.female.15.txt, 3), (1845692.male.14.txt, 1), (3324711.female.16.txt, 1)}
+3735380.male.15.txt	3593157.male.17.txt	No	26	{(3415280.male.14.txt, 17), (2648549.female.23.txt, 5), (3334775.female.23.txt, 5), (2586248.male.17.txt, 4), (1596060.male.27.txt, 2)}
+3736933.female.24.txt	3612176.female.26.txt	No	69	{(3897834.male.23.txt, 19), (3736933.female.24.txt, 7), (2217559.female.24.txt, 2), (3600078.female.36.txt, 1), (3650032.male.25.txt, 1)}
+3737984.male.14.txt	3737984.male.14.txt	Yes	100	{}
+3739600.female.16.txt	3739600.female.16.txt	Yes	83	{(3249063.female.23.txt, 4), (3415296.female.14.txt, 1), (3518225.female.24.txt, 1), (3610040.female.16.txt, 1), (3935450.female.25.txt, 1)}
+3742386.male.16.txt	3742386.male.16.txt	Yes	100	{}
+3742816.female.23.txt	3742816.female.23.txt	Yes	99	{(3650974.male.23.txt, 1)}
+3743379.female.14.txt	3743379.female.14.txt	Yes	99	{(3394208.male.17.txt, 1)}
+3743431.female.27.txt	3607330.male.39.txt	No	95	{(3369840.female.44.txt, 5)}
+3744242.male.17.txt	3866890.male.24.txt	No	18	{(1657422.female.24.txt, 6), (1936095.female.33.txt, 3), (2163386.male.26.txt, 3), (1587910.female.16.txt, 2), (2217559.female.24.txt, 2)}
+3744255.male.25.txt	3744255.male.25.txt	Yes	33	{(3488850.female.17.txt, 3), (1407268.male.23.txt, 2), (3370474.male.17.txt, 1), (3378253.male.24.txt, 1), (3415674.male.16.txt, 1)}
+3744317.female.26.txt	3444234.male.39.txt	No	13	{(2217559.female.24.txt, 12), (2169579.female.24.txt, 4), (2257718.female.26.txt, 4), (2229187.female.26.txt, 2), (1280497.male.26.txt, 1)}
+3744842.male.16.txt	3744842.male.16.txt	Yes	100	{}
+3745488.female.13.txt	4219395.female.23.txt	No	21	{(1063313.female.16.txt, 6), (2219761.female.13.txt, 4), (1345466.female.24.txt, 1), (2169579.female.24.txt, 1), (2229187.female.26.txt, 1)}
+3745601.male.27.txt	293982.female.23.txt	No	33	{(3892208.male.25.txt, 29), (3931735.female.23.txt, 14), (3930829.female.23.txt, 4), (3818898.male.24.txt, 2), (3194640.male.23.txt, 1)}
+3749007.female.15.txt	3351823.female.17.txt	No	80	{(3749007.female.15.txt, 14), (3653978.female.16.txt, 2), (3938917.female.14.txt, 2), (3112588.male.17.txt, 1), (3785626.female.15.txt, 1)}
+3749326.female.24.txt	3562907.male.16.txt	No	32	{(3292539.male.27.txt, 26), (1971242.female.23.txt, 1), (2161435.male.16.txt, 1), (2667384.female.16.txt, 1), (3127881.male.24.txt, 1)}
+3749396.female.27.txt	1872490.male.35.txt	No	98	{(3666377.female.44.txt, 1), (4103868.female.27.txt, 1)}
+3750238.female.26.txt	3750238.female.26.txt	Yes	88	{(3653978.female.16.txt, 9), (3575216.male.36.txt, 1), (3679448.male.14.txt, 1), (4176168.male.15.txt, 1)}
+3750470.male.25.txt	3750470.male.25.txt	Yes	86	{(2732859.male.15.txt, 7), (3781656.male.25.txt, 3), (3335299.female.24.txt, 1), (3579704.female.37.txt, 1), (4066793.male.26.txt, 1)}
+3752236.male.41.txt	3906484.female.27.txt	No	65	{(3802286.male.23.txt, 14), (3620911.male.23.txt, 7), (3381272.female.23.txt, 3), (3560812.male.17.txt, 3), (3793386.male.37.txt, 2)}
+3753129.male.26.txt	2404074.female.27.txt	No	58	{(1363208.male.25.txt, 25), (3951417.male.17.txt, 6), (1180573.female.26.txt, 4), (1478602.male.23.txt, 4), (3545775.male.17.txt, 2)}
+3753191.female.17.txt	1231733.female.24.txt	No	22	{(2512687.female.16.txt, 16), (1657422.female.24.txt, 7), (2510334.male.17.txt, 4), (1274171.male.36.txt, 1), (1651174.male.24.txt, 1)}
+3753789.female.25.txt	3518225.female.24.txt	No	25	{(1405870.female.26.txt, 2), (1274171.male.36.txt, 1), (1407268.male.23.txt, 1), (1835380.female.16.txt, 1), (2027896.female.16.txt, 1)}
+3754294.female.24.txt	3754294.female.24.txt	Yes	42	{(2169579.female.24.txt, 3), (1970542.female.24.txt, 2), (1504395.female.27.txt, 1), (2217559.female.24.txt, 1), (2888654.female.24.txt, 1)}
+3761156.female.15.txt	3422982.female.17.txt	No	22	{(1136785.male.17.txt, 3), (1943565.male.33.txt, 3), (1052611.male.23.txt, 1), (1470319.female.26.txt, 1), (1934543.female.17.txt, 1)}
+3764976.male.17.txt	1415200.female.15.txt	No	16	{(1727585.female.27.txt, 5), (1970542.female.24.txt, 4), (2512687.female.16.txt, 4), (2461522.male.25.txt, 2), (1231733.female.24.txt, 1)}
+3765257.female.27.txt	3847151.female.26.txt	No	100	{}
+3766919.male.17.txt	698314.female.17.txt	No	49	{(2952149.male.13.txt, 3), (1781653.male.17.txt, 2), (3174561.female.16.txt, 2), (3306336.female.16.txt, 2), (1835882.female.17.txt, 1)}
+3767607.male.40.txt	2293441.male.25.txt	No	56	{(3340219.male.45.txt, 22), (511641.male.39.txt, 16), (3375813.male.34.txt, 6)}
+3768571.female.17.txt	420325.male.45.txt	No	35	{(2221350.female.14.txt, 2), (1407268.male.23.txt, 1), (3292690.female.15.txt, 1), (3302604.male.26.txt, 1), (3308201.male.26.txt, 1)}
+3768840.male.36.txt	3768840.male.36.txt	Yes	100	{}
+3769046.female.15.txt	3769046.female.15.txt	Yes	97	{(3743379.female.14.txt, 2), (3696615.female.14.txt, 1)}
+3770960.female.38.txt	3770960.female.38.txt	Yes	36	{(1159057.male.25.txt, 1), (1274171.male.36.txt, 1), (2257718.female.26.txt, 1), (2340073.female.16.txt, 1), (2461522.male.25.txt, 1)}
+3771775.female.13.txt	3771775.female.13.txt	Yes	100	{}
+3771903.male.26.txt	3306467.male.25.txt	No	15	{(2163386.male.26.txt, 2), (2414493.female.16.txt, 2), (1591821.male.24.txt, 1), (2221350.female.14.txt, 1), (2340073.female.16.txt, 1)}
+3772975.male.15.txt	3772975.male.15.txt	Yes	65	{(2757248.female.15.txt, 8), (2958390.male.25.txt, 6), (3112588.male.17.txt, 3), (2952149.male.13.txt, 1), (3196262.male.13.txt, 1)}
+3775271.female.42.txt	3775271.female.42.txt	Yes	75	{(3666377.female.44.txt, 13), (3572165.female.17.txt, 12)}
+3776547.female.16.txt	3776547.female.16.txt	Yes	86	{(3381753.female.17.txt, 12), (2988161.female.37.txt, 1), (3337727.male.15.txt, 1)}
+3781383.male.15.txt	3781383.male.15.txt	Yes	97	{(1159057.male.25.txt, 1), (3749396.female.27.txt, 1), (4206346.female.16.txt, 1)}
+3781656.male.25.txt	3781656.male.25.txt	Yes	44	{(3658948.female.24.txt, 34), (3346538.male.35.txt, 11), (2732859.male.15.txt, 6), (3088214.male.17.txt, 2), (3552847.male.24.txt, 1)}
+3782847.male.17.txt	3782847.male.17.txt	Yes	68	{(3332105.male.17.txt, 7), (3088825.male.17.txt, 3), (3312827.female.25.txt, 3), (232317.female.25.txt, 1), (3415296.female.14.txt, 1)}
+3782878.male.23.txt	3782878.male.23.txt	Yes	100	{}
+3784412.male.38.txt	3784412.male.38.txt	Yes	100	{}
+3785101.female.33.txt	1727585.female.27.txt	No	20	{(1274171.male.36.txt, 6), (1159057.male.25.txt, 2), (2979384.female.24.txt, 2), (1657422.female.24.txt, 1), (3299768.male.33.txt, 1)}
+3785243.female.24.txt	3682865.male.48.txt	No	36	{(1561856.male.27.txt, 1), (1667602.female.37.txt, 1), (1679249.female.37.txt, 1), (2054735.female.27.txt, 1), (2764903.male.33.txt, 1)}
+3785380.male.16.txt	3785380.male.16.txt	Yes	74	{(3351823.female.17.txt, 17), (3809483.female.17.txt, 4), (3850561.female.24.txt, 2), (4219395.female.23.txt, 2), (3942221.female.16.txt, 1)}
+3785443.female.17.txt	3785443.female.17.txt	Yes	90	{(1204495.male.17.txt, 3), (3363794.female.23.txt, 3), (3655041.male.35.txt, 1), (3745488.female.13.txt, 1), (3848031.female.15.txt, 1)}
+3785626.female.15.txt	3785626.female.15.txt	Yes	98	{(3891408.female.16.txt, 1), (3938917.female.14.txt, 1)}
+3791211.female.24.txt	3791211.female.24.txt	Yes	93	{(3389530.female.16.txt, 2), (3444234.male.39.txt, 2), (1935715.male.25.txt, 1), (3586375.female.27.txt, 1), (994348.female.27.txt, 1)}
+3793386.male.37.txt	3205824.female.26.txt	No	48	{(1449141.male.43.txt, 42), (3175142.male.44.txt, 7), (3793386.male.37.txt, 2), (1135724.male.34.txt, 1)}
+3796743.male.17.txt	3796743.male.17.txt	Yes	90	{(1345466.female.24.txt, 7), (2870581.male.17.txt, 1), (3292539.male.27.txt, 1), (3648272.male.16.txt, 1)}
+3799490.female.25.txt	3799490.female.25.txt	Yes	40	{(1727585.female.27.txt, 2), (2772378.female.45.txt, 2), (2991302.male.24.txt, 2), (1394735.male.38.txt, 1), (1872490.male.35.txt, 1)}
+3800228.female.15.txt	3800228.female.15.txt	Yes	100	{}
+3802286.male.23.txt	3793386.male.37.txt	No	18	{(3620911.male.23.txt, 17), (3545775.male.17.txt, 13), (3312354.male.27.txt, 5), (3593157.male.17.txt, 2), (2941100.male.27.txt, 1)}
+3804319.female.17.txt	3473709.male.25.txt	No	41	{(3581495.male.17.txt, 12), (3637028.male.23.txt, 3), (1709540.female.25.txt, 1), (3519295.female.15.txt, 1), (3538141.male.16.txt, 1)}
+3805285.male.43.txt	1076363.male.40.txt	No	58	{(1937773.female.26.txt, 22), (1936095.female.33.txt, 14), (2834611.female.24.txt, 1), (2927226.male.27.txt, 1), (2960855.male.26.txt, 1)}
+3808580.female.16.txt	3975428.male.15.txt	No	97	{(3540194.female.17.txt, 3)}
+3809483.female.17.txt	3809483.female.17.txt	Yes	100	{}
+3810410.male.16.txt	1159057.male.25.txt	No	26	{(2055017.male.24.txt, 4), (1509245.female.16.txt, 3), (1657422.female.24.txt, 2), (1919658.female.27.txt, 2), (1185193.female.17.txt, 1)}
+3811467.male.24.txt	3723519.male.14.txt	No	46	{(2839210.male.23.txt, 2), (2857628.female.27.txt, 1), (2988161.female.37.txt, 1), (3127881.male.24.txt, 1), (3338490.female.34.txt, 1)}
+3814347.female.35.txt	3814347.female.35.txt	Yes	100	{}
+3816993.male.45.txt	3816993.male.45.txt	Yes	84	{(3720867.male.37.txt, 10), (1478602.male.23.txt, 3), (4091880.male.42.txt, 3)}
+3818197.female.25.txt	3743431.female.27.txt	No	68	{(3720867.male.37.txt, 20), (3312354.male.27.txt, 12)}
+3818445.female.15.txt	3818445.female.15.txt	Yes	100	{}
+3818898.male.24.txt	4185171.male.23.txt	No	32	{(2229187.female.26.txt, 2), (2988161.female.37.txt, 2), (1274171.male.36.txt, 1), (2898040.female.23.txt, 1), (3233812.female.24.txt, 1)}
+3819418.female.24.txt	3819418.female.24.txt	Yes	53	{(2879658.female.23.txt, 12), (2169579.female.24.txt, 2), (2988161.female.37.txt, 2), (1835380.female.16.txt, 1), (2512687.female.16.txt, 1)}
+3823807.female.14.txt	3975428.male.15.txt	No	50	{(3823807.female.14.txt, 39), (3348041.female.17.txt, 2), (3848031.female.15.txt, 2), (1963555.female.14.txt, 1), (3439632.male.13.txt, 1)}
+3825281.male.15.txt	3825281.male.15.txt	Yes	100	{}
+3826798.male.16.txt	4041322.female.15.txt	No	39	{(2229187.female.26.txt, 3), (1306985.female.26.txt, 1), (1366896.female.17.txt, 1), (1561856.male.27.txt, 1), (2219761.female.13.txt, 1)}
+3826969.male.23.txt	3826969.male.23.txt	Yes	98	{(4047838.male.23.txt, 2)}
+3827763.male.16.txt	3827763.male.16.txt	Yes	21	{(1306985.female.26.txt, 16), (2510334.male.17.txt, 3), (2898040.female.23.txt, 3), (1919658.female.27.txt, 2), (1407268.male.23.txt, 1)}
+3828356.female.26.txt	3615024.female.37.txt	No	28	{(1756819.female.23.txt, 5), (2462546.female.26.txt, 3), (1274171.male.36.txt, 2), (3012983.female.40.txt, 1), (3308201.male.26.txt, 1)}
+3828440.male.24.txt	3828440.male.24.txt	Yes	98	{(3744255.male.25.txt, 1), (4160243.female.27.txt, 1)}
+3828570.male.26.txt	3148889.female.26.txt	No	23	{(3381272.female.23.txt, 18), (3175142.male.44.txt, 4), (3312354.male.27.txt, 2), (1604755.male.36.txt, 1), (3413355.male.37.txt, 1)}
+3829239.female.15.txt	3829239.female.15.txt	Yes	75	{(3425540.female.14.txt, 3), (2591513.female.27.txt, 2), (3350388.male.17.txt, 2), (2340073.female.16.txt, 1), (3415296.female.14.txt, 1)}
+3829563.female.15.txt	3829563.female.15.txt	Yes	98	{(4140983.female.16.txt, 2)}
+3832026.male.24.txt	3832026.male.24.txt	Yes	100	{}
+3833729.female.23.txt	3833729.female.23.txt	Yes	26	{(3370474.male.17.txt, 4), (2630438.female.27.txt, 3), (3205383.female.35.txt, 1), (3344485.male.25.txt, 1), (3364922.female.16.txt, 1)}
+3838813.female.23.txt	3838813.female.23.txt	Yes	100	{}
+3838863.male.17.txt	3838863.male.17.txt	Yes	100	{}
+3840957.female.23.txt	3840957.female.23.txt	Yes	45	{(1028027.female.16.txt, 2), (1721569.female.24.txt, 2), (2221350.female.14.txt, 2), (2521983.male.16.txt, 2), (2591513.female.27.txt, 1)}
+3841683.male.25.txt	3855637.male.25.txt	No	62	{(3841683.male.25.txt, 12), (3678120.male.34.txt, 6), (3579704.female.37.txt, 3), (2597626.female.26.txt, 1), (3493680.female.26.txt, 1)}
+3843378.male.27.txt	3768571.female.17.txt	No	64	{(1596060.male.27.txt, 1), (2205026.female.26.txt, 1), (3416968.male.25.txt, 1), (3417899.female.26.txt, 1), (3429278.male.13.txt, 1)}
+3843387.female.25.txt	2287879.female.25.txt	No	38	{(1380515.male.40.txt, 1), (1919658.female.27.txt, 1), (1935715.male.25.txt, 1), (3249063.female.23.txt, 1), (3292539.male.27.txt, 1)}
+3845149.male.16.txt	3366901.female.24.txt	No	47	{(2414493.female.16.txt, 2), (1721569.female.24.txt, 1), (3416968.male.25.txt, 1), (3726764.male.47.txt, 1), (3749007.female.15.txt, 1)}
+3846071.female.25.txt	3302604.male.26.txt	No	29	{(1727585.female.27.txt, 2), (1345466.female.24.txt, 1), (1407268.male.23.txt, 1), (1591821.male.24.txt, 1), (1601416.female.36.txt, 1)}
+3847151.female.26.txt	3847151.female.26.txt	Yes	100	{}
+3848031.female.15.txt	3848031.female.15.txt	Yes	100	{}
+3848343.female.17.txt	3848343.female.17.txt	Yes	78	{(3785380.male.16.txt, 10), (3679448.male.14.txt, 4), (3432301.female.17.txt, 2), (1516660.male.17.txt, 1), (3733959.female.15.txt, 1)}
+3849434.female.36.txt	3849434.female.36.txt	Yes	96	{(3897989.female.27.txt, 2), (3877496.female.41.txt, 1), (3930947.female.26.txt, 1)}
+3849592.male.14.txt	3849592.male.14.txt	Yes	99	{(2169579.female.24.txt, 1)}
+3849886.female.34.txt	3849886.female.34.txt	Yes	65	{(2870581.male.17.txt, 4), (2879658.female.23.txt, 2), (1835380.female.16.txt, 1), (3534011.male.17.txt, 1), (3551239.male.41.txt, 1)}
+3850561.female.24.txt	3850561.female.24.txt	Yes	100	{}
+3851642.male.14.txt	3823807.female.14.txt	No	70	{(3562468.female.15.txt, 25), (3540194.female.17.txt, 2), (3975428.male.15.txt, 2), (4161222.female.17.txt, 1)}
+3851968.female.14.txt	3851968.female.14.txt	Yes	100	{}
+3852248.male.15.txt	2757248.female.15.txt	No	30	{(3208383.male.17.txt, 4), (2958390.male.25.txt, 2), (3321956.male.15.txt, 2), (1943565.male.33.txt, 1), (3357337.female.17.txt, 1)}
+3854685.female.14.txt	3951250.female.14.txt	No	83	{(3519295.female.15.txt, 17)}
+3855637.male.25.txt	662223.female.25.txt	No	58	{(1657422.female.24.txt, 20), (2414493.female.16.txt, 4), (1596060.male.27.txt, 1), (2217559.female.24.txt, 1), (239860.male.25.txt, 1)}
+3862449.female.17.txt	3862449.female.17.txt	Yes	100	{}
+3862883.female.15.txt	3650974.male.23.txt	No	25	{(1306985.female.26.txt, 7), (1274171.male.36.txt, 6), (1309251.male.23.txt, 3), (1727585.female.27.txt, 3), (1185193.female.17.txt, 1)}
+3864561.female.23.txt	1721569.female.24.txt	No	27	{(1306985.female.26.txt, 11), (1813392.male.14.txt, 4), (1159057.male.25.txt, 2), (1417798.female.35.txt, 2), (2004217.female.17.txt, 1)}
+3866049.female.25.txt	511641.male.39.txt	No	25	{(2879658.female.23.txt, 17), (3073748.female.23.txt, 12), (2869734.male.23.txt, 3), (1561856.male.27.txt, 2), (1709540.female.25.txt, 1)}
+3866890.male.24.txt	3866890.male.24.txt	Yes	46	{(1756819.female.23.txt, 31), (3057452.male.25.txt, 3), (2229187.female.26.txt, 1), (3306467.male.25.txt, 1), (3332322.female.15.txt, 1)}
+3867242.female.16.txt	3867242.female.16.txt	Yes	62	{(1835380.female.16.txt, 4), (3112893.male.16.txt, 2), (3194640.male.23.txt, 2), (2462546.female.26.txt, 1), (2979384.female.24.txt, 1)}
+3867461.female.23.txt	3320833.female.25.txt	No	32	{(1185193.female.17.txt, 8), (1394735.male.38.txt, 2), (1449141.male.43.txt, 2), (1274171.male.36.txt, 1), (1909905.male.33.txt, 1)}
+3868517.female.14.txt	3749326.female.24.txt	No	46	{(2304201.male.17.txt, 2), (2667384.female.16.txt, 2), (1159057.male.25.txt, 1), (1781653.male.17.txt, 1), (2461522.male.25.txt, 1)}
+3868792.male.33.txt	3868792.male.33.txt	Yes	97	{(1380515.male.40.txt, 1), (3292539.male.27.txt, 1), (4199212.male.16.txt, 1)}
+3869898.female.17.txt	3869898.female.17.txt	Yes	100	{}
+3874398.male.25.txt	3874398.male.25.txt	Yes	98	{(2898040.female.23.txt, 1), (3526380.male.42.txt, 1)}
+3875544.male.43.txt	3718323.male.25.txt	No	19	{(1280497.male.26.txt, 5), (2205026.female.26.txt, 2), (237056.male.24.txt, 2), (1135724.male.34.txt, 1), (2206507.female.23.txt, 1)}
+3876159.female.24.txt	3926749.male.26.txt	No	69	{(2591513.female.27.txt, 7), (3418839.female.24.txt, 2), (3056802.male.24.txt, 1), (3233812.female.24.txt, 1), (3351823.female.17.txt, 1)}
+3877025.female.17.txt	3877025.female.17.txt	Yes	100	{}
+3877496.female.41.txt	3877496.female.41.txt	Yes	43	{(3352958.female.14.txt, 4), (3302604.male.26.txt, 3), (1935715.male.25.txt, 2), (3136900.male.27.txt, 2), (3416793.male.24.txt, 1)}
+3879600.male.41.txt	3879600.male.41.txt	Yes	100	{}
+3882131.female.13.txt	3882131.female.13.txt	Yes	100	{}
+3882992.female.14.txt	3882992.female.14.txt	Yes	73	{(1415200.female.15.txt, 2), (2886367.female.17.txt, 2), (2340073.female.16.txt, 1), (3471937.female.23.txt, 1), (3601175.female.15.txt, 1)}
+3883466.male.16.txt	3883466.male.16.txt	Yes	21	{(2591513.female.27.txt, 14), (3057452.male.25.txt, 3), (3295157.female.24.txt, 3), (3338490.female.34.txt, 2), (3312827.female.25.txt, 1)}
+3884381.male.33.txt	1976124.male.25.txt	No	22	{(2512687.female.16.txt, 18), (1657422.female.24.txt, 11), (2591513.female.27.txt, 5), (2027896.female.16.txt, 4), (2927226.male.27.txt, 1)}
+3885773.female.42.txt	3885773.female.42.txt	Yes	75	{(1306985.female.26.txt, 9), (3363835.female.36.txt, 6), (1721569.female.24.txt, 2), (2988161.female.37.txt, 2), (3405780.male.24.txt, 1)}
+3886720.male.36.txt	1649144.male.17.txt	No	27	{(1405766.male.24.txt, 1), (2839532.male.17.txt, 1), (2929974.female.36.txt, 1), (3299768.male.33.txt, 1), (3347518.male.17.txt, 1)}
+3886985.male.26.txt	3658948.female.24.txt	No	54	{(3648272.male.16.txt, 2), (3350384.female.14.txt, 1), (3515754.female.26.txt, 1), (3720867.male.37.txt, 1), (3736933.female.24.txt, 1)}
+3887186.female.36.txt	3887186.female.36.txt	Yes	100	{}
+3890176.female.33.txt	3890176.female.33.txt	Yes	100	{}
+3891408.female.16.txt	3891408.female.16.txt	Yes	100	{}
+3892208.male.25.txt	3956468.female.15.txt	No	71	{(3868517.female.14.txt, 3), (1159057.male.25.txt, 1), (3673750.male.16.txt, 1), (3718323.male.25.txt, 1), (3772975.male.15.txt, 1)}
+3892602.female.16.txt	3911034.male.26.txt	No	45	{(1657422.female.24.txt, 8), (1185193.female.17.txt, 2), (3178584.male.24.txt, 1), (3179370.male.35.txt, 1), (3299377.male.25.txt, 1)}
+3896036.female.16.txt	2839532.male.17.txt	No	22	{(1781653.male.17.txt, 2), (1284157.female.16.txt, 1), (1405870.female.26.txt, 1), (1889083.female.17.txt, 1), (1935715.male.25.txt, 1)}
+3896118.male.14.txt	3809483.female.17.txt	No	37	{(3819418.female.24.txt, 7), (3838813.female.23.txt, 2), (3112588.male.17.txt, 1), (3838863.male.17.txt, 1), (3846071.female.25.txt, 1)}
+3897142.male.15.txt	3882131.female.13.txt	No	80	{(3606593.female.14.txt, 11), (3897142.male.15.txt, 5), (3683969.male.17.txt, 3), (4219395.female.23.txt, 1)}
+3897583.male.17.txt	3897583.male.17.txt	Yes	72	{(2293441.male.25.txt, 7), (3340219.male.45.txt, 3), (1813392.male.14.txt, 2), (237056.male.24.txt, 1), (3334775.female.23.txt, 1)}
+3897834.male.23.txt	3620911.male.23.txt	No	41	{(3205824.female.26.txt, 16), (3579704.female.37.txt, 7), (2834611.female.24.txt, 3), (3593157.male.17.txt, 1), (3607330.male.39.txt, 1)}
+3897989.female.27.txt	883838.female.48.txt	No	38	{(1667602.female.37.txt, 3), (1274171.male.36.txt, 2), (1509245.female.16.txt, 1), (1657422.female.24.txt, 1), (2054735.female.27.txt, 1)}
+3899600.male.24.txt	3899600.male.24.txt	Yes	59	{(1604755.male.36.txt, 3), (1309251.male.23.txt, 1), (2565326.male.48.txt, 1), (2734125.female.23.txt, 1), (2996701.female.40.txt, 1)}
+3901331.male.33.txt	3901331.male.33.txt	Yes	95	{(3559973.female.36.txt, 3), (1478602.male.23.txt, 1), (3056802.male.24.txt, 1)}
+3904761.male.24.txt	3766919.male.17.txt	No	31	{(1657422.female.24.txt, 10), (1970542.female.24.txt, 3), (1561856.male.27.txt, 2), (1651174.male.24.txt, 2), (2512687.female.16.txt, 2)}
+3906484.female.27.txt	3906484.female.27.txt	Yes	74	{(3545775.male.17.txt, 7), (3538366.male.43.txt, 5), (3205824.female.26.txt, 3), (1076363.male.40.txt, 1), (3607330.male.39.txt, 1)}
+3906670.male.24.txt	3906670.male.24.txt	Yes	78	{(1284157.female.16.txt, 13), (4177618.female.15.txt, 2), (2591513.female.27.txt, 1), (3321956.male.15.txt, 1), (3394208.male.17.txt, 1)}
+3907553.female.24.txt	3636849.male.23.txt	No	31	{(3186585.male.24.txt, 29), (3194640.male.23.txt, 5), (1052611.male.23.txt, 1), (2206507.female.23.txt, 1), (2257718.female.26.txt, 1)}
+3907673.male.23.txt	3907673.male.23.txt	Yes	100	{}
+3911034.male.26.txt	3911034.male.26.txt	Yes	98	{(3677926.male.15.txt, 2)}
+3914804.female.16.txt	3914804.female.16.txt	Yes	97	{(3515754.female.26.txt, 1), (3770960.female.38.txt, 1), (3907553.female.24.txt, 1)}
+3918714.female.36.txt	3918714.female.36.txt	Yes	99	{(3143116.male.25.txt, 1)}
+3919102.male.17.txt	3919102.male.17.txt	Yes	100	{}
+3919348.male.24.txt	3919348.male.24.txt	Yes	49	{(3343256.male.23.txt, 5), (3070838.female.15.txt, 1), (3570676.female.36.txt, 1), (3616679.female.47.txt, 1), (3670826.male.24.txt, 1)}
+3919698.male.16.txt	3599480.female.41.txt	No	52	{(3607330.male.39.txt, 12), (3369840.female.44.txt, 8), (3575937.male.23.txt, 2), (3560812.male.17.txt, 1), (3906484.female.27.txt, 1)}
+3921215.male.39.txt	3560812.male.17.txt	No	65	{(3607330.male.39.txt, 9), (3620243.female.24.txt, 3), (2173808.male.41.txt, 2), (3335299.female.24.txt, 1), (3520924.male.37.txt, 1)}
+3922820.female.39.txt	3922820.female.39.txt	Yes	98	{(3363835.female.36.txt, 1), (3529454.male.25.txt, 1)}
+3924083.male.16.txt	3718323.male.25.txt	No	27	{(3600078.female.36.txt, 7), (3417254.male.13.txt, 5), (2173808.male.41.txt, 1), (3441235.female.23.txt, 1), (3570593.male.23.txt, 1)}
+3925317.male.23.txt	3593157.male.17.txt	No	25	{(3205824.female.26.txt, 24), (3372401.male.25.txt, 18), (3620911.male.23.txt, 5), (2834611.female.24.txt, 3), (3545775.male.17.txt, 2)}
+3926749.male.26.txt	3718323.male.25.txt	No	60	{(1274171.male.36.txt, 4), (1943565.male.33.txt, 3), (1721569.female.24.txt, 2), (2886367.female.17.txt, 1), (3482287.female.26.txt, 1)}
+3930516.female.35.txt	3559973.female.36.txt	No	31	{(1226756.male.23.txt, 2), (1721569.female.24.txt, 2), (2772378.female.45.txt, 2), (2898040.female.23.txt, 2), (2839532.male.17.txt, 1)}
+3930829.female.23.txt	2462546.female.26.txt	No	15	{(1345466.female.24.txt, 2), (1284157.female.16.txt, 1), (1657422.female.24.txt, 1), (2304201.male.17.txt, 1), (2512687.female.16.txt, 1)}
+3930947.female.26.txt	3930947.female.26.txt	Yes	83	{(3162393.female.16.txt, 15), (3454419.male.15.txt, 1), (3735380.male.15.txt, 1)}
+3931735.female.23.txt	3931735.female.23.txt	Yes	100	{}
+3932588.female.27.txt	3612176.female.26.txt	No	57	{(1709540.female.25.txt, 2), (3381272.female.23.txt, 2), (3242040.female.35.txt, 1), (3416793.male.24.txt, 1), (3457056.female.34.txt, 1)}
+3933548.male.24.txt	3933548.male.24.txt	Yes	73	{(3862449.female.17.txt, 10), (3417254.male.13.txt, 2), (320317.male.36.txt, 1), (3366803.male.24.txt, 1), (3559973.female.36.txt, 1)}
+3934445.female.13.txt	3934445.female.13.txt	Yes	99	{(4029416.female.14.txt, 1)}
+3935450.female.25.txt	3935450.female.25.txt	Yes	85	{(3306336.female.16.txt, 5), (3434091.male.27.txt, 3), (2206507.female.23.txt, 1), (3112588.male.17.txt, 1), (3529454.male.25.txt, 1)}
+3936701.male.24.txt	3936701.male.24.txt	Yes	100	{}
+3937183.female.23.txt	3937183.female.23.txt	Yes	85	{(3771903.male.26.txt, 9), (3818898.male.24.txt, 2), (4043341.female.33.txt, 2), (3749396.female.27.txt, 1), (3877496.female.41.txt, 1)}
+3938393.male.17.txt	3745601.male.27.txt	No	35	{(3343256.male.23.txt, 19), (2610055.female.25.txt, 9), (1721569.female.24.txt, 3), (2325994.male.27.txt, 3), (3415296.female.14.txt, 1)}
+3938603.male.17.txt	3938603.male.17.txt	Yes	45	{(3366803.male.24.txt, 3), (3415674.male.16.txt, 2), (3040326.female.26.txt, 1), (3363835.female.36.txt, 1), (3519860.female.16.txt, 1)}
+3938917.female.14.txt	3938917.female.14.txt	Yes	89	{(2591513.female.27.txt, 4), (2205026.female.26.txt, 2), (1756819.female.23.txt, 1), (2630438.female.27.txt, 1), (3292539.male.27.txt, 1)}
+3940168.male.15.txt	3940168.male.15.txt	Yes	42	{(1657422.female.24.txt, 2), (1136785.male.17.txt, 1), (1309251.male.23.txt, 1), (2257718.female.26.txt, 1), (3132605.male.16.txt, 1)}
+3941630.female.27.txt	3941630.female.27.txt	Yes	19	{(2462546.female.26.txt, 6), (1159057.male.25.txt, 4), (1185193.female.17.txt, 3), (1909905.male.33.txt, 1), (2186843.male.27.txt, 1)}
+3942221.female.16.txt	3942221.female.16.txt	Yes	100	{}
+3947785.female.26.txt	3947785.female.26.txt	Yes	88	{(2988161.female.37.txt, 1), (3324711.female.16.txt, 1), (3357337.female.17.txt, 1), (3833729.female.23.txt, 1), (3935450.female.25.txt, 1)}
+3948537.female.35.txt	3948537.female.35.txt	Yes	78	{(2340073.female.16.txt, 2), (2586248.male.17.txt, 2), (1185193.female.17.txt, 1), (2287879.female.25.txt, 1), (3178584.male.24.txt, 1)}
+3948831.female.26.txt	4006405.male.26.txt	No	26	{(2414493.female.16.txt, 22), (1159057.male.25.txt, 2), (1612063.female.24.txt, 1), (1727585.female.27.txt, 1), (3332105.male.17.txt, 1)}
+3949276.female.25.txt	3434091.male.27.txt	No	71	{(2772378.female.45.txt, 3), (3418839.female.24.txt, 3), (2912511.female.23.txt, 1), (2991302.male.24.txt, 1), (3610040.female.16.txt, 1)}
+3951250.female.14.txt	3951250.female.14.txt	Yes	82	{(3809483.female.17.txt, 13), (3683969.male.17.txt, 3), (3961012.female.17.txt, 1), (4019474.female.24.txt, 1)}
+3951417.male.17.txt	3877025.female.17.txt	No	62	{(3951417.male.17.txt, 38)}
+3952651.male.16.txt	3952651.male.16.txt	Yes	61	{(2718350.female.17.txt, 4), (3348041.female.17.txt, 3), (3964538.male.27.txt, 3), (3432301.female.17.txt, 2), (2169579.female.24.txt, 1)}
+3954381.male.40.txt	3718323.male.25.txt	No	34	{(1159057.male.25.txt, 9), (2069366.female.25.txt, 6), (1306985.female.26.txt, 4), (1943565.male.33.txt, 1), (2325994.male.27.txt, 1)}
+3954410.female.14.txt	3848343.female.17.txt	No	48	{(3432301.female.17.txt, 5), (1063313.female.16.txt, 1), (1845692.male.14.txt, 1), (3606593.female.14.txt, 1), (3613484.female.17.txt, 1)}
+3956468.female.15.txt	4077523.male.17.txt	No	71	{(3593157.male.17.txt, 4), (3692930.male.17.txt, 4), (3956468.female.15.txt, 3), (3208819.male.23.txt, 1), (3965053.male.15.txt, 1)}
+3957509.male.38.txt	3957509.male.38.txt	Yes	92	{(3393874.female.24.txt, 3), (3519860.female.16.txt, 2), (3482303.female.33.txt, 1), (3935450.female.25.txt, 1), (477665.female.25.txt, 1)}
+3958124.male.17.txt	1649144.male.17.txt	No	37	{(1612063.female.24.txt, 5), (2229187.female.26.txt, 3), (1345466.female.24.txt, 1), (1405870.female.26.txt, 1), (1504395.female.27.txt, 1)}
+3961012.female.17.txt	3961012.female.17.txt	Yes	100	{}
+3961556.male.25.txt	4041322.female.15.txt	No	33	{(2512687.female.16.txt, 14), (1185193.female.17.txt, 1), (1306985.female.26.txt, 1), (1657422.female.24.txt, 1), (1935715.male.25.txt, 1)}
+3962045.male.42.txt	3962045.male.42.txt	Yes	95	{(1159057.male.25.txt, 2), (3559973.female.36.txt, 2), (1280497.male.26.txt, 1)}
+3964538.male.27.txt	3964538.male.27.txt	Yes	99	{(4219395.female.23.txt, 1)}
+3965053.male.15.txt	3965053.male.15.txt	Yes	74	{(3334775.female.23.txt, 21), (2772378.female.45.txt, 2), (1306985.female.26.txt, 1), (1561856.male.27.txt, 1), (3829563.female.15.txt, 1)}
+3969532.male.26.txt	3969532.male.26.txt	Yes	31	{(2007347.male.17.txt, 17), (1516660.male.17.txt, 9), (1306985.female.26.txt, 8), (1596060.male.27.txt, 3), (1405766.male.24.txt, 2)}
+3970127.female.17.txt	3405780.male.24.txt	No	23	{(3308024.female.24.txt, 3), (3338490.female.34.txt, 3), (3302604.male.26.txt, 2), (237056.male.24.txt, 1), (3335650.male.15.txt, 1)}
+3971520.female.25.txt	3971520.female.25.txt	Yes	67	{(2912511.female.23.txt, 8), (3332105.male.17.txt, 4), (3393874.female.24.txt, 3), (3482303.female.33.txt, 3), (3381753.female.17.txt, 1)}
+3973922.female.38.txt	3973922.female.38.txt	Yes	48	{(1405870.female.26.txt, 9), (1657422.female.24.txt, 8), (1919658.female.27.txt, 3), (2054735.female.27.txt, 3), (1280497.male.26.txt, 1)}
+3974415.female.27.txt	1159057.male.25.txt	No	14	{(1306985.female.26.txt, 4), (1162051.female.23.txt, 1), (1516660.male.17.txt, 1), (1727585.female.27.txt, 1), (1835380.female.16.txt, 1)}
+3974483.female.15.txt	3974483.female.15.txt	Yes	65	{(3351823.female.17.txt, 31), (3432301.female.17.txt, 2), (3869898.female.17.txt, 2)}
+3975428.male.15.txt	3975428.male.15.txt	Yes	99	{(3745601.male.27.txt, 1)}
+3977191.male.15.txt	3422982.female.17.txt	No	91	{(3360862.male.25.txt, 5), (2301166.female.24.txt, 2), (2986355.female.23.txt, 1), (3977191.male.15.txt, 1)}
+3980661.male.14.txt	2732859.male.15.txt	No	12	{(1835380.female.16.txt, 7), (1561856.male.27.txt, 5), (1649144.male.17.txt, 3), (1657422.female.24.txt, 3), (2869734.male.23.txt, 1)}
+3980716.male.16.txt	3980716.male.16.txt	Yes	28	{(3422982.female.17.txt, 4), (2027896.female.16.txt, 3), (2886367.female.17.txt, 2), (3056802.male.24.txt, 2), (1657422.female.24.txt, 1)}
+3982622.female.26.txt	4014366.female.24.txt	No	36	{(3350384.female.14.txt, 4), (2898040.female.23.txt, 2), (1504395.female.27.txt, 1), (1727585.female.27.txt, 1), (3112588.male.17.txt, 1)}
+3985002.female.37.txt	3040882.male.23.txt	No	71	{(3767607.male.40.txt, 10), (3985002.female.37.txt, 10), (4068871.male.33.txt, 2), (1909905.male.33.txt, 1), (2293441.male.25.txt, 1)}
+3989287.female.38.txt	3989287.female.38.txt	Yes	41	{(1478602.male.23.txt, 11), (3405780.male.24.txt, 5), (2988161.female.37.txt, 1), (3338490.female.34.txt, 1), (3448192.female.26.txt, 1)}
+3990627.female.17.txt	3990627.female.17.txt	Yes	100	{}
+3990766.female.16.txt	3990766.female.16.txt	Yes	100	{}
+3992378.female.14.txt	3992378.female.14.txt	Yes	93	{(3581495.male.17.txt, 2), (3804319.female.17.txt, 1), (3930829.female.23.txt, 1), (4160243.female.27.txt, 1), (4226649.male.45.txt, 1)}
+3994798.female.17.txt	3994798.female.17.txt	Yes	100	{}
+3995290.female.27.txt	3995290.female.27.txt	Yes	100	{}
+3997669.female.25.txt	3997669.female.25.txt	Yes	82	{(3604445.female.27.txt, 5), (3302604.male.26.txt, 3), (3612176.female.26.txt, 3), (3310584.male.26.txt, 1), (3434091.male.27.txt, 1)}
+3998820.male.17.txt	3998820.male.17.txt	Yes	100	{}
+4001964.male.23.txt	2301166.female.24.txt	No	27	{(1063313.female.16.txt, 6), (2757248.female.15.txt, 6), (2100479.female.24.txt, 3), (2744104.male.24.txt, 3), (2603782.female.24.txt, 1)}
+4004266.female.23.txt	4004266.female.23.txt	Yes	86	{(3450307.male.24.txt, 3), (1233897.male.17.txt, 1), (1601416.female.36.txt, 1), (3441235.female.23.txt, 1), (3582727.female.13.txt, 1)}
+4004340.female.25.txt	4036635.female.25.txt	No	29	{(3422982.female.17.txt, 18), (232317.female.25.txt, 13), (2591513.female.27.txt, 9), (1231733.female.24.txt, 2), (2929974.female.36.txt, 1)}
+4004415.female.27.txt	3394208.male.17.txt	No	43	{(3092694.male.25.txt, 8), (3381276.female.37.txt, 2), (1289910.male.17.txt, 1), (2686258.male.27.txt, 1), (3518258.female.16.txt, 1)}
+4004784.female.24.txt	3363794.female.23.txt	No	15	{(1587910.female.16.txt, 3), (1159057.male.25.txt, 2), (1063313.female.16.txt, 1), (1504395.female.27.txt, 1), (1727585.female.27.txt, 1)}
+4004920.female.14.txt	4004920.female.14.txt	Yes	100	{}
+4006405.male.26.txt	4006405.male.26.txt	Yes	83	{(1756819.female.23.txt, 7), (1504395.female.27.txt, 1), (3308201.male.26.txt, 1), (3390046.male.23.txt, 1), (3444234.male.39.txt, 1)}
+4009470.male.14.txt	4009470.male.14.txt	Yes	100	{}
+4014366.female.24.txt	3982622.female.26.txt	No	23	{(1516660.male.17.txt, 9), (1204495.male.17.txt, 4), (1651174.male.24.txt, 1), (1935715.male.25.txt, 1), (232317.female.25.txt, 1)}
+4015159.male.17.txt	4015159.male.17.txt	Yes	32	{(2221350.female.14.txt, 10), (1657422.female.24.txt, 3), (2186843.male.27.txt, 1), (2981368.male.16.txt, 1), (3295157.female.24.txt, 1)}
+4015615.male.24.txt	3600078.female.36.txt	No	78	{(3948537.female.35.txt, 12), (3425335.female.37.txt, 4), (3205824.female.26.txt, 1), (3393874.female.24.txt, 1), (3845149.male.16.txt, 1)}
+4015633.female.35.txt	4015633.female.35.txt	Yes	93	{(1159057.male.25.txt, 4), (3302604.male.26.txt, 2), (3463756.female.24.txt, 1)}
+4015982.female.25.txt	4015982.female.25.txt	Yes	75	{(3500871.female.16.txt, 17), (1781653.male.17.txt, 3), (3389530.female.16.txt, 3), (1935715.male.25.txt, 1), (3174561.female.16.txt, 1)}
+4019474.female.24.txt	3541261.male.15.txt	No	13	{(2839210.male.23.txt, 8), (1504395.female.27.txt, 3), (2163386.male.26.txt, 3), (1721569.female.24.txt, 1), (2525415.female.33.txt, 1)}
+4019544.male.26.txt	4019544.male.26.txt	Yes	42	{(2870581.male.17.txt, 16), (3351823.female.17.txt, 2), (3482303.female.33.txt, 1), (3488850.female.17.txt, 1), (3518225.female.24.txt, 1)}
+4022842.male.14.txt	4022842.male.14.txt	Yes	99	{(3308201.male.26.txt, 1)}
+4027197.female.15.txt	4027197.female.15.txt	Yes	78	{(1845692.male.14.txt, 2), (1934543.female.17.txt, 2), (2169579.female.24.txt, 1), (2718350.female.17.txt, 1), (3308201.male.26.txt, 1)}
+4028812.male.16.txt	4028812.male.16.txt	Yes	99	{(4047838.male.23.txt, 1)}
+4028995.female.44.txt	3409984.male.24.txt	No	37	{(2293441.male.25.txt, 8), (3340219.male.45.txt, 8), (3334775.female.23.txt, 2), (3310584.male.26.txt, 1), (3451421.male.23.txt, 1)}
+4029416.female.14.txt	4029416.female.14.txt	Yes	100	{}
+4030244.female.27.txt	1306985.female.26.txt	No	23	{(2886367.female.17.txt, 4), (3343256.male.23.txt, 3), (1943565.male.33.txt, 1), (3056802.male.24.txt, 1), (3127881.male.24.txt, 1)}
+4030660.female.25.txt	4301895.female.15.txt	No	14	{(1028027.female.16.txt, 8), (3344485.male.25.txt, 7), (1345466.female.24.txt, 1), (1415200.female.15.txt, 1), (2340073.female.16.txt, 1)}
+4032401.male.23.txt	4032401.male.23.txt	Yes	40	{(2512687.female.16.txt, 7), (1721569.female.24.txt, 2), (1971242.female.23.txt, 1), (2004217.female.17.txt, 1), (2304201.male.17.txt, 1)}
+4033638.female.17.txt	4033638.female.17.txt	Yes	100	{}
+4035767.male.25.txt	794491.male.23.txt	No	63	{(3346538.male.35.txt, 11), (3354959.male.25.txt, 5), (1596060.male.27.txt, 1), (3186585.male.24.txt, 1), (3299768.male.33.txt, 1)}
+4036054.male.15.txt	4036054.male.15.txt	Yes	41	{(3366803.male.24.txt, 5), (3326689.male.14.txt, 4), (3393874.female.24.txt, 3), (3205824.female.26.txt, 1), (3346538.male.35.txt, 1)}
+4036407.female.25.txt	4036407.female.25.txt	Yes	100	{}
+4036635.female.25.txt	4193275.male.15.txt	No	27	{(2667384.female.16.txt, 8), (2069366.female.25.txt, 6), (2591513.female.27.txt, 2), (2597433.female.15.txt, 1), (3148889.female.26.txt, 1)}
+4041322.female.15.txt	4041322.female.15.txt	Yes	89	{(2879658.female.23.txt, 3), (2898040.female.23.txt, 2), (3482287.female.26.txt, 1), (3892208.male.25.txt, 1), (3952651.male.16.txt, 1)}
+4042241.male.48.txt	4042241.male.48.txt	Yes	60	{(3057452.male.25.txt, 13), (1478602.male.23.txt, 1), (237056.male.24.txt, 1), (2376531.male.39.txt, 1), (3186585.male.24.txt, 1)}
+4043341.female.33.txt	4043341.female.33.txt	Yes	18	{(1226756.male.23.txt, 3), (1306985.female.26.txt, 1), (1470319.female.26.txt, 1), (1601416.female.36.txt, 1), (1651174.male.24.txt, 1)}
+4045480.female.24.txt	3897834.male.23.txt	No	81	{(2526090.male.35.txt, 3), (2173808.male.41.txt, 2), (3434091.male.27.txt, 2), (2879658.female.23.txt, 1), (3321675.female.26.txt, 1)}
+4045773.female.26.txt	4062762.male.27.txt	No	34	{(3867461.female.23.txt, 20), (2586248.male.17.txt, 5), (3866049.female.25.txt, 4), (3767607.male.40.txt, 1), (3906484.female.27.txt, 1)}
+4047493.male.16.txt	4047493.male.16.txt	Yes	100	{}
+4047707.female.25.txt	4047707.female.25.txt	Yes	95	{(1835882.female.17.txt, 1), (2991302.male.24.txt, 1), (3379314.female.13.txt, 1), (3604131.male.23.txt, 1), (3829239.female.15.txt, 1)}
+4047838.male.23.txt	3670826.male.24.txt	No	46	{(1970542.female.24.txt, 35), (1274171.male.36.txt, 2), (2512687.female.16.txt, 2), (2869734.male.23.txt, 1), (3088214.male.17.txt, 1)}
+4050173.male.25.txt	4050173.male.25.txt	Yes	81	{(3450307.male.24.txt, 16), (3205383.female.35.txt, 1), (3405780.male.24.txt, 1), (3941630.female.27.txt, 1)}
+4051300.male.17.txt	4051300.male.17.txt	Yes	100	{}
+4051656.male.27.txt	2732859.male.15.txt	No	47	{(3906484.female.27.txt, 25), (3620911.male.23.txt, 12), (3593157.male.17.txt, 9), (3346538.male.35.txt, 3), (3745601.male.27.txt, 1)}
+4052088.female.25.txt	3847151.female.26.txt	No	98	{(2512687.female.16.txt, 1), (511641.male.39.txt, 1)}
+4052951.male.27.txt	4052951.male.27.txt	Yes	32	{(3356780.male.34.txt, 14), (2834611.female.24.txt, 11), (2325994.male.27.txt, 1), (3375813.male.34.txt, 1), (3381272.female.23.txt, 1)}
+4058412.female.15.txt	4058412.female.15.txt	Yes	54	{(2958390.male.25.txt, 6), (1223044.male.16.txt, 5), (1504395.female.27.txt, 3), (2925114.female.16.txt, 2), (2686258.male.27.txt, 1)}
+4059083.male.41.txt	4059083.male.41.txt	Yes	100	{}
+4062009.male.16.txt	4062009.male.16.txt	Yes	67	{(2952149.male.13.txt, 12), (3422982.female.17.txt, 5), (3097233.male.17.txt, 4), (3088214.male.17.txt, 1), (3335650.male.15.txt, 1)}
+4062317.male.15.txt	4062317.male.15.txt	Yes	67	{(1932521.female.16.txt, 3), (1651174.male.24.txt, 1), (2869734.male.23.txt, 1), (3320151.male.16.txt, 1), (3348041.female.17.txt, 1)}
+4062762.male.27.txt	2772378.female.45.txt	No	13	{(2163386.male.26.txt, 11), (1555267.male.35.txt, 3), (1274171.male.36.txt, 1), (2287879.female.25.txt, 1), (2839210.male.23.txt, 1)}
+4066146.female.23.txt	4140983.female.16.txt	No	14	{(1971242.female.23.txt, 8), (1721569.female.24.txt, 4), (1970542.female.24.txt, 2), (1231733.female.24.txt, 1), (1657422.female.24.txt, 1)}
+4066793.male.26.txt	992078.male.17.txt	No	57	{(3620911.male.23.txt, 7), (3593157.male.17.txt, 5), (2834611.female.24.txt, 1), (3538366.male.43.txt, 1), (3560812.male.17.txt, 1)}
+4067717.female.17.txt	4067717.female.17.txt	Yes	100	{}
+4067730.female.16.txt	4067730.female.16.txt	Yes	100	{}
+4068871.male.33.txt	4068871.male.33.txt	Yes	65	{(3205824.female.26.txt, 11), (3376440.male.37.txt, 3), (2898040.female.23.txt, 1), (3136900.male.27.txt, 1), (3538366.male.43.txt, 1)}
+4069219.female.14.txt	4069219.female.14.txt	Yes	100	{}
+4070413.male.17.txt	4070413.male.17.txt	Yes	100	{}
+4072235.male.15.txt	4072235.male.15.txt	Yes	56	{(2510334.male.17.txt, 2), (2772378.female.45.txt, 2), (3128960.male.27.txt, 2), (2648549.female.23.txt, 1), (2870581.male.17.txt, 1)}
+4073862.female.23.txt	4073862.female.23.txt	Yes	23	{(2461522.male.25.txt, 12), (3073748.female.23.txt, 4), (1405870.female.26.txt, 2), (1555267.male.35.txt, 1), (3148889.female.26.txt, 1)}
+4075024.female.13.txt	4075024.female.13.txt	Yes	84	{(3415280.male.14.txt, 15), (4112615.female.23.txt, 1)}
+4077523.male.17.txt	4077523.male.17.txt	Yes	89	{(698314.female.17.txt, 9), (4101382.female.17.txt, 2)}
+4084283.female.24.txt	4084283.female.24.txt	Yes	91	{(3329669.female.25.txt, 2), (3321956.male.15.txt, 1), (3335650.male.15.txt, 1), (3348041.female.17.txt, 1), (3930947.female.26.txt, 1)}
+4084589.female.15.txt	3537787.female.16.txt	No	22	{(2597433.female.15.txt, 1), (2651675.female.14.txt, 1), (3235079.female.27.txt, 1), (3332105.male.17.txt, 1), (3415674.male.16.txt, 1)}
+4087888.male.24.txt	4087888.male.24.txt	Yes	89	{(3560812.male.17.txt, 2), (3650974.male.23.txt, 2), (2764903.male.33.txt, 1), (3299377.male.25.txt, 1), (3508590.female.27.txt, 1)}
+4091880.male.42.txt	3620911.male.23.txt	No	24	{(3312354.male.27.txt, 9), (2834611.female.24.txt, 6), (2586248.male.17.txt, 2), (3205824.female.26.txt, 2), (3570676.female.36.txt, 2)}
+4097316.male.24.txt	3088214.male.17.txt	No	78	{(1280497.male.26.txt, 2), (2834611.female.24.txt, 2), (2461522.male.25.txt, 1), (2512687.female.16.txt, 1), (2648549.female.23.txt, 1)}
+4101382.female.17.txt	4101382.female.17.txt	Yes	98	{(1756819.female.23.txt, 1), (2952149.male.13.txt, 1)}
+4101559.male.17.txt	4101559.male.17.txt	Yes	93	{(3132605.male.16.txt, 4), (3500472.male.15.txt, 3)}
+4103868.female.27.txt	4103868.female.27.txt	Yes	100	{}
+4105138.male.33.txt	4105138.male.33.txt	Yes	100	{}
+4105191.male.39.txt	4105191.male.39.txt	Yes	96	{(1596060.male.27.txt, 1), (3425335.female.37.txt, 1), (3650974.male.23.txt, 1), (4032401.male.23.txt, 1)}
+4108148.male.25.txt	1970542.female.24.txt	No	24	{(1835380.female.16.txt, 5), (1159057.male.25.txt, 1), (1415200.female.15.txt, 1), (1657422.female.24.txt, 1), (2257718.female.26.txt, 1)}
+4112615.female.23.txt	4112615.female.23.txt	Yes	60	{(2169579.female.24.txt, 14), (3381276.female.37.txt, 3), (3351823.female.17.txt, 2), (3550715.male.17.txt, 1), (3796743.male.17.txt, 1)}
+4113328.male.14.txt	3415280.male.14.txt	No	37	{(4113328.male.14.txt, 37), (3335650.male.15.txt, 15), (4112615.female.23.txt, 10), (3498277.female.13.txt, 1)}
+4113932.female.26.txt	3378253.male.24.txt	No	17	{(1306985.female.26.txt, 2), (2781841.female.23.txt, 2), (1193364.female.16.txt, 1), (1970542.female.24.txt, 1), (2886367.female.17.txt, 1)}
+4116628.female.16.txt	4116628.female.16.txt	Yes	89	{(2301166.female.24.txt, 11)}
+4118185.female.16.txt	4118185.female.16.txt	Yes	36	{(3415296.female.14.txt, 30), (3378253.male.24.txt, 6), (3601175.female.15.txt, 5), (3571306.female.15.txt, 2), (1415200.female.15.txt, 1)}
+4119176.male.27.txt	1135724.male.34.txt	No	38	{(1449141.male.43.txt, 29), (3593157.male.17.txt, 10), (3793386.male.37.txt, 6), (3417254.male.13.txt, 1), (3620911.male.23.txt, 1)}
+4120538.male.15.txt	4120538.male.15.txt	Yes	98	{(3422982.female.17.txt, 2)}
+4121589.male.17.txt	4121589.male.17.txt	Yes	99	{(4155355.female.15.txt, 1)}
+4123369.female.26.txt	3770960.female.38.txt	No	28	{(1159057.male.25.txt, 9), (3600078.female.36.txt, 5), (3344485.male.25.txt, 1), (3370474.male.17.txt, 1), (3441235.female.23.txt, 1)}
+4136363.female.35.txt	3935450.female.25.txt	No	30	{(2512687.female.16.txt, 2), (2287879.female.25.txt, 1), (2462546.female.26.txt, 1), (2988161.female.37.txt, 1), (3366901.female.24.txt, 1)}
+4138502.female.24.txt	4138502.female.24.txt	Yes	24	{(3302604.male.26.txt, 18), (3205383.female.35.txt, 8), (3292539.male.27.txt, 5), (1970542.female.24.txt, 1), (2217559.female.24.txt, 1)}
+4139599.female.23.txt	913315.male.25.txt	No	21	{(1667602.female.37.txt, 12), (1604755.male.36.txt, 6), (1280497.male.26.txt, 3), (1159057.male.25.txt, 1), (1185193.female.17.txt, 1)}
+4140983.female.16.txt	662223.female.25.txt	No	52	{(1970542.female.24.txt, 7), (2304201.male.17.txt, 4), (1813392.male.14.txt, 1), (1976124.male.25.txt, 1), (2340073.female.16.txt, 1)}
+4141011.male.25.txt	4141011.male.25.txt	Yes	99	{(3570593.male.23.txt, 1)}
+4142265.male.23.txt	4142265.male.23.txt	Yes	100	{}
+4142700.male.26.txt	4047838.male.23.txt	No	22	{(1274171.male.36.txt, 15), (1604755.male.36.txt, 3), (2565326.male.48.txt, 3), (2512687.female.16.txt, 1), (2929974.female.36.txt, 1)}
+4145851.female.35.txt	2586248.male.17.txt	No	20	{(2834611.female.24.txt, 7), (3414911.female.17.txt, 2), (1561856.male.27.txt, 1), (3340458.male.26.txt, 1), (3441235.female.23.txt, 1)}
+4146500.male.24.txt	3335650.male.15.txt	No	29	{(232317.female.25.txt, 21), (1516660.male.17.txt, 2), (3088825.male.17.txt, 2), (1657422.female.24.txt, 1), (2929974.female.36.txt, 1)}
+4153678.female.16.txt	4153678.female.16.txt	Yes	100	{}
+4155355.female.15.txt	4155355.female.15.txt	Yes	49	{(3483023.male.14.txt, 27), (3733786.female.13.txt, 4), (3596336.female.16.txt, 3), (3329669.female.25.txt, 1), (3612176.female.26.txt, 1)}
+4160243.female.27.txt	3526380.male.42.txt	No	28	{(1601416.female.36.txt, 4), (2304201.male.17.txt, 4), (1970542.female.24.txt, 2), (2055017.male.24.txt, 2), (1934543.female.17.txt, 1)}
+4160427.female.14.txt	3891408.female.16.txt	No	29	{(3500472.male.15.txt, 6), (3534011.male.17.txt, 3), (2591513.female.27.txt, 1), (3425540.female.14.txt, 1), (3548807.male.15.txt, 1)}
+4161101.male.14.txt	4161101.male.14.txt	Yes	68	{(3086427.male.16.txt, 9), (3334775.female.23.txt, 9), (3332322.female.15.txt, 4), (232317.female.25.txt, 1), (2996701.female.40.txt, 1)}
+4161222.female.17.txt	3648272.male.16.txt	No	22	{(3306336.female.16.txt, 3), (1781653.male.17.txt, 2), (2925114.female.16.txt, 1), (3153425.female.14.txt, 1), (3302604.male.26.txt, 1)}
+4163734.male.14.txt	4163734.male.14.txt	Yes	96	{(3882131.female.13.txt, 4)}
+4165168.male.17.txt	4165168.male.17.txt	Yes	100	{}
+4167040.female.15.txt	4167040.female.15.txt	Yes	80	{(1934543.female.17.txt, 10), (3869898.female.17.txt, 5), (3796743.male.17.txt, 1), (3938917.female.14.txt, 1), (4027197.female.15.txt, 1)}
+4167608.female.38.txt	4167608.female.38.txt	Yes	100	{}
+4168118.male.17.txt	4168118.male.17.txt	Yes	100	{}
+4169684.male.17.txt	4169684.male.17.txt	Yes	91	{(3195553.female.17.txt, 7), (3415674.male.16.txt, 1), (3744255.male.25.txt, 1)}
+4170453.male.24.txt	4170453.male.24.txt	Yes	99	{(3961012.female.17.txt, 1)}
+4173841.female.43.txt	4160243.female.27.txt	No	47	{(1727585.female.27.txt, 7), (1721569.female.24.txt, 2), (2886367.female.17.txt, 2), (3178584.male.24.txt, 1), (3370474.male.17.txt, 1)}
+4173964.male.16.txt	4173964.male.16.txt	Yes	88	{(2169579.female.24.txt, 2), (1516660.male.17.txt, 1), (239860.male.25.txt, 1), (3324491.male.17.txt, 1), (3548807.male.15.txt, 1)}
+4174209.female.13.txt	4174209.female.13.txt	Yes	100	{}
+4176019.female.17.txt	3670826.male.24.txt	No	40	{(1306985.female.26.txt, 39), (1604755.male.36.txt, 2), (2610055.female.25.txt, 1), (2734125.female.23.txt, 1), (3299377.male.25.txt, 1)}
+4176168.male.15.txt	4176168.male.15.txt	Yes	100	{}
+4177618.female.15.txt	3770960.female.38.txt	No	34	{(2340073.female.16.txt, 4), (2461522.male.25.txt, 2), (2512687.female.16.txt, 2), (1976124.male.25.txt, 1), (2845838.female.23.txt, 1)}
+4177945.male.16.txt	4177945.male.16.txt	Yes	84	{(1889083.female.17.txt, 9), (3321956.male.15.txt, 3), (3594624.female.23.txt, 2), (3488850.female.17.txt, 1), (4219395.female.23.txt, 1)}
+4178076.female.15.txt	662223.female.25.txt	No	52	{(2340073.female.16.txt, 7), (1407268.male.23.txt, 4), (2952149.male.13.txt, 2), (1721569.female.24.txt, 1), (1971242.female.23.txt, 1)}
+4179524.male.24.txt	4179524.male.24.txt	Yes	90	{(3575216.male.36.txt, 5), (3302604.male.26.txt, 2), (3450307.male.24.txt, 2), (3482303.female.33.txt, 1)}
+4181834.female.16.txt	4181834.female.16.txt	Yes	100	{}
+4182592.female.24.txt	4182592.female.24.txt	Yes	58	{(511641.male.39.txt, 31), (3559973.female.36.txt, 11)}
+4184068.female.25.txt	3586375.female.27.txt	No	16	{(1971242.female.23.txt, 3), (1345466.female.24.txt, 1), (2304201.male.17.txt, 1), (2414493.female.16.txt, 1), (2462546.female.26.txt, 1)}
+4184069.female.27.txt	3529454.male.25.txt	No	23	{(1504395.female.27.txt, 7), (2217559.female.24.txt, 2), (1076363.male.40.txt, 1), (1159057.male.25.txt, 1), (3043495.male.24.txt, 1)}
+4185171.male.23.txt	4185171.male.23.txt	Yes	57	{(3490286.male.23.txt, 18), (2217559.female.24.txt, 4), (3338490.female.34.txt, 3), (2414493.female.16.txt, 1), (2979384.female.24.txt, 1)}
+4187516.male.44.txt	4068871.male.33.txt	No	69	{(3620911.male.23.txt, 30), (3312354.male.27.txt, 1)}
+4190502.male.16.txt	3744255.male.25.txt	No	24	{(1976124.male.25.txt, 3), (1934543.female.17.txt, 1), (2169579.female.24.txt, 1), (2597626.female.26.txt, 1), (2870581.male.17.txt, 1)}
+4193275.male.15.txt	3864561.female.23.txt	No	19	{(2414493.female.16.txt, 6), (1204495.male.17.txt, 4), (1813392.male.14.txt, 4), (1280497.male.26.txt, 1), (3153425.female.14.txt, 1)}
+4195044.female.34.txt	4195044.female.34.txt	Yes	76	{(3302604.male.26.txt, 7), (2304201.male.17.txt, 4), (3128960.male.27.txt, 1), (3375862.female.23.txt, 1), (3389530.female.16.txt, 1)}
+4195249.male.26.txt	3088214.male.17.txt	No	31	{(3175142.male.44.txt, 17), (2512687.female.16.txt, 12), (2173808.male.41.txt, 8), (3504914.male.16.txt, 3), (3205824.female.26.txt, 1)}
+4197748.female.26.txt	4006405.male.26.txt	No	14	{(2510334.male.17.txt, 9), (2913134.male.26.txt, 4), (1721569.female.24.txt, 1), (1756819.female.23.txt, 1), (1781653.male.17.txt, 1)}
+4199212.male.16.txt	4199212.male.16.txt	Yes	98	{(2293441.male.25.txt, 2)}
+4199362.female.14.txt	3768840.male.36.txt	No	25	{(1835380.female.16.txt, 20), (1008329.female.16.txt, 5), (232317.female.25.txt, 4), (1345466.female.24.txt, 3), (2257718.female.26.txt, 1)}
+4200029.male.24.txt	3425335.female.37.txt	No	37	{(3302604.male.26.txt, 6), (2879658.female.23.txt, 5), (2839532.male.17.txt, 4), (2229187.female.26.txt, 3), (2996701.female.40.txt, 2)}
+4200786.male.13.txt	4200786.male.13.txt	Yes	100	{}
+4202679.female.16.txt	4202679.female.16.txt	Yes	100	{}
+420325.male.45.txt	3376440.male.37.txt	No	36	{(1405870.female.26.txt, 4), (1813392.male.14.txt, 1), (2229187.female.26.txt, 1), (2648549.female.23.txt, 1), (3088214.male.17.txt, 1)}
+4205392.male.17.txt	3465662.female.16.txt	No	61	{(293982.female.23.txt, 3), (3528859.male.26.txt, 1), (3867461.female.23.txt, 1), (3875544.male.43.txt, 1), (3877496.female.41.txt, 1)}
+4206326.female.23.txt	3885773.female.42.txt	No	13	{(1306985.female.26.txt, 1), (1407268.male.23.txt, 1), (1727585.female.27.txt, 1), (1943565.male.33.txt, 1), (1970542.female.24.txt, 1)}
+4206346.female.16.txt	2886367.female.17.txt	No	16	{(2512687.female.16.txt, 11), (2597433.female.15.txt, 3), (2169579.female.24.txt, 2), (1306985.female.26.txt, 1), (232317.female.25.txt, 1)}
+4210703.male.26.txt	3720867.male.37.txt	No	39	{(1596060.male.27.txt, 3), (2996701.female.40.txt, 2), (1509245.female.16.txt, 1), (1651174.male.24.txt, 1), (2929974.female.36.txt, 1)}
+4211264.female.13.txt	4211264.female.13.txt	Yes	100	{}
+4212549.female.15.txt	4212549.female.15.txt	Yes	100	{}
+4214747.male.23.txt	4214747.male.23.txt	Yes	87	{(3526571.male.23.txt, 6), (3233812.female.24.txt, 4), (2512687.female.16.txt, 1), (3343256.male.23.txt, 1), (4041322.female.15.txt, 1)}
+4219142.male.25.txt	4219142.male.25.txt	Yes	99	{(1935715.male.25.txt, 1)}
+4219395.female.23.txt	4160427.female.14.txt	No	83	{(3415674.male.16.txt, 2), (3558161.male.16.txt, 2), (3195553.female.17.txt, 1), (3344485.male.25.txt, 1), (3519860.female.16.txt, 1)}
+4224081.male.16.txt	4224081.male.16.txt	Yes	100	{}
+4226649.male.45.txt	4226649.male.45.txt	Yes	100	{}
+4227266.male.35.txt	4227266.male.35.txt	Yes	100	{}
+4231274.female.25.txt	3448192.female.26.txt	No	27	{(1159057.male.25.txt, 3), (1509245.female.16.txt, 3), (1919658.female.27.txt, 1), (1971242.female.23.txt, 1), (2510334.male.17.txt, 1)}
+4235382.female.24.txt	4103868.female.27.txt	No	27	{(3306467.male.25.txt, 12), (3179434.male.17.txt, 5), (2772378.female.45.txt, 4), (1721569.female.24.txt, 2), (2525415.female.33.txt, 1)}
+4236015.male.17.txt	4236015.male.17.txt	Yes	100	{}
+4236653.male.42.txt	4033638.female.17.txt	No	19	{(2591513.female.27.txt, 5), (1976124.male.25.txt, 3), (2414493.female.16.txt, 1), (2510334.male.17.txt, 1), (3338490.female.34.txt, 1)}
+4237739.female.26.txt	4237739.female.26.txt	Yes	92	{(3690175.male.26.txt, 2), (4185171.male.23.txt, 2), (4214747.male.23.txt, 2), (3409476.female.36.txt, 1), (698314.female.17.txt, 1)}
+4239433.female.34.txt	4239433.female.34.txt	Yes	43	{(2772378.female.45.txt, 9), (2913134.male.26.txt, 3), (1185193.female.17.txt, 1), (1657422.female.24.txt, 1), (3128960.male.27.txt, 1)}
+4239436.male.17.txt	4239436.male.17.txt	Yes	29	{(1598918.male.27.txt, 11), (2058521.male.35.txt, 5), (2293441.male.25.txt, 5), (1604755.male.36.txt, 1), (2648549.female.23.txt, 1)}
+4240625.male.14.txt	3770960.female.38.txt	No	16	{(1504395.female.27.txt, 4), (2325994.male.27.txt, 4), (2648549.female.23.txt, 3), (1478602.male.23.txt, 1), (1561856.male.27.txt, 1)}
+4241340.male.44.txt	4068871.male.33.txt	No	41	{(1076363.male.40.txt, 21), (3312354.male.27.txt, 7), (3346538.male.35.txt, 3), (2597626.female.26.txt, 1), (3205824.female.26.txt, 1)}
+4245499.male.15.txt	4245499.male.15.txt	Yes	84	{(1831634.female.15.txt, 5), (2461522.male.25.txt, 2), (2169579.female.24.txt, 1), (2591513.female.27.txt, 1), (3324491.male.17.txt, 1)}
+4246863.male.27.txt	4246863.male.27.txt	Yes	99	{(3307493.male.25.txt, 1)}
+4247607.female.17.txt	4247607.female.17.txt	Yes	100	{}
+4249969.male.23.txt	4249969.male.23.txt	Yes	94	{(662223.female.25.txt, 2), (2565326.male.48.txt, 1), (3924083.male.16.txt, 1), (4170453.male.24.txt, 1), (96600.female.27.txt, 1)}
+4252081.male.26.txt	3670826.male.24.txt	No	60	{(4252081.male.26.txt, 36), (2325994.male.27.txt, 2), (3538141.male.16.txt, 1), (3648272.male.16.txt, 1)}
+4253149.female.24.txt	3334775.female.23.txt	No	24	{(3342761.female.26.txt, 14), (2764903.male.33.txt, 3), (2898040.female.23.txt, 1), (3178584.male.24.txt, 1), (3179370.male.35.txt, 1)}
+4254447.male.23.txt	4254447.male.23.txt	Yes	100	{}
+4259267.female.16.txt	4259267.female.16.txt	Yes	34	{(2591513.female.27.txt, 7), (3653978.female.16.txt, 5), (3174561.female.16.txt, 3), (2169579.female.24.txt, 2), (3012983.female.40.txt, 1)}
+4259331.male.17.txt	4259331.male.17.txt	Yes	100	{}
+4263013.male.16.txt	3415296.female.14.txt	No	21	{(3056802.male.24.txt, 9), (3378253.male.24.txt, 7), (1971242.female.23.txt, 4), (2512687.female.16.txt, 1), (3249063.female.23.txt, 1)}
+4271135.female.27.txt	3575937.male.23.txt	No	43	{(3658948.female.24.txt, 21), (3346538.male.35.txt, 2), (3545775.male.17.txt, 2), (3593157.male.17.txt, 1), (3620911.male.23.txt, 1)}
+4274229.female.14.txt	4274229.female.14.txt	Yes	100	{}
+4279925.female.23.txt	3566193.male.23.txt	No	67	{(3143116.male.25.txt, 7), (1076363.male.40.txt, 2), (3040882.male.23.txt, 2), (2857628.female.27.txt, 1), (2986355.female.23.txt, 1)}
+4294640.male.15.txt	4294640.male.15.txt	Yes	54	{(3347518.male.17.txt, 6), (2510334.male.17.txt, 5), (3196262.male.13.txt, 3), (2648549.female.23.txt, 1), (3016212.female.35.txt, 1)}
+4298179.male.13.txt	4163734.male.14.txt	No	36	{(3683969.male.17.txt, 20), (3809483.female.17.txt, 5), (3368072.female.23.txt, 1), (3408761.female.23.txt, 1), (3869898.female.17.txt, 1)}
+4301895.female.15.txt	4301895.female.15.txt	Yes	96	{(3537787.female.16.txt, 1), (3744255.male.25.txt, 1), (3990766.female.16.txt, 1), (4160427.female.14.txt, 1)}
+4334761.female.13.txt	4334761.female.13.txt	Yes	47	{(1185193.female.17.txt, 13), (1028027.female.16.txt, 4), (1470319.female.26.txt, 4), (1934543.female.17.txt, 4), (1345466.female.24.txt, 1)}
+477665.female.25.txt	579034.female.17.txt	No	18	{(1612063.female.24.txt, 3), (1231733.female.24.txt, 2), (1405870.female.26.txt, 1), (1709540.female.25.txt, 1), (2169579.female.24.txt, 1)}
+477787.male.25.txt	3726764.male.47.txt	No	20	{(1274171.male.36.txt, 10), (2839532.male.17.txt, 6), (2879658.female.23.txt, 2), (1970542.female.24.txt, 1), (2512687.female.16.txt, 1)}
+495541.male.17.txt	3696390.male.17.txt	No	20	{(1185193.female.17.txt, 3), (1008329.female.16.txt, 2), (2287879.female.25.txt, 1), (232317.female.25.txt, 1), (2340073.female.16.txt, 1)}
+511641.male.39.txt	511641.male.39.txt	Yes	71	{(3375813.male.34.txt, 24), (2293441.male.25.txt, 2), (3767607.male.40.txt, 2), (320317.male.36.txt, 1)}
+546545.female.34.txt	2870581.male.17.txt	No	19	{(3057452.male.25.txt, 4), (1159057.male.25.txt, 2), (2759824.male.33.txt, 2), (1667602.female.37.txt, 1), (2205026.female.26.txt, 1)}
+574985.male.43.txt	574985.male.43.txt	Yes	96	{(3128960.male.27.txt, 2), (1598918.male.27.txt, 1), (322194.male.27.txt, 1)}
+579034.female.17.txt	579034.female.17.txt	Yes	54	{(1601416.female.36.txt, 17), (1934543.female.17.txt, 3), (1932521.female.16.txt, 2), (2205026.female.26.txt, 2), (1845692.male.14.txt, 1)}
+640484.female.27.txt	4062762.male.27.txt	No	18	{(3335650.male.15.txt, 3), (3292690.female.15.txt, 1), (3364640.female.26.txt, 1), (3482303.female.33.txt, 1), (3571306.female.15.txt, 1)}
+644059.female.25.txt	3433207.female.23.txt	No	20	{(1405766.male.24.txt, 2), (1756819.female.23.txt, 2), (1562200.female.23.txt, 1), (3143116.male.25.txt, 1), (3186585.male.24.txt, 1)}
+655250.female.24.txt	3851642.male.14.txt	No	21	{(1598918.male.27.txt, 7), (1478602.male.23.txt, 6), (1667602.female.37.txt, 5), (1162051.female.23.txt, 1), (1596060.male.27.txt, 1)}
+658958.male.24.txt	3434889.female.23.txt	No	15	{(1185193.female.17.txt, 5), (1504395.female.27.txt, 4), (1159057.male.25.txt, 2), (1667602.female.37.txt, 2), (1601416.female.36.txt, 1)}
+662223.female.25.txt	662223.female.25.txt	Yes	29	{(2772378.female.45.txt, 2), (2461522.male.25.txt, 1), (2462546.female.26.txt, 1), (3338490.female.34.txt, 1), (3364640.female.26.txt, 1)}
+674684.female.23.txt	3852248.male.15.txt	No	33	{(1561856.male.27.txt, 7), (2325994.male.27.txt, 5), (2161435.male.16.txt, 2), (1509245.female.16.txt, 1), (1516660.male.17.txt, 1)}
+698314.female.17.txt	3931735.female.23.txt	No	63	{(3938917.female.14.txt, 26), (3750238.female.26.txt, 3), (3930829.female.23.txt, 3), (293982.female.23.txt, 1), (3956468.female.15.txt, 1)}
+701683.male.26.txt	701683.male.26.txt	Yes	40	{(2173808.male.41.txt, 2), (3476842.male.24.txt, 2), (2630438.female.27.txt, 1), (3405780.male.24.txt, 1), (3527397.male.46.txt, 1)}
+713224.male.16.txt	3541261.male.15.txt	No	14	{(3299377.male.25.txt, 5), (1835380.female.16.txt, 3), (1159057.male.25.txt, 2), (2525415.female.33.txt, 1), (2526090.male.35.txt, 1)}
+714252.male.25.txt	1306985.female.26.txt	No	30	{(3343256.male.23.txt, 25), (2988161.female.37.txt, 21), (1159057.male.25.txt, 1), (1185193.female.17.txt, 1), (3366803.male.24.txt, 1)}
+72355.male.27.txt	4006405.male.26.txt	No	18	{(1159057.male.25.txt, 5), (1193364.female.16.txt, 2), (1612063.female.24.txt, 1), (1667602.female.37.txt, 1), (1721569.female.24.txt, 1)}
+726975.female.23.txt	726975.female.23.txt	Yes	80	{(232317.female.25.txt, 7), (1052611.male.23.txt, 1), (1306985.female.26.txt, 1), (1405870.female.26.txt, 1), (1516660.male.17.txt, 1)}
+743739.male.24.txt	743739.male.24.txt	Yes	48	{(1626309.male.14.txt, 2), (1935715.male.25.txt, 2), (1274171.male.36.txt, 1), (1651174.male.24.txt, 1), (1943565.male.33.txt, 1)}
+769349.male.34.txt	769349.male.34.txt	Yes	100	{}
+780903.male.25.txt	3962045.male.42.txt	No	23	{(1280497.male.26.txt, 1), (1596060.male.27.txt, 1), (2610055.female.25.txt, 1), (2996701.female.40.txt, 1), (3179008.male.35.txt, 1)}
+794491.male.23.txt	794491.male.23.txt	Yes	98	{(3346538.male.35.txt, 1), (3575937.male.23.txt, 1)}
+814486.male.26.txt	3742816.female.23.txt	No	36	{(232317.female.25.txt, 21), (1380515.male.40.txt, 5), (3308201.male.26.txt, 4), (1596060.male.27.txt, 1), (3308024.female.24.txt, 1)}
+8173.male.42.txt	4068871.male.33.txt	No	41	{(2293441.male.25.txt, 8), (3340219.male.45.txt, 5), (2058521.male.35.txt, 4), (3320363.male.46.txt, 4), (1478602.male.23.txt, 2)}
+853190.female.35.txt	3425335.female.37.txt	No	27	{(3727051.female.37.txt, 19), (3409476.female.36.txt, 6), (3518225.female.24.txt, 2), (3725589.female.23.txt, 1), (3819418.female.24.txt, 1)}
+85757.male.24.txt	3690882.female.25.txt	No	61	{(2157212.male.23.txt, 2), (3143116.male.25.txt, 2), (3529454.male.25.txt, 2), (1405870.female.26.txt, 1), (3299768.male.33.txt, 1)}
+873288.female.23.txt	873288.female.23.txt	Yes	60	{(2217559.female.24.txt, 7), (1756819.female.23.txt, 2), (1380515.male.40.txt, 1), (1626309.male.14.txt, 1), (2772378.female.45.txt, 1)}
+877254.female.27.txt	877254.female.27.txt	Yes	67	{(4030244.female.27.txt, 29), (2257718.female.26.txt, 1), (2839210.male.23.txt, 1), (3718323.male.25.txt, 1), (4036407.female.25.txt, 1)}
+883838.female.48.txt	3056802.male.24.txt	No	28	{(3071102.female.33.txt, 2), (3179370.male.35.txt, 2), (1162051.female.23.txt, 1), (2648549.female.23.txt, 1), (3233812.female.24.txt, 1)}
+887044.female.23.txt	887044.female.23.txt	Yes	100	{}
+890034.female.23.txt	3482303.female.33.txt	No	15	{(1028027.female.16.txt, 8), (1934543.female.17.txt, 5), (1274171.male.36.txt, 2), (1008329.female.16.txt, 1), (1971242.female.23.txt, 1)}
+906582.female.25.txt	3378253.male.24.txt	No	24	{(1159057.male.25.txt, 3), (232317.female.25.txt, 2), (1415200.female.15.txt, 1), (1976124.male.25.txt, 1), (2929974.female.36.txt, 1)}
+913315.male.25.txt	913315.male.25.txt	Yes	97	{(3906484.female.27.txt, 2), (3526571.male.23.txt, 1)}
+918312.female.27.txt	3612176.female.26.txt	No	17	{(1649144.male.17.txt, 15), (3452539.female.16.txt, 2), (1601416.female.36.txt, 1), (1936095.female.33.txt, 1), (3450307.male.24.txt, 1)}
+96600.female.27.txt	3931735.female.23.txt	No	63	{(3877496.female.41.txt, 24), (3828356.female.26.txt, 5), (2686258.male.27.txt, 1), (3450307.male.24.txt, 1), (3612176.female.26.txt, 1)}
+980769.male.25.txt	980769.male.25.txt	Yes	100	{}
+983609.male.24.txt	2879658.female.23.txt	No	33	{(2960855.male.26.txt, 13), (1380515.male.40.txt, 4), (2287879.female.25.txt, 4), (2094786.female.43.txt, 2), (3128960.male.27.txt, 2)}
+992078.male.17.txt	3620911.male.23.txt	No	53	{(3906484.female.27.txt, 4), (3593157.male.17.txt, 3), (3658948.female.24.txt, 3), (2173808.male.41.txt, 1), (3793386.male.37.txt, 1)}
+99382.male.25.txt	2058521.male.35.txt	No	66	{(3312354.male.27.txt, 4), (3208819.male.23.txt, 1), (3335299.female.24.txt, 1), (3690882.female.25.txt, 1), (3767607.male.40.txt, 1)}
+994348.female.27.txt	3416968.male.25.txt	No	38	{(1274171.male.36.txt, 7), (1159057.male.25.txt, 4), (1970542.female.24.txt, 3), (2069366.female.25.txt, 3), (2512687.female.16.txt, 1)}
+997488.male.25.txt	3573373.male.17.txt	No	23	{(2304201.male.17.txt, 7), (1657422.female.24.txt, 5), (2169579.female.24.txt, 3), (1970542.female.24.txt, 2), (2414493.female.16.txt, 2)}

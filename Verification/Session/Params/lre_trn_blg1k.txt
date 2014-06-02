@@ -1,0 +1,3 @@
+TrainFolder	TestSets\ManyCandidates\<SMPL>\
+TrainScriptFile	train_script.txt
+TrainSubFolders	Anonym\Text,Author\Text

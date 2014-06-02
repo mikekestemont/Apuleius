@@ -1,0 +1,8 @@
+set SMPL_VAL=%1
+set CNG_VAL=%2
+set DESC_VAL=%3
+
+release\bin\Thesis Session\Params\Params.txt FeaturesExtraction SMPL=%SMPL_VAL% CNG=%CNG_VAL% DESC=%DESC_VAL%
+release\bin\Thesis Session\Params\Params.txt TextToFeatures SMPL=%SMPL_VAL% CNG=%CNG_VAL% DESC=%DESC_VAL%
+release\bin\Thesis Session\Params\Params.txt LRE SMPL=%SMPL_VAL% CNG=%CNG_VAL% DESC=%DESC_VAL%
+release\bin\Thesis Session\Params\Params.txt LRESummary SMPL=%SMPL_VAL% CNG=%CNG_VAL% DESC=%DESC_VAL%

@@ -1,0 +1,16 @@
+DecoyFile	Texas_decoys.txt
+DecoyFolder	TexasDecoy
+DecoysType	PlainSimilarity
+FeatureDocsFloor	2
+FeatureSetFile	TexasPool.txt
+FeatureSetSize	315000
+GenreName	<GNR>
+MaxRawSimRange	-7.0
+MinFreqToDocsDiff	0
+MinRawSimRange	-15.0
+SameAuthorPairs	same_authors.txt
+SamplesList	Begin,End,TexasDecoy
+ScriptsList	begin_snips.txt,end_snips.txt,Texas_decoys.txt
+SimilarDecoyFolder	SelDcyTexas<CLSTP>
+StartNameIndex	4
+

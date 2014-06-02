@@ -1,0 +1,15 @@
+CloneScoreThreshold	0.<CST>
+DecoyFile	decoy_pool.txt
+DecoyFolder	PairDecoy
+DecoysType	WebDecoys
+FeatureDocsFloor	0
+FeatureSetFile	WebFtrsPool.txt
+FeatureSetSize	315000
+FilteredClones	clones_free.txt
+MinFreqToDocsDiff	0
+PrefixCodeBegin	000_begin_
+PrefixCodeEnd	000_end_
+SamplesList	Begin,End
+ScriptsList	begin.txt,end.txt
+SimilarDecoyFolder	SelDecoy
+StartNameIndex	0

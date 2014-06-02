@@ -1,0 +1,11 @@
+Debug_Log	C:\Yaron\Authorship\Session\Logs\debug.txt
+Lengths	C:\Yaron\Authorship\Corpus\Apulieus\PhaseIV\lengths.txt
+LogsFolder	C:\Yaron\Authorship\Session\Logs\res_pairs_ref_<SMPL>_
+MaxSnippetsPerText	<MSPT>
+NameKeyLength	5
+OriginalTexts	C:\Yaron\Authorship\Corpus\Apulieus\PhaseIV\RawTexts\
+SampleFolder	C:\Yaron\Authorship\Corpus\Apulieus\IR\<SNIPLEN>\<ARTICLE>\
+SnippetLength	<SNIPLEN>
+SnippetsFolder	C:\Yaron\Authorship\Corpus\Apulieus\PhaseIV\Snippets_<SNIPLEN>_<TYPE>\
+WriterIdLength	5
+WriterRecognzerLen	5

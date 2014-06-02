@@ -1,4 +1,4 @@
 Apuleius
 ========
 
-Code and materials for Apuleius paper
+This repository holds the code and text materials necessary to replicate the experiments reported in the paper "Computational Text Analysis Reveals New Text by Ancient Author" (by J. A. Stover, Y. Winter, M. Koppel & M. Kestemont). This paper is currently under review. Under the directory Texts are listed the text materials for (a) the BCT visualisation and (b) the verification experiment. The set of texts exclude a small number number of files which are proprietary data owned by Brepols publishes (Library of Latin Texts), but these are non-essential to the replication of our main research results. The C++ code under the verification directory has been written by Yaron Winter (yaron.winter@gmail.com) for the specific purpose of this paper. This directory contains a README that will useful to future users of the code.

@@ -1,0 +1,4 @@
+TrainFolder	/home/yaronw/MSc/Thesis/Corpora/Blogs/SIG/Texas/Raw/
+TrainScriptFile	train_script.txt
+TrainSubFolders	CHL,PRS,TAT,SOC
+
